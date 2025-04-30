@@ -56,7 +56,7 @@ Execute the compiled binary (or use `cargo run` directly):
 cargo run --release
 
 # Or direct binary
-./target/release/queens-gambit-fen-converter
+./target/release/destiny2-2025-community-puzzle-tjil-to-fen
 ```
 
 This will:
