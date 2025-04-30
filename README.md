@@ -15,6 +15,20 @@ A simple Rust CLI tool that:
 
 ---
 
+## FOR PUZZLE SOLVERS
+
+**sorted data is under [outputs](/output)**
+
+
+go to the [arg website](https://www.aion-archives.net/admin) and enter the sequence code in the format of ####
+for example 
+
+``` 2 -> 0092 ```
+
+``` 854 -> 0854 ```
+
+Copy the associated string after they sequence code and hit paste on the website!
+
 ## Getting Started
 
 1. **Clone the repository**
