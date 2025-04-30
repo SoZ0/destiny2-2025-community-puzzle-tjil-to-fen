@@ -22,16 +22,23 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         .json()
         .await?;
 
-    let mut out = HashMap::new();
-    for (id, e) in data {
-        let fen = symbols_to_fen(&e.symbols);
-        out.insert(id, OutputEntry { sequence: e.sequence, notation: fen });
+    let mut by_uuid: HashMap<String, OutputEntry> = HashMap::new();
+    let mut by_sequence: HashMap<u64, String>     = HashMap::new();
+
+    for (uuid, entry) in data {
+        let fen = symbols_to_fen(&entry.symbols);
+        by_uuid.insert(uuid, OutputEntry { sequence: entry.sequence, notation: fen.clone() });
+        by_sequence.insert(entry.sequence, fen);
     }
 
-    let json = serde_json::to_string_pretty(&out)?;
-    fs::write("output.json", json).await?;
+    fs::write("output.json", serde_json::to_string_pretty(&by_uuid)?).await?;
+    fs::write("sequence_map.json", serde_json::to_string_pretty(&by_sequence)?).await?;
 
-    println!("Wrote {} entries to output.json", out.len());
+    println!(
+        "Wrote {} entries to output.json and {} to sequence_map.json",
+        by_uuid.len(),
+        by_sequence.len()
+    );
     Ok(())
 }
 
