@@ -1,0 +1,38 @@
+name: Generate and Commit FEN Outputs
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Set up Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+          override: true
+
+      - name: Build and run generator
+        run: cargo run --release
+
+      - name: Commit generated output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update generated FEN outputs"
+            git push
+          else
+            echo "No changes in output/, skipping commit"
+          fi
