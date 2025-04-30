@@ -33,6 +33,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let mut dark_red     = HashMap::<u64, String>::new();
     let mut light_red    = HashMap::<u64, String>::new();
     let mut rook_edge     = HashMap::<u64, String>::new();
+    let mut center_map    = HashMap::<String, HashMap<u64, String>>::new();
 
     for (uuid, entry) in data {
         let fen = symbols_to_fen(&entry.symbols);
@@ -53,7 +54,22 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         let right_edge  = (0..8).all(|r| entry.symbols[r][7].as_deref() == Some("Rw"));
 
         if top_edge || bottom_edge || left_edge || right_edge {
-            rook_edge.insert(entry.sequence, fen);
+            rook_edge.insert(entry.sequence, fen.clone());
+        }
+
+        let c33 = entry.symbols[3][3].as_ref();
+        let c34 = entry.symbols[3][4].as_ref();
+        let c43 = entry.symbols[4][3].as_ref();
+        let c44 = entry.symbols[4][4].as_ref();
+        if let (Some(p0), Some(p1), Some(p2), Some(p3))
+            = (c33, c34, c43, c44)
+        {
+            if p0 == p1 && p1 == p2 && p2 == p3 {
+                center_map
+                    .entry(p0.clone())
+                    .or_default()
+                    .insert(entry.sequence, fen.clone());
+            }
         }
     }
 
@@ -71,7 +87,12 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     fs::write("output/reds.json",          serde_json::to_string_pretty(&reds)?).await?;
     fs::write("output/grays.json",         serde_json::to_string_pretty(&grays)?).await?;
     fs::write("output/rook_edge.json",     serde_json::to_string_pretty(&rook_edge)?).await?;
-    
+
+    for (piece, map) in center_map {
+        let filename = format!("output/center_{}.json", piece);
+        fs::write(&filename, serde_json::to_string_pretty(&map)?).await?;
+    }
+
     println!("All files written into ./output/");
 
     Ok(())
