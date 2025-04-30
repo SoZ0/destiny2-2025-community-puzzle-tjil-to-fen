@@ -32,6 +32,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let mut light_gray   = HashMap::<u64, String>::new();
     let mut dark_red     = HashMap::<u64, String>::new();
     let mut light_red    = HashMap::<u64, String>::new();
+    let mut rook_edge     = HashMap::<u64, String>::new();
 
     for (uuid, entry) in data {
         let fen = symbols_to_fen(&entry.symbols);
@@ -39,11 +40,20 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         by_sequence.insert(entry.sequence, fen.clone());
 
         match entry.fill.as_str() {
-            "darkGray"  => { dark_gray.insert(entry.sequence, fen); }
-            "lightGray" => { light_gray.insert(entry.sequence, fen); }
-            "darkRed"   => { dark_red.insert(entry.sequence, fen); }
-            "lightRed"  => { light_red.insert(entry.sequence, fen); }
+            "darkGray"  => { dark_gray.insert(entry.sequence, fen.clone()); }
+            "lightGray" => { light_gray.insert(entry.sequence, fen.clone()); }
+            "darkRed"   => { dark_red.insert(entry.sequence, fen.clone()); }
+            "lightRed"  => { light_red.insert(entry.sequence, fen.clone()); }
             _ => {}
+        }
+
+        let top_edge    = entry.symbols[0].iter().all(|sq| sq.as_deref() == Some("Rw"));
+        let bottom_edge = entry.symbols[7].iter().all(|sq| sq.as_deref() == Some("Rw"));
+        let left_edge   = (0..8).all(|r| entry.symbols[r][0].as_deref() == Some("Rw"));
+        let right_edge  = (0..8).all(|r| entry.symbols[r][7].as_deref() == Some("Rw"));
+
+        if top_edge || bottom_edge || left_edge || right_edge {
+            rook_edge.insert(entry.sequence, fen);
         }
     }
 
@@ -60,7 +70,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     fs::write("output/lightRed.json",      serde_json::to_string_pretty(&light_red)?).await?;
     fs::write("output/reds.json",          serde_json::to_string_pretty(&reds)?).await?;
     fs::write("output/grays.json",         serde_json::to_string_pretty(&grays)?).await?;
-
+    fs::write("output/rook_edge.json",     serde_json::to_string_pretty(&rook_edge)?).await?;
+    
     println!("All files written into ./output/");
 
     Ok(())
