@@ -1,0 +1,4290 @@
+{
+  "15fc28654ea71cba72a1bd83d4aa5e46": {
+    "sequence": 3669,
+    "notation": "knRkQNrb/k6R/p6n/N6Q/b6k/K6p/P6N/RRRRRRRR"
+  },
+  "13ddf23d03af76a6298c9d802bddcd0e": {
+    "sequence": 3193,
+    "notation": "qbNPQBrB/q6B/N6q/R2PP2P/K2PP2r/Q6b/n6Q/PpqbRkQr"
+  },
+  "258df919633d4d7a0beb8d869b19e346": {
+    "sequence": 3759,
+    "notation": "RNpkBnPb/Q6k/b6Q/r6n/P6R/q6K/B6q/KbNpkBnQ"
+  },
+  "2e2d1e0ee0688d6b997a5bdbc190caee": {
+    "sequence": 707,
+    "notation": "krNQkRnP/q6q/B6N/r2bb2r/P2bb2k/Q6Q/n6n/KKRNqkrq"
+  },
+  "3cefced9cd9faf5c2fca0544802ce74b": {
+    "sequence": 2356,
+    "notation": "KbKpNBqr/P6b/r6R/b2nn2P/Q2nn2Q/p6B/R6r/BBkpNbKK"
+  },
+  "7dd55e5cecf35c2d2b161d1717655193": {
+    "sequence": 269,
+    "notation": "NpRBqPrk/r6R/P6p/Q6Q/b6b/R6r/p6P/ppNbKPnN"
+  },
+  "1c5d5dfe93763c27692655797d88a3dd": {
+    "sequence": 3856,
+    "notation": "KNbQPnBp/R6n/p6B/q6k/B6p/r6N/k6q/QbRpqBnK"
+  },
+  "7186fee4947c5b459371a9629ca787e0": {
+    "sequence": 1660,
+    "notation": "qRKQnrkQ/N6R/b6b/k6Q/p6P/n6r/Q6B/NRpQnrPk"
+  },
+  "881a2b0488ac3a3cde001aaf79ac2e34": {
+    "sequence": 821,
+    "notation": "BnRkBNrK/K6p/q6k/N6b/r6N/k6P/Q6K/NNpKbnPk"
+  },
+  "54bb26ff20203523ac6c557e9b956196": {
+    "sequence": 2693,
+    "notation": "npRbQPrb/N6N/b6b/k2NN2K/r2NN2P/n6n/B6Q/NnBKPNbR"
+  },
+  "ea32f3c63eabf0a3ea2bd0f7c1596324": {
+    "sequence": 2882,
+    "notation": "NqBRpQbb/n6b/R6N/k2pp2P/Q2pp2K/N6B/r6n/BbQPrBkB"
+  },
+  "a5d2e608692b94e3393106881e5d964f": {
+    "sequence": 3201,
+    "notation": "KRbqprBQ/n6B/Q6n/k6p/r6k/N6b/q6N/BnQKRNbN"
+  },
+  "057477649b41e3a1e63f489cbe8fb10e": {
+    "sequence": 3061,
+    "notation": "RnPkBNpK/q6r/B6N/R2NN2q/p2NN2K/Q6P/b6n/bRbqprBb"
+  },
+  "45b1edd44bc6512bd80ee74f549fde52": {
+    "sequence": 191,
+    "notation": "QrNQkPnr/r6K/B6b/q6n/p6P/R6k/b6B/RkpnBKPq"
+  },
+  "57299c3ce3816729a519992a448c4ec2": {
+    "sequence": 3110,
+    "notation": "QkBNpKbN/p6R/q6b/B2bb2Q/n2bb2P/P6r/Q6B/kqNrkQnB"
+  },
+  "15aa59622a90f162b92fbf704c94d7d8": {
+    "sequence": 140,
+    "notation": "qKbrPqBp/P6P/n6r/B2nn2B/k2nn2q/p6p/N6R/PRKqNrkK"
+  },
+  "602834d2ad65b452c9e820cac200efc0": {
+    "sequence": 1870,
+    "notation": "BNrkQnRb/k6k/Q6p/n6N/R6b/K6K/q6R/pqBRpKbN"
+  },
+  "a0a02a3d2fad303123f58ae85e336b4a": {
+    "sequence": 1624,
+    "notation": "NBkPnbKb/Q6Q/n6n/R2kk2r/K2kk2k/q6q/N6N/PqBnPQbk"
+  },
+  "2c7fae20b07e6f6e1699a5481f893f53": {
+    "sequence": 2604,
+    "notation": "RpqBrPQn/R6Q/R6b/R2pp2r/R2pp2P/R6q/R6B/RBqpRbQq"
+  },
+  "8f5224ab1288b1277ad8ef3939dd7767": {
+    "sequence": 2893,
+    "notation": "rpkBnPKr/b6n/R6B/p2NN2k/q2NN2p/B6N/r6q/BpNbKPnq"
+  },
+  "f55db3c7bbd6899fe0611371921bfec5": {
+    "sequence": 3267,
+    "notation": "NpkBnPKn/N6N/p6b/K2pp2k/b2pp2p/n6n/P6B/kNbkpnBB"
+  },
+  "cc32e8146501114cf593cb406452acd9": {
+    "sequence": 239,
+    "notation": "PrNbKRnr/b6B/R6r/p6p/q6q/B6b/r6N/pPnBkpNk"
+  },
+  "5aba140fcd0b73c455a8866cb54d05b6": {
+    "sequence": 2333,
+    "notation": "pnQKRNqb/K6p/P6R/N2kk2B/b2kk2q/k6P/p6r/pqNRKQnP"
+  },
+  "6bdd44076ded04c83b5e45bb1e32a424": {
+    "sequence": 3074,
+    "notation": "NQkRnqKN/r6b/P6N/Q6p/b6k/R6B/p6n/RKRNqkrq"
+  },
+  "b60cf9377af0c903e05cf62e37a2e6cf": {
+    "sequence": 1126,
+    "notation": "BnBKPNbR/N6P/r6K/k2pp2B/Q2pp2n/n6p/P6q/KKRNqPrp"
+  },
+  "8737ed09a060f2656a01e84da538f330": {
+    "sequence": 580,
+    "notation": "BkpnBKPb/n6b/Q6R/K6P/R6Q/N6B/b6r/QBqPrbQk"
+  },
+  "112f44d0426f8e1ffd60aa3443439940": {
+    "sequence": 411,
+    "notation": "rPKBnpkQ/N6r/b6P/K2pp2q/P2pp2B/n6R/B6p/rkpnBKPb"
+  },
+  "e06164527156b9c4cd1ce3af8d02c114": {
+    "sequence": 2345,
+    "notation": "knQkrNqq/p6B/R6q/n2NN2P/Q2NN2r/k6b/r6Q/qBnPKbNP"
+  },
+  "41897e56ebd2bb13d6d97521744989b3": {
+    "sequence": 397,
+    "notation": "PqKRnQkR/Q6Q/n6b/r6r/k6P/q6q/N6B/KNrkQnRK"
+  },
+  "4033893d57d085ed9009111c2fb781c1": {
+    "sequence": 2523,
+    "notation": "QnRkQNrR/n6b/B6R/K2pp2P/P2pp2Q/N6B/b6r/RRpQbrPK"
+  },
+  "d39f7802dfc11c6a59fd9203d92d3d48": {
+    "sequence": 2180,
+    "notation": "qnPKbNpb/p6n/N6B/Q2nn2k/k2nn2p/R6R/n6b/BRnBkpNK"
+  },
+  "0db35de764f9f6753086ca78c58ee898": {
+    "sequence": 445,
+    "notation": "RQnrkqNR/n6P/P6Q/k6B/B6r/N6p/p6q/rBkpNbKq"
+  },
+  "82a4fc7396b2e54604965d6a85b9ab90": {
+    "sequence": 2333,
+    "notation": "pnQKRNqb/K6p/P6R/N2kk2B/b2kk2q/k6P/p6r/pqNRKQnP"
+  },
+  "c1cd18f2661b78911863d7d0660fdd4d": {
+    "sequence": 579,
+    "notation": "PqprBQPN/B6B/q6n/P2BB2p/r2BB2k/b6b/Q6N/NrBQPRbN"
+  },
+  "1ffea74b21858eb56c5db4f91ff1be79": {
+    "sequence": 3962,
+    "notation": "KRnqKrNk/P6N/Q6r/B6P/r6Q/p6b/q6R/bpqbRPQB"
+  },
+  "67228f6da22c0cd0fe8bec7be7b2c7c8": {
+    "sequence": 3827,
+    "notation": "rqBRpQbn/b6q/N6K/p6r/k6N/B6B/r6k/bqKPnQkB"
+  },
+  "365121bf5ad080b0f6bac4bbffb704e5": {
+    "sequence": 2640,
+    "notation": "KbRpqBrQ/Q6Q/b6b/r6r/P6P/q6k/B6B/RrPQbRpQ"
+  },
+  "5fd1c0c0fc96e8281bfbd75141ae680a": {
+    "sequence": 3784,
+    "notation": "RPnbKpNr/k6k/B6p/N6n/p6B/K6K/b6P/rNbkrnBb"
+  },
+  "faf1a6827b3773e35d062fc22b0cbd17": {
+    "sequence": 3169,
+    "notation": "PNrKqnRK/r6b/k6Q/Q2bb2P/n2bb2r/R6B/K6q/KBkpNbKb"
+  },
+  "e0ef2a4784ec22af69cf74741c278d87": {
+    "sequence": 3432,
+    "notation": "QbNpkQnp/n6r/R6k/k2pp2q/Q2pp2N/N6R/r6K/RNqkrnQn"
+  },
+  "4bdd33c7e06a2d15897c815468123e34": {
+    "sequence": 1451,
+    "notation": "BrBqpRbQ/n6b/R6R/k2BB2P/Q2BB2Q/N6N/r6r/qRpQbrPq"
+  },
+  "2979f75ddd1dc4deb6ffefb540b22369": {
+    "sequence": 1827,
+    "notation": "bQkRnqKR/k6R/Q6R/N2kk2R/r2kk2R/K6R/q6R/kpNbKPnR"
+  },
+  "2c649d2a73b197f83543469d046f71d8": {
+    "sequence": 1677,
+    "notation": "PBrPQnRP/K6R/R6b/N2PP2Q/q2PP2P/k6r/r6B/nnBkpNbN"
+  },
+  "09393deef70bcd30646bb187f51355f5": {
+    "sequence": 2073,
+    "notation": "bbNpqBrr/p6b/q6R/B2nn2p/r2nn2q/P6B/Q6r/NRnqKrNB"
+  },
+  "9b1a36e1e04427fd1411960c40259b1f": {
+    "sequence": 135,
+    "notation": "krNQkRnb/K6p/b6R/N6B/p6q/k6P/B6r/nRpQbrPQ"
+  },
+  "e33e5d9652dd2bacadb75aa1ec4a2024": {
+    "sequence": 880,
+    "notation": "BnQKRNqq/r6q/k6N/Q6r/n6k/R6Q/K6n/BKPnBkpB"
+  },
+  "494be1232665f19fee33a855d4f38a15": {
+    "sequence": 862,
+    "notation": "NNbkpnQk/b6N/K6p/p2QQ2k/N2QQ2B/B6n/q6P/nqNrkQnB"
+  },
+  "4f8631992efed53269927ae28277c004": {
+    "sequence": 3394,
+    "notation": "RNrKqnRn/b6b/N6N/p2bb2p/k2bb2k/B6B/n6n/QqprBQPN"
+  },
+  "e5a2cd915f36ddb5144d45aab5f83aab": {
+    "sequence": 2911,
+    "notation": "nPKqNpkb/n6n/P6R/k2BB2k/B2BB2Q/N6N/p6r/bbQPrBqK"
+  },
+  "1f1d42922c457d1ec9cae74f85009b1f": {
+    "sequence": 3856,
+    "notation": "KNbQPnBp/R6n/p6B/q6k/B6p/r6N/k6q/QbRpqBnK"
+  },
+  "a06371e91a589f462a06e95d5109a2b0": {
+    "sequence": 291,
+    "notation": "RRRRRRRR/r6B/P6k/Q6P/b6n/R6b/p6K/KrkQnRKN"
+  },
+  "23d42eb3acfb4e09bf29983db07d87d4": {
+    "sequence": 564,
+    "notation": "qKPnBkpb/Q6b/k6K/R2nn2p/n2nn2N/q6B/K6k/KPnbKpNK"
+  },
+  "904d3562eef9906a1db3daf22b08235b": {
+    "sequence": 2416,
+    "notation": "RRnqKrBq/B6R/r6K/P2NN2q/Q2NN2N/b6r/R6k/RQbRpqNK"
+  },
+  "a99489aaf17636feb6f6ae38750bd0de": {
+    "sequence": 2347,
+    "notation": "PRbqprNp/k6P/B6K/n6B/P6r/K6p/b6q/RrBqKRbB"
+  },
+  "7ecca30f2d4cad5e79cd1cf013f2fdf7": {
+    "sequence": 1040,
+    "notation": "NqKrNQkk/Q6Q/P6k/r2rr2r/B2rr2N/q6q/p6K/rbKPnBkP"
+  },
+  "a199e36318ff3a07333c4a4c2253564e": {
+    "sequence": 34,
+    "notation": "PpkQnRKB/Q6P/P6r/r6b/B6Q/q6p/p6R/pbNpkBnn"
+  },
+  "90e2c4a141b39c1ee344ad560a7ce2ba": {
+    "sequence": 1721,
+    "notation": "KnBkpNbq/p6k/R6B/B2nn2N/q2nn2p/P6K/r6b/pRpqBrkP"
+  },
+  "2ef8e86f2e33225e484742bf3af9f6cc": {
+    "sequence": 983,
+    "notation": "rQkRnqKK/p6P/R6K/b2nn2B/Q2nn2n/P6p/r6k/NBnpkbNk"
+  },
+  "3747d1d739d2b83e4e7a54e2ba4f613d": {
+    "sequence": 3195,
+    "notation": "KBkpNqKk/B6r/q6N/P6q/r6K/b6R/Q6n/PpqBrPQR"
+  },
+  "e10e9b3b6466a42d53d6fbfbca7edbc5": {
+    "sequence": 978,
+    "notation": "rqNrkQnR/q6Q/p6P/R6R/b6b/Q6q/P6K/BkBnPKbB"
+  },
+  "566d0c421a115ffdc5e67e1a9f8c0cee": {
+    "sequence": 2464,
+    "notation": "NkpRbQPp/r6Q/P6k/q6r/B6N/R6q/p6K/bpRBqPrQ"
+  },
+  "13c24197e05fce0afbdf3f424b4558dd": {
+    "sequence": 3000,
+    "notation": "NbRpkBrQ/b6B/N6r/r6P/k6Q/B6b/n6R/BKqnRkQB"
+  },
+  "02a0d23351ca9373dd26c0b43c745fee": {
+    "sequence": 381,
+    "notation": "RRRRRRRR/b6P/Q6K/P6b/r6N/B6r/q6k/rBnpkbNP"
+  },
+  "3e50cd3bba0b493354691608ff90997f": {
+    "sequence": 2754,
+    "notation": "KQPrBkpK/Q6b/b6Q/r2bb2P/P2bb2r/q6B/B6q/qPKbNpkK"
+  },
+  "c478332049e881d139736ef85697a42f": {
+    "sequence": 1087,
+    "notation": "KnBKPNbR/r6p/k6R/q6B/N6q/R6P/K6n/rPQbRpqB"
+  },
+  "f7066839fe014b14de2930865bf45e68": {
+    "sequence": 1521,
+    "notation": "RQbrPqNn/p6Q/k6k/b6r/N6N/P6q/K6K/KkBNpKqB"
+  },
+  "a4450dd6e41394ab373a828a44ff38b4": {
+    "sequence": 1110,
+    "notation": "nkpnBKPq/p6b/R6R/B2pp2P/q2pp2Q/P6B/r6r/NkrnQKRP"
+  },
+  "def0af42691abccafb45850abede8e9d": {
+    "sequence": 3703,
+    "notation": "RPKbNpkN/N6B/r6q/k6P/Q6r/n6b/P6Q/NqBRpQbb"
+  },
+  "75f1d3deb50e0bdb3142b7a6117a4008": {
+    "sequence": 678,
+    "notation": "RbRPQBrR/K6r/q6B/n2nn2q/R2nn2p/k6R/Q6b/KrNqKRnB"
+  },
+  "eec03aea56aeaa52a79ba5bf5382c3a6": {
+    "sequence": 419,
+    "notation": "RRRRRRRR/K6B/q6q/N6P/r6r/P6b/Q6Q/KNrKbnRq"
+  },
+  "4d19af9e9dbdc9dd6bb1ada6719ee25c": {
+    "sequence": 267,
+    "notation": "NbQpRBqp/B6Q/n6n/p2PP2r/k2PP2k/b6q/N6N/RBqPrbQB"
+  },
+  "20c5b8f49ba8a38a4727b2562896b50c": {
+    "sequence": 361,
+    "notation": "bbNpkBnn/p6n/R6B/B6k/q6p/P6N/r6b/BbKPnQkr"
+  },
+  "960b9c91cd58433bcfcfa6213d64a887": {
+    "sequence": 69,
+    "notation": "BnPkBNpB/N6n/p6Q/k2NN2K/B2NN2R/n6N/P6q/NbRkQNrn"
+  },
+  "ff98d6cf146fde45abbf429e6ce056e4": {
+    "sequence": 974,
+    "notation": "rrPQbRpb/Q6r/k6P/R2RR2q/n2RR2B/q6R/p6p/pqNrkQnN"
+  },
+  "75d1025dcfc6b439c2ae37e0c3a23bf5": {
+    "sequence": 166,
+    "notation": "nBkRnbKR/Q6k/P6B/r2rr2N/B2rr2p/q6K/p6b/NbRpqBrr"
+  },
+  "4dc58916fc3a3e01d7895cb2380a8a93": {
+    "sequence": 1028,
+    "notation": "bNpkBnPP/n6K/B6R/K6n/P6Q/N6k/b6r/PRpqBrPn"
+  },
+  "2192548a615e75377411e4bf703b88bd": {
+    "sequence": 520,
+    "notation": "QnRkQBrN/q6B/B6n/R6p/p6k/Q6b/b6N/QPnbKpNR"
+  },
+  "f8a8aa96e69fce48c65427f19abd7900": {
+    "sequence": 443,
+    "notation": "RqBRpQbR/K6Q/P6P/n6r/B6B/k6q/r6p/pKRnQkrr"
+  },
+  "a34b9b91292d66b3bce55c82b8d9f134": {
+    "sequence": 1201,
+    "notation": "rRnQkrNk/R6n/n6Q/Q2NN2k/k2NN2r/r6N/N6q/PKbNpkBQ"
+  },
+  "aeac8c7f599b0f5447180419621ad551": {
+    "sequence": 1645,
+    "notation": "BbRpqBrN/r6K/B6b/q6N/p6p/R6k/b6B/bPKbNpkr"
+  },
+  "b9052ffa8474c48ef468ec67416ea225": {
+    "sequence": 1576,
+    "notation": "bRbQPrBp/P6r/Q6N/B2nn2q/r2nn2K/K6R/q6b/krNQkRnQ"
+  },
+  "9b897401f0225ec1daa18f1090c7f4f3": {
+    "sequence": 26,
+    "notation": "RrkqNRKq/q6R/K6p/R6Q/n6b/Q6r/P6P/bnBkpNbP"
+  },
+  "fb71084a421fa47ad6af74743b285604": {
+    "sequence": 2640,
+    "notation": "KbRpqBrQ/Q6Q/b6b/r6r/P6P/q6k/B6B/RrPQbRpQ"
+  },
+  "35845191fcb97b4b2057831f5fc6aac5": {
+    "sequence": 1306,
+    "notation": "QBkPnbKq/r6R/B6b/Q6Q/P6P/R6r/b6B/KbRpqBrN"
+  },
+  "f8753fedbacf25f9f47e65cc234cac41": {
+    "sequence": 2451,
+    "notation": "qbKPnQkb/P6P/r6Q/B6b/q6R/p6p/R6q/rrkQnRKP"
+  },
+  "f74c93e27bf213c417015358a86b756f": {
+    "sequence": 215,
+    "notation": "BKbnPkBb/n6r/R6N/k2qq2q/Q2qq2K/N6R/r6n/bKRnQkrk"
+  },
+  "109f53fce51f8638a0a4fa5ac6fc197a": {
+    "sequence": 1479,
+    "notation": "rqKrNQkK/N6r/q6B/K2PP2Q/P2PP2P/n6R/B6b/nnBKPNbN"
+  },
+  "78f8f31bf77383fcd5d64e4f1e74d568": {
+    "sequence": 3163,
+    "notation": "kNrkQnRB/q6K/K6q/R6N/n6r/Q6k/k6Q/PNrPQnRP"
+  },
+  "de8884daed82bdcfc8f7b86f3a46babf": {
+    "sequence": 1455,
+    "notation": "nkQNrKqR/q6R/B6K/r2pp2q/P2pp2N/Q6r/b6k/bKRnBkrq"
+  },
+  "df693b62620574872d6b76bc22dd60c1": {
+    "sequence": 533,
+    "notation": "rNqKPnQk/k6K/r6P/n6n/Q6B/K6k/R6p/RpRbQPrp"
+  },
+  "0511c0b242d4a663c056299a5376bff4": {
+    "sequence": 1228,
+    "notation": "QPKBnpqp/q6B/K6k/R6p/n6N/Q6b/k6K/nNrKqnRp"
+  },
+  "763aaa4e6e90ac9770c2318c1b1888d9": {
+    "sequence": 573,
+    "notation": "KrkqNRKN/p6B/N6r/b6P/K6Q/P6b/n6R/qRnQkrNR"
+  },
+  "37afd1ee4337455fbeaf7d60b9ed077e": {
+    "sequence": 3979,
+    "notation": "KRpqBrPp/r6K/k6P/Q6n/n6B/R6k/K6p/pBkPnbKq"
+  },
+  "b2e21c60473a86965e1c948ba8b5d1be": {
+    "sequence": 2139,
+    "notation": "qbNpkBnN/q6q/p6K/r6r/B6N/Q6Q/P6P/NNqKRnQK"
+  },
+  "6b6b5f4ef09b82415fde9abccea4deff": {
+    "sequence": 1892,
+    "notation": "NnRkQNrn/B6K/q6q/P6n/r6R/b6k/Q6Q/NPQbRpqq"
+  },
+  "bc26c27d34fb0ef1013c1ae9edc37700": {
+    "sequence": 1434,
+    "notation": "PqNRKQnq/N6p/p6N/k6b/B6K/n6P/P6n/KNpkBnPp"
+  },
+  "d0aae6b98c7612c04807ae95c41f8d4f": {
+    "sequence": 257,
+    "notation": "RpNbKPnR/P6R/Q6R/B6R/r6R/p6R/q6R/KRKqNrkR"
+  },
+  "c123eee09f3f59b95e882f1d2f22cbda": {
+    "sequence": 1258,
+    "notation": "kPKBnpkN/B6r/q6P/p2qq2Q/R2qq2b/b6R/Q6K/BkBNpKbR"
+  },
+  "53ca325ddb21fde3bc4fd81334ecba25": {
+    "sequence": 1927,
+    "notation": "rRKQnrkr/P6k/r6B/b2bb2n/Q2bb2P/p6K/R6b/pNbkpnBb"
+  },
+  "5baae7c6925a515a8e34529df7bfc64d": {
+    "sequence": 3446,
+    "notation": "kRbQPrNQ/q6q/N6N/P2BB2r/K2BB2k/Q6Q/n6n/rRbqprNB"
+  },
+  "bb191045fb96d6032f0a6f90b7590a60": {
+    "sequence": 1385,
+    "notation": "qbRpqBrn/p6k/q6p/B6N/r6b/P6K/Q6P/rqBRpQbn"
+  },
+  "e7afad927b13aa1a7794beab09b318ae": {
+    "sequence": 303,
+    "notation": "KQkRnbKQ/K6K/R6b/n6n/Q6P/k6k/r6B/QqBrPKbB"
+  },
+  "a77b2f3d9e38ae01f8b5bdda855581d2": {
+    "sequence": 3562,
+    "notation": "pqprBKPN/R6B/b6k/Q6p/P6N/r6b/N6K/kNrkQnRk"
+  },
+  "ec23b228a2eb5847f121adaaaf4ce3c4": {
+    "sequence": 2584,
+    "notation": "KKPNbkpK/r6r/B6B/K2pp2Q/P2pp2P/R6R/b6b/bKqNrkQb"
+  },
+  "98f2c58aef423f657aa080f09140045e": {
+    "sequence": 1163,
+    "notation": "kbNPKBnk/K6r/b6N/N6Q/p6k/k6R/Q6n/nrkQnRKQ"
+  },
+  "b2fdd58b96b76fe71ee48f245c332100": {
+    "sequence": 291,
+    "notation": "RRRRRRRR/r6B/P6k/Q6P/b6n/R6b/p6K/KrkQnRKN"
+  },
+  "512ad3a33f4536884182d509d253e208": {
+    "sequence": 4066,
+    "notation": "RrNqKRnn/N6r/p6N/K6Q/b6k/n6R/P6n/RrkqNRKq"
+  },
+  "1df85e1036038d55cbb7def2a28e20e3": {
+    "sequence": 599,
+    "notation": "bbKpNBkb/P6r/Q6P/b2rr2q/R2rr2B/p6R/q6p/PBqPrbQb"
+  },
+  "3c786ab576dfb7def46d80007e583a54": {
+    "sequence": 1763,
+    "notation": "PqprBQPk/q6K/N6b/R6N/K6p/Q6k/n6B/nRnQkrNb"
+  },
+  "5e59dec9da5726e5dfc5aefb220aee96": {
+    "sequence": 1992,
+    "notation": "pRbQkrBQ/K6Q/R6k/n6R/Q6n/k6q/r6K/KRnqKrNn"
+  },
+  "36c65bbd36ca929efaed1a0e916a9c03": {
+    "sequence": 222,
+    "notation": "RpqbRPQK/r6K/P6R/q2PP2N/B2PP2q/R6k/p6r/nrBQPRbP"
+  },
+  "8d572912eeb0886c24f4fe8cb1563304": {
+    "sequence": 1299,
+    "notation": "pQnRKqNK/Q6q/k6B/p2nn2r/N2nn2P/q6Q/K6b/NnQkrNqK"
+  },
+  "d900706489225dc1dbd04e971ffd3c90": {
+    "sequence": 3614,
+    "notation": "RBnpkbNb/Q6Q/n6n/R6r/K6k/q6q/N6N/QnPKbNpr"
+  },
+  "9925086df4305a6155731f893e469e1b": {
+    "sequence": 3311,
+    "notation": "PrNQkRnr/b6P/Q6n/P2NN2B/r2NN2q/B6p/q6N/QbQkrNqp"
+  },
+  "439a6d18794ed4410301d359f06907e7": {
+    "sequence": 652,
+    "notation": "pBnPKbNQ/K6n/b6Q/N6k/p6r/q6N/B6q/kqKRnQkp"
+  },
+  "d63c7e6b1602ea6c48f7b68ca63f251d": {
+    "sequence": 1212,
+    "notation": "qQnRKbNp/n6Q/P6b/K6r/b6P/N6k/p6B/QkQnRKqn"
+  },
+  "ba3dab14e05a39d108f27080fbd24063": {
+    "sequence": 2470,
+    "notation": "rbRPQBrK/b6n/Q6R/P2RR2k/r2RR2Q/N6N/q6r/NbQpRBqk"
+  },
+  "f2494a8a5b50f6278a9b78468457e81c": {
+    "sequence": 2035,
+    "notation": "RNrKqnRb/q6r/K6B/R6Q/n6P/Q6N/P6b/KrBQPRbn"
+  },
+  "a37f437e47ed5bb134e5e06c65a384c6": {
+    "sequence": 3828,
+    "notation": "RnQKRNqP/b6N/Q6r/p2NN2K/R2NN2q/B6n/q6R/QnQKRNqq"
+  },
+  "ad1c5b6792fa6e82dee90efaf323cb57": {
+    "sequence": 3696,
+    "notation": "kNrKqnRk/B6R/q6K/p6Q/R6n/b6r/K6k/NRnqKrNB"
+  },
+  "4fe3f1ef608dcba9d57e6a9cfcefe13c": {
+    "sequence": 3235,
+    "notation": "PnBKPRbp/q6k/p6p/R6N/b6b/Q6K/k6P/knBkpNbr"
+  },
+  "ab4f10a507f3336cde249a62176327f0": {
+    "sequence": 715,
+    "notation": "NNbkpnBr/k6P/Q6Q/n2RR2b/R2RR2R/K6p/q6q/qkrNqKRR"
+  },
+  "6c61488be31034976db0fcd9bb22fae2": {
+    "sequence": 1940,
+    "notation": "KrPqBRKq/n6p/R6N/K2NN2Q/q2NN2k/N6R/r6n/nbQpNBkB"
+  },
+  "028ba1e7ec55227472269d34a9180713": {
+    "sequence": 894,
+    "notation": "PBnPKbNB/p6n/N6Q/b6k/K6r/P6B/r6q/bpqnRPQK"
+  },
+  "a46feb5720a3632f3dd340834aa3578c": {
+    "sequence": 3789,
+    "notation": "PQkRnqKN/b6q/R6p/k6R/Q6b/B6Q/r6P/QBrpqbRn"
+  },
+  "113bf52cbd17c003ea292800859e30e7": {
+    "sequence": 2546,
+    "notation": "rKqnRkQk/k6P/p6n/n2NN2B/B2NN2k/K6r/P6N/KqKRnBkR"
+  },
+  "8752c7a367335413ce8eef3401517b66": {
+    "sequence": 448,
+    "notation": "qpkBnPQp/k6B/Q6r/n2rr2p/R2rr2q/K6b/q6R/PQnrkqBN"
+  },
+  "02252ded5e4d8c5454c741266672527b": {
+    "sequence": 1523,
+    "notation": "qPrbQpRB/n6n/B6R/k6k/p6Q/N6N/b6r/RkQnRKqq"
+  },
+  "c0d73e62ef30a75bfa63486eb0a7c2e5": {
+    "sequence": 658,
+    "notation": "kNrkQnRq/k6B/r6k/N2rr2R/b2rr2n/K6b/P6K/BpqBrkQQ"
+  },
+  "1160c8317c37be91e3d83cea5906750b": {
+    "sequence": 3933,
+    "notation": "RRRRRRRR/R6Q/p6P/q6r/B6B/r6q/k6p/kkQNpKbq"
+  },
+  "d28725c114ed90095d6bf20b4a45482e": {
+    "sequence": 3373,
+    "notation": "qPrBqpRP/Q6b/b6Q/r6P/P6r/q6B/B6q/BkpnBKPq"
+  },
+  "95b3cffd2ffb812508cfb27274be032e": {
+    "sequence": 358,
+    "notation": "kbKPnBkK/P6b/Q6R/b6P/R6Q/p6B/q6r/bRbqprBN"
+  },
+  "7121d19fe4a3615981e8dc73c6b2e781": {
+    "sequence": 3025,
+    "notation": "KkpnBKPP/K6K/q6P/n2rr2N/R2rr2b/k6k/Q6p/qPnBqpNP"
+  },
+  "d932aba74e4b1e2b8dd7c7be62e948c7": {
+    "sequence": 3664,
+    "notation": "BNbkpnBN/r6K/N6b/q2NN2N/K2NN2p/R6k/n6Q/pNbkpnBB"
+  },
+  "1a1359fd2d075c05c7d4f5b12745b733": {
+    "sequence": 2866,
+    "notation": "QNqKRnQQ/q6N/N6r/r6K/k6b/Q6n/n6P/BbKpNBkN"
+  },
+  "a9967d54297bea8f793b29fbbee7ea51": {
+    "sequence": 1461,
+    "notation": "qNpKbnPK/k6R/B6K/n6q/P6N/K6r/b6k/knBkpNqB"
+  },
+  "12426741af51e5e91188a06bab4f32fc": {
+    "sequence": 3922,
+    "notation": "RBrPQnRp/p6p/R6R/n2PP2B/Q2PP2q/k6k/r6r/KqKRnQPK"
+  },
+  "d0ef78a667b39cb8791fa60c94d327aa": {
+    "sequence": 4044,
+    "notation": "rQkrNqKb/k6P/B6Q/n6B/P6r/K6K/b6q/bqBRpQbk"
+  },
+  "7104eb6940a91514b3a4f5805f8c2a5d": {
+    "sequence": 2228,
+    "notation": "bqpRbQkN/K6q/P6K/r6R/B6n/k6Q/p6k/RRRRRRRR"
+  },
+  "7d277aa5d5310fec6a6f879ea1924764": {
+    "sequence": 3240,
+    "notation": "rQPrBqpK/r6k/N6Q/Q6n/k6R/R6K/n6q/RPnbKpNb"
+  },
+  "744c1646738e3f1680942ec11add1462": {
+    "sequence": 2320,
+    "notation": "NNrkQnRp/n6R/B6b/k6q/p6p/N6r/b6B/bqNRKQnQ"
+  },
+  "a59097e0ccb9bf99b6325e8be03ea868": {
+    "sequence": 1689,
+    "notation": "KnQkrNqq/q6r/p6P/R6q/b6N/Q6R/P6K/PPQbRpqR"
+  },
+  "acecbee286def42cee2d0e667412d88d": {
+    "sequence": 3556,
+    "notation": "nRnQkrNP/p6B/k6k/b6P/N6n/P6b/K6K/NnQKRNqr"
+  },
+  "5690f13cc954be24c91fed49fa1c755c": {
+    "sequence": 1741,
+    "notation": "kQkRnqKQ/K6R/b6b/n2pp2Q/P2pp2P/k6n/B6B/RpNBkPnq"
+  },
+  "5a295c07822eb2abe5edb22a7517de73": {
+    "sequence": 337,
+    "notation": "bbKPnQkQ/B6p/q6N/P2NN2B/r2NN2k/b6P/Q6n/NbRPQBrQ"
+  },
+  "6558b9f9f9bc4bc1f1e5fdf7f1c906a1": {
+    "sequence": 999,
+    "notation": "BnBKPNbp/k6n/B6B/N2NN2K/p2NN2P/K6N/b6b/PbQkrBqB"
+  },
+  "30c76acffc39513b08601c0db4ce2b6d": {
+    "sequence": 92,
+    "notation": "pnPKbNpR/r6K/k6R/Q6N/n6q/R6k/K6r/KbQpNBkr"
+  },
+  "311cc443ae0994da58e02bcbaa7d410d": {
+    "sequence": 1587,
+    "notation": "KRKQnrkn/N6p/q6k/K6B/R6n/n6P/Q6K/RRnQkrNp"
+  },
+  "761af6f0e8ca234a7bcf501d48513d7e": {
+    "sequence": 3532,
+    "notation": "qqprBQPr/p6b/R6N/B2rr2P/q2rr2K/k6B/r6n/rbRpqBrQ"
+  },
+  "b9195a1081add143dc6128495d1f11d2": {
+    "sequence": 2707,
+    "notation": "PNqKRnQR/B6b/r6N/P6r/Q6k/b6Q/R6n/rQPRbqKp"
+  },
+  "959cbfee21472e575cf96c45f2800949": {
+    "sequence": 946,
+    "notation": "rPQBrpqR/P6p/n6k/B2pp2b/k2pp2N/p6P/N6K/krNQkRnb"
+  },
+  "e04e9ea89878f18ec51900e1b703d576": {
+    "sequence": 1837,
+    "notation": "bKPnBkpP/k6P/Q6n/b2rr2b/R2rr2K/p6p/q6N/QBqPrbQP"
+  },
+  "b62b1e3933a51135daf45a2bf14ff96c": {
+    "sequence": 2408,
+    "notation": "PrNQkRnr/b6P/Q6n/P2NN2B/r2NN2q/B6p/q6N/QbQkrNqp"
+  },
+  "843a166c6b61fd4fd32290bd53c19983": {
+    "sequence": 3775,
+    "notation": "bRbqprBb/k6k/Q6B/N2pp2n/r2pp2P/K6K/q6b/qPrBqpRP"
+  },
+  "4322774ff3bfb4b1f8421b0df8faaee9": {
+    "sequence": 2236,
+    "notation": "rqprBQPb/K6q/R6K/N2bb2R/q2bb2n/P6B/r6k/pRbQPrBK"
+  },
+  "93d1d1e8b72941215ba55c533d122910": {
+    "sequence": 340,
+    "notation": "RRRRRRRR/q6k/B6r/r6n/P6Q/Q6K/b6R/BNrKqnRk"
+  },
+  "5e8a9026dba2fc5a92f5f79559e5390f": {
+    "sequence": 3525,
+    "notation": "nPKbNpqP/R6K/n6R/q6N/K6q/r6k/N6r/BkrbQpRn"
+  },
+  "3ccad9aee87c75eb2fca4034ee3a0bd7": {
+    "sequence": 1181,
+    "notation": "RNpkBnPn/b6p/Q6N/p6Q/R6k/B6P/q6n/rKqnRkQr"
+  },
+  "2e1832250f37ccbc5bae8263a88f5676": {
+    "sequence": 478,
+    "notation": "pPQbRKqR/n6N/B6b/k6k/p6p/N6n/b6B/pPQBrpkQ"
+  },
+  "30839bd57980ad41436ecc7c9fdb796e": {
+    "sequence": 2779,
+    "notation": "qqBrPQbR/r6N/B6q/Q6k/P6r/R6n/b6Q/rrBqKRbR"
+  },
+  "7ace73a39562402afab81b4fe4b5e208": {
+    "sequence": 1937,
+    "notation": "kKqnRkQb/P6B/n6n/B2pp2p/k2pp2k/r6b/N6N/pnBkpNqR"
+  },
+  "7bb87f11d57f3181b0a005b90bb0f806": {
+    "sequence": 2739,
+    "notation": "KRpQbrPP/Q6Q/n6P/R6R/K6b/q6q/N6K/RKbnPkBK"
+  },
+  "1c4b8e5ef4efff4b9b3951de1e290f0c": {
+    "sequence": 1505,
+    "notation": "rPQbRpqK/P6N/n6r/B6P/k6Q/r6n/N6R/RRbQPrBn"
+  },
+  "98fa738a2dd85a338b4a751056671e71": {
+    "sequence": 3445,
+    "notation": "kKnrkqNN/N6R/r6p/k2NN2q/Q2NN2B/n6r/R6P/NNqkrnQn"
+  },
+  "65890fd11053db5baf295ee5a7df4d08": {
+    "sequence": 1496,
+    "notation": "PnQkrNqb/R6R/b6b/q6q/p6p/r6r/N6B/nnQkrNqQ"
+  },
+  "8651ba9e51f741d35e4cfd513b19e68e": {
+    "sequence": 3791,
+    "notation": "QbNpkBnR/n6K/B6q/k6n/p6R/N6k/b6Q/rqKRnQPK"
+  },
+  "5b7d8a75d8448d7ba36cd415f5fc122a": {
+    "sequence": 2639,
+    "notation": "NRKqNrkQ/B6q/q6p/p2kk2R/R2kk2b/n6Q/Q6P/qNbKPnBN"
+  },
+  "4c31a27ff681e3876de9d18008936363": {
+    "sequence": 2022,
+    "notation": "nqBRpQbQ/N6r/q6P/k6q/r6B/b6N/Q6p/BpkbNPQk"
+  },
+  "b9e3c113c71c3ba034becb7fab72bd4e": {
+    "sequence": 1160,
+    "notation": "NbRPQBrQ/b6Q/Q6k/P2rr2R/r2rr2n/B6q/q6K/KQPrBqpp"
+  },
+  "ab84e85480782fadc830c2476f016275": {
+    "sequence": 2225,
+    "notation": "PBqPrbQb/p6B/N6k/b6P/K6n/P6b/n6Q/RqprBQPB"
+  },
+  "a5a5196ad6243bb56fe9f8c02076d128": {
+    "sequence": 3188,
+    "notation": "PNrkQnRK/b6p/K6N/P6b/n6K/B6P/k6n/NbRPQNrB"
+  },
+  "602b04415e81d1c2f2c829abfb08fc20": {
+    "sequence": 2619,
+    "notation": "RRRRRRRR/b6q/K6B/p6r/N6P/B6Q/k6b/nQkrNqKB"
+  },
+  "f731279c8c803d8bb4169571892395d0": {
+    "sequence": 1352,
+    "notation": "PKbNrkBb/r6R/P6n/q2BB2Q/B2BB2k/R6r/K6N/bQnRKqNn"
+  },
+  "1c65b70a37e101846acef20cfecc4aaa": {
+    "sequence": 2692,
+    "notation": "RRRRRRRR/R6p/R6k/R2pp2B/R2pp2n/R6R/R6K/RpqBrPQn"
+  },
+  "89ef56d55a4d88ed4e1bdc28fcf133bc": {
+    "sequence": 482,
+    "notation": "PpqbRPQR/Q6R/n6R/r2pp2R/k2pp2R/q6R/N6R/NkQNrKqR"
+  },
+  "5e2bf98e28d12b12b8a9868cf8dbbde1": {
+    "sequence": 3240,
+    "notation": "rQPrBqpK/r6k/N6Q/Q6n/k6R/R6K/n6q/RPnbKpNb"
+  },
+  "589e075a7c62e3dfa08a26fad910106b": {
+    "sequence": 3163,
+    "notation": "kNrkQnRB/q6K/K6q/R6N/n6r/Q6k/k6Q/PNrPQnRP"
+  },
+  "5115cc907e453379a1ee85c5efd5a186": {
+    "sequence": 1860,
+    "notation": "RpRbQPrR/b6R/K6R/P6R/n6R/B6R/k6R/bPKBnpkR"
+  },
+  "06156540409a3e444b0257d24d855bd6": {
+    "sequence": 2782,
+    "notation": "nrNQkRnR/R6b/K6K/q6P/B6n/r6B/k6k/nqKRnQPb"
+  },
+  "370ba00688b5ab4b38c28c513bdaa106": {
+    "sequence": 2827,
+    "notation": "QQkRnqKN/K6K/b6b/n6N/P6r/k6k/B6B/NnQkrNqR"
+  },
+  "9bb14a5f80fe818195aac5f61d728c07": {
+    "sequence": 2321,
+    "notation": "KbKpNBqb/B6p/q6N/P6b/n6K/b6P/Q6n/BBnpkbNP"
+  },
+  "7e8c4f592059fbb1dc9a7915db6826fe": {
+    "sequence": 1813,
+    "notation": "pbNPKBnR/q6r/N6N/R2pp2q/K2pp2K/Q6R/n6n/PNbKPnQr"
+  },
+  "88a9518312c8088b4c87b7c72f5edd5b": {
+    "sequence": 768,
+    "notation": "QpRBqPrK/k6n/B6B/N2bb2K/p2bb2P/K6N/b6b/PqKRnQkq"
+  },
+  "77fce265111b4089cc4ffc9ed29fbdab": {
+    "sequence": 4071,
+    "notation": "NNpKbnPr/b6R/K6n/p6Q/N6k/B6r/k6B/rPnBqpRB"
+  },
+  "b17c2cd3b1d9cf1bc9cfe17cacdab3c9": {
+    "sequence": 915,
+    "notation": "qkpNbKPk/k6r/p6P/N6q/b6B/K6R/P6p/qPQbRpqq"
+  },
+  "8c2850f48dcb82ca3376f2b0543d1da5": {
+    "sequence": 2320,
+    "notation": "NNrkQnRp/n6R/B6b/k6q/p6p/N6r/b6B/bqNRKQnQ"
+  },
+  "c3142fe720d09ebb5dbf607d0bbc258a": {
+    "sequence": 2025,
+    "notation": "bqBRpQbR/B6R/k6K/P2pp2q/n2pp2N/b6r/Q6k/BbNPQBnq"
+  },
+  "2a986022b712032351422e1d39b06e60": {
+    "sequence": 1801,
+    "notation": "bRbQPrBr/K6P/P6r/N2NN2b/b2NN2Q/q6p/p6R/kpqBrPQQ"
+  },
+  "3a5ae5a83897c717c4cb55b436428a30": {
+    "sequence": 3039,
+    "notation": "QBnpkbNp/n6Q/R6k/k2rr2R/Q2rr2n/N6q/r6K/PnBkpNbR"
+  },
+  "b439739853a16b24ee2c9d55aba58de9": {
+    "sequence": 567,
+    "notation": "RRnqKrBP/k6Q/B6P/n2PP2r/P2PP2B/K6q/b6p/QNqkrnQr"
+  },
+  "b8c4968250ca8febe28a728f3ec13484": {
+    "sequence": 2661,
+    "notation": "rrNqKRnP/N6P/q6n/k2rr2b/r2rr2K/b6p/Q6N/nqpRbQkr"
+  },
+  "6bc9183ebe1f0d07d6901c8cc90808ae": {
+    "sequence": 3845,
+    "notation": "QkQNrKqb/B6b/q6K/p2nn2P/R2nn2n/b6B/Q6k/qQPrBqpk"
+  },
+  "98eb13958358d9f046f89a11d9fd972d": {
+    "sequence": 3968,
+    "notation": "knPKbRpP/R6n/K6P/Q2bb2k/n2bb2B/p6N/k6p/QBqpRbKP"
+  },
+  "ed6798d0413b36b256ab653d3bbef7ba": {
+    "sequence": 2924,
+    "notation": "BnPKbNpq/b6K/N6R/p2pp2n/k2pp2Q/B6k/n6p/pNpkBnPp"
+  },
+  "64965753246da64c377fd69ea3908327": {
+    "sequence": 3553,
+    "notation": "qNrKqnRQ/b6B/R6r/P6P/Q6Q/B6b/r6R/PbQPrBqN"
+  },
+  "b12b9fcb85cf54e7d3902a42846db377": {
+    "sequence": 2088,
+    "notation": "nRnQkrNP/Q6R/b6K/r2qq2Q/P2qq2n/q6r/B6k/NpqBrPQR"
+  },
+  "1ec469d309fdbf9878c3de9e0468ce67": {
+    "sequence": 3178,
+    "notation": "nnBKPNbK/b6b/K6K/P6P/n6n/B6B/k6k/RRnqKrBq"
+  },
+  "3ad507b9a946cbbf682f0c22c83f724b": {
+    "sequence": 101,
+    "notation": "BbKPnBqk/r6q/k6N/Q6P/n6K/R6Q/K6n/PPQBrpqr"
+  },
+  "da0ed2d050280042d1e9d60685b27bd2": {
+    "sequence": 3886,
+    "notation": "kPKbNpkN/b6k/K6p/p2bb2n/N2bb2B/Q6K/k6P/qBrPQbRQ"
+  },
+  "b2d6c60540430aec9d5eba6083e89c72": {
+    "sequence": 1098,
+    "notation": "rRKQnrkb/k6q/r6K/n2bb2R/Q2bb2n/K6Q/R6k/KNpkBrPn"
+  },
+  "900f9d8d5cc02492486650062653ab95": {
+    "sequence": 375,
+    "notation": "bpkBnPKK/B6k/k6r/p2rr2N/N2rr2q/b6K/K6P/PpkbNPKk"
+  },
+  "deb376418a7154a68d8defbdc68bcc9e": {
+    "sequence": 1949,
+    "notation": "qNpkBnPn/R6N/K6b/Q6K/n6P/p6n/k6B/NNbkpnBp"
+  },
+  "b0b81e866af0a298d40941f17dc113a9": {
+    "sequence": 3521,
+    "notation": "bkBnPKbQ/B6n/q6P/p6k/R6B/b6N/Q6p/rnPKbNpB"
+  },
+  "de637b3af264e6b2bbbd6e1f1e46613c": {
+    "sequence": 73,
+    "notation": "BRbQPrBP/N6r/b6k/k2BB2Q/p2BB2n/n6R/B6K/NNpkBnPR"
+  },
+  "edb24d4cc13088602a1bcd2a78b1011b": {
+    "sequence": 2970,
+    "notation": "PQkrNqKP/Q6r/b6N/r2nn2Q/P2nn2k/q6P/B6n/NqBrPQbB"
+  },
+  "2be55c037876c1ea5d1da9a9827090ef": {
+    "sequence": 2862,
+    "notation": "PBrPQbRB/q6Q/K6P/r6N/N6b/Q6k/k6p/pBqPrbQb"
+  },
+  "38dcf89af7407d7b87ea2baf1b4f78fb": {
+    "sequence": 264,
+    "notation": "BqKrNQkQ/q6n/B6Q/R6k/p6r/Q6N/b6q/NkrbQKRK"
+  },
+  "eda18f2dd32f42f2a3a8a90d7c860686": {
+    "sequence": 3861,
+    "notation": "kRpQbnPb/n6Q/Q6k/k2RR2p/r2RR2N/N6q/q6K/QNbkpnBp"
+  },
+  "520f4330524b8d1626c151bbd90d4076": {
+    "sequence": 2640,
+    "notation": "KbRpqBrQ/Q6Q/b6b/r6r/P6P/q6k/B6B/RrPQbRpQ"
+  },
+  "20e93ffaec0d67ae8fb4a5ccf6d8f012": {
+    "sequence": 538,
+    "notation": "QPQBrpqp/R6Q/b6n/Q6r/P6k/n6q/B6N/qkQNrKqK"
+  },
+  "12117b69d875f7300e983ab450b69c75": {
+    "sequence": 1607,
+    "notation": "QkBnPKbP/n6R/Q6n/K2QQ2Q/R2QQ2k/N6r/q6B/NkBnPKbn"
+  },
+  "0be4fde361f7d428fff9acea79086f29": {
+    "sequence": 4090,
+    "notation": "PkpnBKPP/R6k/K6B/q6n/N6P/r6K/k6b/NKqnRPQR"
+  },
+  "1753e756326f5eb4c0111ab42a8626a3": {
+    "sequence": 2230,
+    "notation": "nrPQbRKR/n6r/B6N/k2rr2b/p2rr2K/R6P/b6n/PqKRnQkk"
+  },
+  "4aa02df7026f47ec820b85d0be6cce5f": {
+    "sequence": 1770,
+    "notation": "PkrnQKRK/q6n/B6R/R2rr2k/K2rr2Q/Q6N/n6p/qqBrPQbN"
+  },
+  "eda53796bf54f16078137bc7bcd16e6d": {
+    "sequence": 3909,
+    "notation": "rqNRKQnq/N6n/p6P/k6k/B6B/n6N/R6r/nqprBQPn"
+  },
+  "663c2ea7da69a3854d81113a10492745": {
+    "sequence": 919,
+    "notation": "NRnqKpNk/N6k/q6B/k6N/r6p/b6K/Q6b/pnBKPNbk"
+  },
+  "03d73675c7741889684165c7018b6d19": {
+    "sequence": 901,
+    "notation": "qBnpkqNK/q6p/N6N/r2pp2b/k2pp2K/Q6P/n6n/pnBKPNbR"
+  },
+  "fa6dba60c7d69728e153483e08670bb4": {
+    "sequence": 2742,
+    "notation": "nPnbKpRn/b6b/R6R/p6p/q6k/B6B/r6r/PqNrkQbn"
+  },
+  "92e9c479605c945dcc47dab174cb4f66": {
+    "sequence": 4061,
+    "notation": "pnBkpNbN/p6q/k6K/B2pp2R/n2pp2n/P6Q/K6k/PrBKPNbk"
+  },
+  "3bc4a8857afd3821b0f3827834b9175c": {
+    "sequence": 1219,
+    "notation": "PpkbNPKk/n6B/B6k/k2PP2R/p2PP2n/N6b/b6K/KqKrNQkQ"
+  },
+  "487573dd007458650716a83573a1405c": {
+    "sequence": 1093,
+    "notation": "BRnqKrNK/p6B/R6k/B2bb2P/q2bb2n/P6b/r6K/kNqKRbQn"
+  },
+  "dc21416a82ae5b476defe7c40c1330d7": {
+    "sequence": 1697,
+    "notation": "nQbrPqBn/r6P/N6K/q2rr2b/K2rr2N/R6p/b6k/NPQBrpqp"
+  },
+  "ad8cdf66f49e129b7629eae9ede7a85c": {
+    "sequence": 3241,
+    "notation": "RrBqpNbn/K6k/q6p/n6n/R6B/k6K/Q6P/kPKbNpkb"
+  },
+  "8489d65ce7f5512e9c9b3b11102f6818": {
+    "sequence": 1133,
+    "notation": "QkBNpKbb/n6N/P6r/k6K/B6q/N6n/p6R/BnBKPNbP"
+  },
+  "e5772a0d1bc69cc99df64bcb76b3734b": {
+    "sequence": 1572,
+    "notation": "RRRRRRRR/b6N/R6p/P2RR2k/Q2RR2B/B6n/r6P/kNrkQnRB"
+  },
+  "669baac20e25dffa9a69e3d924488fca": {
+    "sequence": 279,
+    "notation": "rNbkprBn/B6n/k6B/p2nn2k/N2nn2p/b6N/K6b/PnQkrNqP"
+  },
+  "9e50c9ae8213e226acf7704daa5f6542": {
+    "sequence": 61,
+    "notation": "bqBRpQbR/Q6R/b6R/R2RR2R/p2RR2R/q6R/N6R/PpRBqPrR"
+  },
+  "591614bb8412806c592fe7e82f135ab7": {
+    "sequence": 1425,
+    "notation": "PnQkrNqP/p6q/q6K/B2PP2P/r2PP2n/P6B/Q6k/nkBNpKbn"
+  },
+  "8a3406490c84e3776942e51ffbbd1a4b": {
+    "sequence": 491,
+    "notation": "nBnpkbNN/K6r/q6N/n2rr2q/R2rr2K/k6R/Q6n/qnPkBNpn"
+  },
+  "e5aa9c8fe751ff4b63b092bb411fdcd1": {
+    "sequence": 1007,
+    "notation": "QbRpqBrr/P6Q/r6k/B2pp2R/q2pp2n/p6q/R6p/kqKrNQkp"
+  },
+  "369c37e8f4925b9ac8d893c9b18042ab": {
+    "sequence": 369,
+    "notation": "bQnRKqNr/N6Q/r6k/K6R/q6n/n6b/R6K/PPKbNpqK"
+  },
+  "f71ed33da473ac6eebbf6b9fbd070072": {
+    "sequence": 3810,
+    "notation": "PPnbKpNK/r6P/P6r/q2BB2b/B2BB2Q/R6p/p6R/NkBnPQbp"
+  },
+  "b75fc211820cbe72b877c7c3e39d81be": {
+    "sequence": 1236,
+    "notation": "brNqKRnk/q6q/K6p/r6R/N6b/B6Q/k6P/kBnpkbNp"
+  },
+  "f07df95dfd5f6ce4de18f19f9a5d20c6": {
+    "sequence": 2240,
+    "notation": "kpqbRPQp/p6r/q6B/B6Q/r6P/P6R/Q6b/bKPnBkpB"
+  },
+  "618c229b15de085d325e2d7290b11d56": {
+    "sequence": 2631,
+    "notation": "PkpnBKPp/P6k/r6r/B6N/q6q/p6p/R6R/rbKPrBkQ"
+  },
+  "c482e545e4f10ba54ad3a752eb4a3390": {
+    "sequence": 3194,
+    "notation": "NqpnBKPq/N6K/p6b/k6N/B6p/n6k/P6B/BqNrkBnr"
+  },
+  "79a0ca2dd224133c588db8a838ba7408": {
+    "sequence": 189,
+    "notation": "KBkpNqKP/p6Q/R6b/b2nn2N/Q2nn2p/P6q/r6B/NRbqprBb"
+  },
+  "fad89313b33e022201528ef5db0e4355": {
+    "sequence": 3454,
+    "notation": "RPQBrpqq/R6K/R6R/R6n/R6Q/R6k/R6r/RkpnQKPb"
+  },
+  "47cfd4d5febff26379b5f557b601c749": {
+    "sequence": 2773,
+    "notation": "kbKpNBkb/p6p/k6R/b2bb2B/N2bb2q/P6P/K6r/RpkbNPKP"
+  },
+  "c3bc0b34ec829a8d458f6e1205b1bc2c": {
+    "sequence": 1741,
+    "notation": "kQkRnqKQ/K6R/b6b/n2pp2Q/P2pp2P/k6n/B6B/RpNBkPnq"
+  },
+  "3d7caee13d721937b91f3d8d83b8bc42": {
+    "sequence": 1915,
+    "notation": "QqBRpQbP/R6q/n6N/q6r/K6k/r6Q/N6n/NNbKPnBk"
+  },
+  "7e3774e3829406c19d571146d7e58eeb": {
+    "sequence": 2140,
+    "notation": "QnBkpRbN/q6K/B6q/R6n/p6R/Q6k/b6Q/nQPRbqpK"
+  },
+  "342c424f8851c7d61d2f3449a438a756": {
+    "sequence": 3164,
+    "notation": "prkQnPKp/k6r/Q6P/n2bb2Q/R2bb2b/K6R/q6K/qPnqKpNQ"
+  },
+  "4f2dcc4204b013af1cc48490fc21c25c": {
+    "sequence": 3302,
+    "notation": "NKbNrkBp/b6K/Q6R/p6n/N6Q/B6k/q6r/PbQPrBqR"
+  },
+  "72b6250c5391486ddf58ed8efe4aa14c": {
+    "sequence": 1685,
+    "notation": "NRbqpnBk/K6K/P6P/n2kk2N/B2kk2b/k6k/p6p/pQPRbqpR"
+  },
+  "17aa17652de191da5deb3d435ceba14e": {
+    "sequence": 783,
+    "notation": "rPQBrpqr/B6q/n6N/R2NN2P/K2NN2K/b6B/N6n/PpRBqPrQ"
+  },
+  "4841fd5c9f96356d6198acfa3747335f": {
+    "sequence": 2468,
+    "notation": "NrNqKRnP/P6P/r6r/b2rr2B/Q2rr2q/K6p/R6R/qrBqpRbr"
+  },
+  "134ecf88807109164cb824251728fe70": {
+    "sequence": 3596,
+    "notation": "pQkpNqKr/B6b/r6Q/p2BB2P/q2BB2r/b6N/R6q/RkQNrKqN"
+  },
+  "b94290ae0a1dee17a4f654324e8e5ab5": {
+    "sequence": 1155,
+    "notation": "npNbKRnk/n6B/Q6r/k2PP2P/r2PP2Q/N6b/q6R/PnRkQNrQ"
+  },
+  "fb291dc4096f875346f5fa1737a40cef": {
+    "sequence": 4092,
+    "notation": "BqNrkQnB/n6r/Q6k/k6Q/r6n/B6R/q6K/KnBqpNbP"
+  },
+  "2ea4b7ef92be20a472d8e1af78ec4833": {
+    "sequence": 3265,
+    "notation": "kBnpkbNN/K6q/b6K/N6P/p6n/k6B/B6k/bnBkpNbB"
+  },
+  "9efec6221d78ece9fcd9e7bdb204eebb": {
+    "sequence": 1135,
+    "notation": "kNqKRnQP/P6b/Q6N/b2NN2P/R2NN2K/p6B/k6n/bkQnRKqn"
+  },
+  "a0116ccfef267d92e1bdc8295b4f235d": {
+    "sequence": 2147,
+    "notation": "nQPrBqpP/K6K/q6P/N6N/r6b/P6k/Q6p/qkBNpKbB"
+  },
+  "52d62a3494dc46b9be09dc1ef84a0288": {
+    "sequence": 2538,
+    "notation": "nbNPKBnb/B6B/k6n/P6P/n6K/b6b/K6N/qQbRpqBb"
+  },
+  "11806edc3a265a396bac58466c19ea16": {
+    "sequence": 1336,
+    "notation": "qBqpRbKb/p6Q/R6n/n6R/Q6p/P6q/r6N/QBrpqbRk"
+  },
+  "4c7ca7196aa8a599095d15b579798cbc": {
+    "sequence": 977,
+    "notation": "RQkrNqKR/Q6R/n6R/R6R/p6R/q6R/N6R/QnQkrBqR"
+  },
+  "810e6e98bec087bb9ce6526e4687ab6a": {
+    "sequence": 1615,
+    "notation": "KnRkQNrK/N6b/r6R/k2BB2P/Q2BB2Q/n6B/R6r/KpkBnPQb"
+  },
+  "780fd6c8d9581e8224e89374520fdbc1": {
+    "sequence": 1554,
+    "notation": "RpRbQPrp/n6b/P6Q/K6P/b6r/R6N/p6q/rBkPnbKN"
+  },
+  "c6b3fb5d604917af5087c1418286676a": {
+    "sequence": 3086,
+    "notation": "RRRRRRRR/P6K/K6P/b6n/N6B/r6k/k6p/PqNRKQbn"
+  },
+  "912ddadee660b37247e82a1201084869": {
+    "sequence": 1615,
+    "notation": "KnRkQNrK/N6b/r6R/k2BB2P/Q2BB2Q/n6B/R6r/KpkBnPQb"
+  },
+  "4c31475816660e21c6a92c2f03aaf29c": {
+    "sequence": 966,
+    "notation": "NnRkQNrq/P6R/r6n/B2pp2q/q2pp2K/p6r/R6N/pkpNbKPn"
+  },
+  "f41f3a8d145d23245c6dc39457ed4dd7": {
+    "sequence": 2265,
+    "notation": "rnPKbNpN/P6K/r6R/b6n/Q6B/p6k/R6p/QPKbNpkQ"
+  },
+  "746042b8a5b46920323d3c399295e264": {
+    "sequence": 447,
+    "notation": "pKPNbkpR/N6R/b6K/k6q/p6N/n6r/B6k/qPnBkpNN"
+  },
+  "6b7c210853c379905753ea617718d156": {
+    "sequence": 3515,
+    "notation": "RnQKRNbP/K6p/R6k/N6b/q6N/k6R/r6K/KpqBrPQQ"
+  },
+  "1c641254e0d13c37b355f50c5df23c11": {
+    "sequence": 2105,
+    "notation": "kpNbKRnk/k6p/r6k/N2QQ2b/q2QQ2N/K6P/R6K/pkQNrKqR"
+  },
+  "fe2e36905d01bf130fac2661e7c5f23f": {
+    "sequence": 3769,
+    "notation": "pNrKqnRk/k6R/r6n/N2pp2q/q2pp2K/p6r/R6N/QPQBrpqP"
+  },
+  "579710313be024ce066f118d5950461a": {
+    "sequence": 613,
+    "notation": "KpRBqPrR/r6B/B6r/Q2RR2P/P2RR2Q/R6b/b6R/prPqBRpb"
+  },
+  "c9649a0dcd0c39928f83eb5ed565a4c8": {
+    "sequence": 1482,
+    "notation": "pqBrPQnR/r6p/k6N/Q6b/n6K/R6P/K6n/QbNpkBnR"
+  },
+  "b16d8542cf50c6a2b6ba96f0a379a131": {
+    "sequence": 3715,
+    "notation": "QKbnPkBP/R6b/p6K/Q6p/b6N/r6B/P6q/RbNPKBnr"
+  },
+  "0ebd9b18fce868cf507eb9c2dfca83a3": {
+    "sequence": 199,
+    "notation": "RbNpkBnR/R6K/R6R/R6n/R6B/R6k/R6r/RkrNqKPK"
+  },
+  "689d36eda0bdc5f19f6857c429fc77e6": {
+    "sequence": 2878,
+    "notation": "rnQkrNqk/r6Q/N6k/b6r/K6N/R6q/n6K/KpRbQPrq"
+  },
+  "eb8f23fc601e2338f94158543caae479": {
+    "sequence": 836,
+    "notation": "BpRBqPrr/K6N/q6p/n2pp2k/R2pp2B/k6n/Q6R/bBkPnbKn"
+  },
+  "ebbafb99488bee26397ea07f167825d3": {
+    "sequence": 1898,
+    "notation": "pnQKRNqb/p6n/k6P/B6K/n6b/P6N/K6p/KpkbNPKP"
+  },
+  "4e20201e2588433510a956307cc2fcd6": {
+    "sequence": 2325,
+    "notation": "PqpRbQPB/r6r/N6P/Q6Q/k6b/R6R/n6p/QrNqKRnp"
+  },
+  "60018c85b37ed6d74d3a9edea9449821": {
+    "sequence": 3375,
+    "notation": "krkQnRKK/R6K/p6R/Q6N/b6q/r6k/P6r/KkrnQKRP"
+  },
+  "c7b25070914344b58360f0393f3dd6fd": {
+    "sequence": 506,
+    "notation": "rPKBnpkK/K6q/b6K/n6r/P6N/k6Q/B6k/KnRkQNrq"
+  },
+  "c2bb4659314f50104d133ec2cab58380": {
+    "sequence": 820,
+    "notation": "RBrpqbRK/p6Q/R6P/B6r/q6N/P6q/r6p/rKqNrkQp"
+  },
+  "2834fd63d6d1980b7fcb2f40c3602ce0": {
+    "sequence": 2079,
+    "notation": "qPKbNpkB/n6Q/B6b/k6r/p6P/N6q/b6B/nbNPKBnn"
+  },
+  "5bee07466f99d79f7170aa69143bb9c1": {
+    "sequence": 3278,
+    "notation": "bpqBrPQp/p6B/q6n/B6P/r6K/P6b/Q6N/RbKrNQkp"
+  },
+  "7102539e0b63ef839b6369eaddf9fda2": {
+    "sequence": 1174,
+    "notation": "NNbKPnBk/P6P/n6Q/b2NN2b/K2NN2R/p6p/N6k/rkQNrKqb"
+  },
+  "406ce89042cc82c71ae077ac2d9125dc": {
+    "sequence": 102,
+    "notation": "pNpkBnPp/B6k/n6p/P2kk2R/K2kk2b/b6K/N6P/bbNPKBnK"
+  },
+  "e99eff75e2ee28c69cbeb9d8cf7e0438": {
+    "sequence": 3183,
+    "notation": "pKbrPqBK/b6Q/Q6P/P2rr2r/r2rr2B/B6q/q6p/RkQnRKqP"
+  },
+  "118c20728fa6dc2327dddffd6b3f3d8c": {
+    "sequence": 3376,
+    "notation": "RqNRKQnn/K6n/R6P/n2nn2k/B2nn2B/k6N/r6p/KpkbNPKq"
+  },
+  "a1d48d638bc91ccd5741e4b1eeb202ac": {
+    "sequence": 16,
+    "notation": "PRpqBnPn/N6k/r6Q/k6n/Q6R/n6K/R6b/RRRRRRRR"
+  },
+  "7fbed24ee9a1ccbe7aad118c2b3c89f9": {
+    "sequence": 3863,
+    "notation": "pqKRnQPR/R6K/p6b/q2bb2N/B2bb2p/r6q/P6B/RBrpqbRK"
+  },
+  "b8ab7aa06a77ea8fbbfe704a6760fae6": {
+    "sequence": 2765,
+    "notation": "NnBKPNbK/Q6R/n6n/R6B/K6k/q6r/N6N/RqBRpKbk"
+  },
+  "6b142965662351701d1e717034476ef4": {
+    "sequence": 2947,
+    "notation": "RRRRRRRR/P6b/K6Q/B2pp2P/r2pp2r/p6B/k6q/PnPKbNpP"
+  },
+  "3717893824a91653a349a95b62cfba4e": {
+    "sequence": 3289,
+    "notation": "qNbkprBP/k6q/B6K/N6R/p6n/K6Q/b6k/qNbkpnBK"
+  },
+  "8b57d66e8e07447b495c1cb503c91cd6": {
+    "sequence": 21,
+    "notation": "kpRBqPnK/k6R/B6p/N2bb2q/p2bb2B/K6r/b6P/pKbNpkBb"
+  },
+  "7472e41a4d7fe1aa0bf3d687a9411726": {
+    "sequence": 1507,
+    "notation": "rqBRpQbB/K6K/q6q/n6N/R6r/k6k/Q6Q/nKqNrkQB"
+  },
+  "b1ccd4fb731d0b87d9a61ec399a81fb2": {
+    "sequence": 3761,
+    "notation": "NpqnRkQk/R6B/n6k/Q6P/K6n/r6b/N6K/NPnBkpNb"
+  },
+  "243fbf486294894d4af9534ee5ac2e11": {
+    "sequence": 22705,
+    "notation": "qPrBqpRB/Q6N/k6q/R6k/n6r/q6n/K6Q/qrkqNRpp"
+  },
+  "c851d9a2cfe95693570d3367065de7a8": {
+    "sequence": 2169,
+    "notation": "kBqpRbQQ/P6b/n6R/b2NN2p/K2NN2q/p6B/N6r/RqKRnQkq"
+  },
+  "11929db5935606b215eeb843a09305c6": {
+    "sequence": 1148,
+    "notation": "rQPRbqpk/k6R/Q6K/b6B/R6n/K6p/q6k/NkQNrKqK"
+  },
+  "5bfb96121456bcd71f883848180ffab9": {
+    "sequence": 1830,
+    "notation": "QpkbRPQN/K6k/R6B/N6N/q6p/k6K/r6b/kBrpqbNK"
+  },
+  "8a7f8728538794aa88ac0b80e99a94d2": {
+    "sequence": 3969,
+    "notation": "QqprBQkP/q6R/N6p/r6Q/k6b/Q6r/n6P/NrNQkRnN"
+  },
+  "5584f188dd84648455b735bdaff118d2": {
+    "sequence": 3287,
+    "notation": "RQPrBqpn/n6r/B6P/K6Q/P6b/N6R/b6p/PnQkrBqK"
+  },
+  "f3da1e3dff6c9275302a8a3d0d351794": {
+    "sequence": 2770,
+    "notation": "nNbkpnBp/q6R/N6b/r6q/k6p/Q6r/n6B/BqKrNBkk"
+  },
+  "3ff082b62852c25daf1fcbc56ffe6e40": {
+    "sequence": 1242,
+    "notation": "krNqKRnp/q6k/p6B/R6N/b6p/Q6K/P6b/ppkBnPKN"
+  },
+  "7a3e8e987fe394aa9809e4fc3bab55a3": {
+    "sequence": 1849,
+    "notation": "kBrPQbRq/r6p/P6R/q2nn2B/B2nn2q/R6k/p6r/qPnbKpRr"
+  },
+  "b7bbd636c245e5061de4f8b5667966ed": {
+    "sequence": 2225,
+    "notation": "PBqPrbQb/p6B/N6k/b6P/K6n/P6b/n6Q/RqprBQPB"
+  },
+  "7f91c4735a39d8f5e1d6480254bf4e38": {
+    "sequence": 3501,
+    "notation": "pKbNpkBN/P6n/r6R/B6K/q6q/p6N/R6r/RRRRRRRR"
+  },
+  "bc2632f41daceb6e70dd0f76941d4733": {
+    "sequence": 3837,
+    "notation": "BKbnPqBb/Q6B/b6r/r2rr2P/P2rr2Q/q6b/N6R/bPQBrpqK"
+  },
+  "d5b8327f1e345b225356080c5c67e9a0": {
+    "sequence": 3272,
+    "notation": "QKqnRkQb/p6N/k6q/B6K/n6R/P6n/Q6Q/QbRpqBrB"
+  },
+  "46b0391ecddf06749f904a6f45547511": {
+    "sequence": 1883,
+    "notation": "nkrnQKRr/q6p/p6R/r2BB2B/B2BB2q/Q6P/P6r/QpkBnPKq"
+  },
+  "a0b4acf37d91b67339001938df8e7cbf": {
+    "sequence": 1138,
+    "notation": "NNqkrnQQ/N6k/q6r/k6n/r6Q/n6K/Q6R/PKPNbkpb"
+  },
+  "9343bd78e3eb45233c7937f79585db11": {
+    "sequence": 2394,
+    "notation": "RbQPrBqq/B6k/k6Q/p6n/N6R/b6K/K6q/NNqkrnQk"
+  },
+  "02faeb86ee5f300b59b1bde5ba068755": {
+    "sequence": 330,
+    "notation": "bBkPnbKb/Q6p/n6k/r2NN2b/k2NN2N/b6P/N6K/QRbqprBq"
+  },
+  "84069fa0f4f7b8fbde86681650e8a971": {
+    "sequence": 3978,
+    "notation": "RRbQkrBr/r6N/P6b/q6Q/B6P/R6n/p6B/rkrNqKRn"
+  },
+  "e62dfed43365abfa63a24c621c46cf99": {
+    "sequence": 3872,
+    "notation": "PRbQPnBq/K6K/P6P/n6n/B6B/k6k/p6p/pKRnQkrB"
+  },
+  "c508cd5303c266a19d69214dc60002ec": {
+    "sequence": 2161,
+    "notation": "pnRKqNrN/q6N/N6b/R2nn2k/K2nn2p/Q6n/n6B/QnPKbNpP"
+  },
+  "d46ff93f5366e22c89cac98616d27aa5": {
+    "sequence": 1411,
+    "notation": "kQPNbqpn/q6Q/B6n/R6r/p6k/Q6q/b6N/npNbKRnk"
+  },
+  "9c1a12b53e865b58c41d5a8052d93fdc": {
+    "sequence": 1633,
+    "notation": "PbRpqBrR/R6P/K6K/Q6B/n6n/p6p/k6k/QRKQnpkb"
+  },
+  "26f05ba9f0400eb8888af309f2b4db9b": {
+    "sequence": 1686,
+    "notation": "qRpQbrPP/Q6q/P6B/r2rr2R/B2rr2p/q6Q/p6b/qKRnQPrQ"
+  },
+  "53f75f5dfecf680ccc8c7b938e8756f0": {
+    "sequence": 1004,
+    "notation": "BbKPrBkq/R6P/b6K/Q6b/P6N/r6p/B6k/qNbkpnBQ"
+  },
+  "dbc6eae2a59bf2469fcddc9d8b00afc0": {
+    "sequence": 2048,
+    "notation": "RKbrPqBP/n6Q/P6P/K6r/b6B/N6q/p6p/knBkpNbN"
+  },
+  "efe662934e4a77c665512a3be1c8e683": {
+    "sequence": 2651,
+    "notation": "kRKQnrPP/b6B/N6n/p6p/k6k/B6b/n6N/BbNpkBnK"
+  },
+  "6f3d1e9bebb24a7b8a9e58bfb0b7a4c4": {
+    "sequence": 3675,
+    "notation": "NKbNrkBP/N6K/b6P/K2kk2r/P2kk2B/n6q/B6p/pQnrkqBQ"
+  },
+  "8f5f38ed1cb7c60cf3b87bcbf55c6aa6": {
+    "sequence": 1494,
+    "notation": "qbNPKBnK/n6N/B6b/k6Q/p6P/R6r/b6B/BqNrkQbr"
+  },
+  "8bc80a656bdbbd9c72c6e90adc894d4f": {
+    "sequence": 1627,
+    "notation": "PnPKbRpR/b6q/Q6B/p2bb2R/R2bb2p/B6Q/q6b/nBnpkbNN"
+  },
+  "9ff2aaa2498a17d1a56e4b43b9e9852c": {
+    "sequence": 2557,
+    "notation": "bqKrNQkr/K6B/q6q/N6P/r6r/k6b/Q6K/NbQpRNqB"
+  },
+  "2e32f96d95d1207f64948b5b4a94a460": {
+    "sequence": 2629,
+    "notation": "PBnPKbNp/R6r/n6N/q2pp2q/K2pp2K/p6R/N6n/BkBNpKbn"
+  },
+  "4fee0c01ee3ecdee36ed7a3b613cfb84": {
+    "sequence": 2791,
+    "notation": "RBrpqbRK/N6Q/q6P/k6r/r6B/n6q/B6p/qkQNrKqQ"
+  },
+  "188cd42a50566928703cc4217efa1afb": {
+    "sequence": 299,
+    "notation": "PbRkQNrP/R6N/p6p/Q6Q/n6b/r6n/P6P/qPrBqpRB"
+  },
+  "6ece8159ec2674d97e010be6e7905672": {
+    "sequence": 236,
+    "notation": "QbQpRBqN/r6B/N6n/b6P/K6K/P6b/n6N/PpqBrPQB"
+  },
+  "8b077c97ceecc2caa4fe11ac4fa72960": {
+    "sequence": 3087,
+    "notation": "PNbkpnQN/B6R/n6p/p2QQ2q/k2QQ2B/b6r/N6P/pRnqprBb"
+  },
+  "73564ecd9d202ce654d35f6f93f71676": {
+    "sequence": 657,
+    "notation": "pkBnPKbb/K6B/b6q/N6p/p6R/k6b/B6Q/PkpnBKPN"
+  },
+  "c4aca7069d503b65ab1cbd23c3bd0b22": {
+    "sequence": 2054,
+    "notation": "PrNQkRnQ/B6r/k6P/P2RR2q/n2RR2B/b6R/K6p/NqKrNQkr"
+  },
+  "dee85e403e683301d65260760efb389f": {
+    "sequence": 3308,
+    "notation": "QkBnPQbQ/R6R/b6b/q2BB2q/p2BB2p/r6n/B6B/NnQKRBqP"
+  },
+  "02b11d68a50ae97f1659ed37a2c3254b": {
+    "sequence": 1222,
+    "notation": "RnQkrBqQ/k6p/p6q/n2nn2B/B2nn2r/K6P/P6K/pnPKbNpR"
+  },
+  "7765d8567ca3b211892f0164403506bf": {
+    "sequence": 3391,
+    "notation": "KbKpNBkk/B6Q/k6k/p2RR2r/R2RR2N/b6q/Q6K/PnRpqNrP"
+  },
+  "be6732453d452709f7eaeee45d11fe0c": {
+    "sequence": 715,
+    "notation": "NNbkpnBr/k6P/Q6Q/n2RR2b/R2RR2R/K6p/q6q/qkrNqKRR"
+  },
+  "efd84a10bc6caee934d2dc39aadbe881": {
+    "sequence": 3493,
+    "notation": "RbRpqBrP/R6R/R6n/R2PP2Q/R2PP2k/R6r/R6N/RbKPrBqR"
+  },
+  "7a2e1a60eb259cbb4f216dc09eedb345": {
+    "sequence": 2290,
+    "notation": "qBnPKbNQ/R6K/b6q/q2PP2n/p2PP2R/r6k/B6Q/krkQnRKP"
+  },
+  "b46f2f110ed48468ade1ac17707feb43": {
+    "sequence": 649,
+    "notation": "QpkbNPKb/p6R/q6K/B2PP2Q/r2PP2n/P6r/K6k/RnKkrNqN"
+  },
+  "f3bd0b0574b237ab0612c5ef35e8dceb": {
+    "sequence": 2705,
+    "notation": "qPrBqpRB/Q6N/k6q/R6k/n6r/q6n/K6Q/qrkqNRpp"
+  },
+  "1f93ed8eeabb0cda3ca01d77285070d8": {
+    "sequence": 2690,
+    "notation": "rPKBnpkp/B6B/q6n/p2BB2P/R2BB2K/b6b/K6N/NQbrPqBB"
+  },
+  "39e6a068701c467126790a8d2e61d3a8": {
+    "sequence": 2509,
+    "notation": "qPQbRKqR/r6q/P6K/Q6r/b6N/R6Q/p6k/PQkrNbKn"
+  },
+  "c56aa9332f61113d2e48259dcd6c06dc": {
+    "sequence": 3836,
+    "notation": "prNqKRbQ/K6R/R6p/N2pp2q/q2pp2B/k6n/r6P/pkBnPKbR"
+  },
+  "cd348623674ceaddaba20aaa44ce2373": {
+    "sequence": 780,
+    "notation": "pBkPnbKq/N6b/q6K/K6P/R6n/b6B/Q6k/KnRkQNrK"
+  },
+  "d00e2fb497e8e6efeda47c961828de8d": {
+    "sequence": 3088,
+    "notation": "qNqkrnQk/r6k/N6p/q6n/K6B/R6Q/b6P/rBrPQbRB"
+  },
+  "241b90d6baf23f069734e0811e5d3317": {
+    "sequence": 745,
+    "notation": "PqBRKQbr/P6N/n6r/b2bb2K/K2bb2q/p6b/N6R/bKPnBkpN"
+  },
+  "0dd978a7631bf2d573ccbe1dd47387ef": {
+    "sequence": 3042,
+    "notation": "prkbNPKN/N6K/b6R/k2pp2N/p2pp2q/n6k/B6r/rqNrkQnR"
+  },
+  "4dc1b6de6dbec488a2a2c097c02e141b": {
+    "sequence": 1451,
+    "notation": "BrBqpRbQ/n6b/R6R/k2BB2P/Q2BB2Q/N6N/r6r/qRpQbrPq"
+  },
+  "2293e9c9fb3d2b6ecf0a2a2d957d5a71": {
+    "sequence": 2328,
+    "notation": "rNrKqnRK/R6r/b6P/q2nn2q/p2nn2B/r6N/B6p/krNqKRnk"
+  },
+  "56baa317051a680e13af47c1a9e4df9e": {
+    "sequence": 2294,
+    "notation": "KPnBkpNk/q6P/N6Q/R2nn2b/K2nn2N/Q6p/n6q/RnQkrBqQ"
+  },
+  "d786ae6ace0e0502deb58059fcb08fe0": {
+    "sequence": 2278,
+    "notation": "kPbKPnBR/K6b/n6K/p6p/k6R/b6B/N6q/QpkBnPKr"
+  },
+  "a472c2491fdb7cc73bf018a2decced38": {
+    "sequence": 286,
+    "notation": "QbRpqNrn/K6r/b6k/N6b/p6N/k6P/B6K/QpqbRPQk"
+  },
+  "9e425d0757c41b89287202bada851549": {
+    "sequence": 840,
+    "notation": "qqBrPQbp/R6b/p6K/Q2BB2P/b2BB2r/r6B/P6q/RRRRRRRR"
+  },
+  "5ab91162288d5c2e47d120bbc38a76f5": {
+    "sequence": 2565,
+    "notation": "PPnBkpNq/n6N/B6b/k2BB2K/p2BB2P/N6n/b6B/kKPrBqpr"
+  },
+  "7e5f3e2432541dc323beff152f47cb33": {
+    "sequence": 2965,
+    "notation": "nnRkQNrr/k6K/B6b/n6n/P6P/Q6k/b6B/KQnrkqNn"
+  },
+  "72ac0cd68f6695373dfc5e196bd36149": {
+    "sequence": 1834,
+    "notation": "RNrkQnRQ/P6k/r6p/b2NN2n/Q2NN2B/p6K/R6P/BPrBqpRP"
+  },
+  "476476937cd2b98f2b2cd1899e7ff159": {
+    "sequence": 309,
+    "notation": "kbNpkBnR/p6n/q6P/B2bb2K/n2bb2b/P6R/K6p/BpBKPNbr"
+  },
+  "6491abfca2fe34d2d6d4d4e186299f03": {
+    "sequence": 176,
+    "notation": "RRRRRRRR/K6b/q6Q/N6p/r6R/k6B/Q6q/ppqbRPQb"
+  },
+  "5d781942b3a1c5ae24a4405b89dcf21a": {
+    "sequence": 3576,
+    "notation": "pPKBrpkn/r6K/N6b/Q2PP2n/k2PP2P/P6k/n6B/rnBKPNbk"
+  },
+  "85820098128549c2d6304a3ab1dec3a7": {
+    "sequence": 3134,
+    "notation": "nbQPrBqp/B6k/r6B/p2BB2N/q2BB2p/b6K/R6b/RrNqKRnb"
+  },
+  "0a1de41a769bac8d42216ee23939f458": {
+    "sequence": 2305,
+    "notation": "KNbkpnBQ/k6r/Q6P/n6q/R6B/K6R/q6p/rnQKRNqq"
+  },
+  "665e3f922df6ed73e74d839db46b322c": {
+    "sequence": 3847,
+    "notation": "NPrBqpRR/r6q/N6p/q2rr2r/K2rr2B/R6Q/n6P/nKqNrkQP"
+  },
+  "8e98f5658c2242dc732e79d7f1ddd19f": {
+    "sequence": 3310,
+    "notation": "brkQnRKr/R6K/K6b/Q2pp2n/n2pp2P/r6k/P6B/BnRKqNrk"
+  },
+  "ac5c7c96d9f645d9b92fe1d063569529": {
+    "sequence": 2270,
+    "notation": "rqKrNQkB/n6R/R6K/k2rr2Q/Q2rr2n/N6r/r6k/QnQkrNbr"
+  },
+  "735039b205a9a1eb89898135e725d314": {
+    "sequence": 2021,
+    "notation": "KBnPKbNB/k6b/Q6Q/n6P/R6r/K6B/q6q/KNpkBnPR"
+  },
+  "53293ac5a73f1a849eb258f28e4df54b": {
+    "sequence": 1977,
+    "notation": "NrkQnRKN/r6p/N6R/q6B/K6q/R6P/b6r/BPnBkpNB"
+  },
+  "55a2a38cb90fbf6363008a6cf814d652": {
+    "sequence": 1503,
+    "notation": "kqNrkQnB/R6K/n6q/q6n/K6R/r6k/N6Q/kKqnRkQb"
+  },
+  "97c3d2e12d606d1ce22be0747e3fa96e": {
+    "sequence": 3920,
+    "notation": "PbQPrBqR/p6n/R6Q/b6k/Q6r/P6N/r6q/RqBrPQbR"
+  },
+  "2becec80caefb27fdeeac82f23323e1a": {
+    "sequence": 3196,
+    "notation": "kNrkQbRN/N6P/p6Q/k2kk2b/B2kk2R/n6p/P6q/BRpqBrPp"
+  },
+  "c90cfe108dbcf98890be3d4dc809121c": {
+    "sequence": 3250,
+    "notation": "bnQKRBqN/R6b/n6K/q6P/K6n/r6B/N6k/qPKbNpkB"
+  },
+  "c16ad647fd01592464d550e6e43ed011": {
+    "sequence": 2274,
+    "notation": "knPkBNpR/p6p/k6q/B2pp2b/n2pp2R/P6P/K6K/qQPrBqpk"
+  },
+  "652adabeaaa7cb6f14743c702bd3c693": {
+    "sequence": 1891,
+    "notation": "bKbnPkBK/q6k/K6r/R2pp2N/n2pp2b/Q6K/k6R/pnBkpNbr"
+  },
+  "93ccc3bc6c8b03dc3f72e68fc1bd5947": {
+    "sequence": 3177,
+    "notation": "PkpnBKPB/P6K/r6b/b2PP2N/Q2PP2p/p6k/R6B/NqKRnQkB"
+  },
+  "498b6f86711fae945c720224f54c98eb": {
+    "sequence": 3263,
+    "notation": "kKPrBqpB/P6N/n6b/b2pp2K/K2pp2P/p6n/N6B/nqKRnQPb"
+  },
+  "540c5bd849cc52df57c98aa54da04788": {
+    "sequence": 3865,
+    "notation": "BPQbRpqP/r6n/P6B/q2pp2K/B2pp2P/R6N/p6b/rPKbNpkQ"
+  },
+  "bd709c70feb4d65cc4c32fd0880f1f99": {
+    "sequence": 2004,
+    "notation": "nnQKRNqb/Q6b/k6N/r2pp2p/N2pp2k/q6B/K6n/kNqkrnQk"
+  },
+  "89b8fa9fc10f85d5e865d05e3e0610b9": {
+    "sequence": 263,
+    "notation": "PpRBqPrQ/b6K/R6R/p2pp2N/k2pp2q/B6k/r6r/bQbRpqBB"
+  },
+  "aab8dce144c2be5560b0fcd57770a5b1": {
+    "sequence": 3900,
+    "notation": "kQnrkqNk/q6P/N6K/r2pp2B/k2pp2n/Q6p/n6k/PNrKqnRK"
+  },
+  "ce8929bfb9429d45b8e9ab82ca020006": {
+    "sequence": 2942,
+    "notation": "NNqkrnQK/B6R/q6n/p2rr2Q/R2rr2k/b6r/Q6N/bbQpRBqn"
+  },
+  "0b9a1e1606654743cc4e0ea9d6fb2abd": {
+    "sequence": 1777,
+    "notation": "BRKqNrPK/b6R/R6K/p6q/q6N/N6r/r6k/BpqBrPKn"
+  },
+  "012b403649a58fdb0df2a375f4e9bcf6": {
+    "sequence": 2387,
+    "notation": "rqBrPQbr/N6N/q6b/K2pp2K/R2pp2P/n6n/Q6B/RpRbQPrQ"
+  },
+  "c18c82e44cfd466f10790c1c56749d00": {
+    "sequence": 3036,
+    "notation": "RpkbNPKB/Q6K/b6q/r6N/P6r/q6k/B6Q/QRnqKrNQ"
+  },
+  "0cb1959589fc994c943e607a6566838e": {
+    "sequence": 3943,
+    "notation": "KkQnRKqq/P6R/n6K/B2rr2Q/k2rr2n/r6p/N6k/RPKbNpkN"
+  },
+  "a8034bd09234e1a4f9c101c832e7d44c": {
+    "sequence": 2669,
+    "notation": "RKPNbkpq/Q6r/b6B/R6Q/p6P/q6R/B6b/nqpRbQPk"
+  },
+  "a6c9644d0e5e34dc17f19089ef25aaa7": {
+    "sequence": 184,
+    "notation": "pNbkpnBq/p6P/R6K/B2nn2b/q2nn2N/P6p/r6k/PPrNqKRr"
+  },
+  "5f0c486e0a6055c79aa3b08149633ee1": {
+    "sequence": 300,
+    "notation": "bqBRpQbk/b6b/R6Q/p2kk2p/q2kk2R/B6B/r6q/qqKrBQPq"
+  },
+  "b8b1e03e83658d3234320e71a5a1b4d9": {
+    "sequence": 1167,
+    "notation": "QkrnQKRq/b6P/R6Q/P6B/Q6r/B6p/r6q/krNqKRnN"
+  },
+  "cad5dd9919e82a535f7259f0c7e8ad1e": {
+    "sequence": 820,
+    "notation": "RBrpqbRK/p6Q/R6P/B6r/q6N/P6q/r6p/rKqNrkQp"
+  },
+  "585c992d1e8d8986df610e88bce82c81": {
+    "sequence": 2643,
+    "notation": "qpRBqPrR/P6b/r6Q/b6p/K6R/p6B/N6q/kqKrNQkN"
+  },
+  "5d0f429f7f9f796b776a053968569892": {
+    "sequence": 2670,
+    "notation": "KNbkpnBB/q6P/K6K/R6B/n6n/Q6p/k6k/nBkpNqKR"
+  },
+  "54ad21ae50ba17230f6e5f40749a644b": {
+    "sequence": 547,
+    "notation": "KkpNbKPR/P6k/Q6B/b6n/R6P/p6K/q6b/BqprBQPQ"
+  },
+  "65addcd44d986d30bbc7b66a2df2f730": {
+    "sequence": 3907,
+    "notation": "RbKpNBkb/Q6r/b6N/r6Q/P6k/q6R/B6n/RrNQkRnP"
+  },
+  "40f918de61fd82ed71a7cbdcda35721b": {
+    "sequence": 644,
+    "notation": "RNbkpnBR/P6K/K6b/B6n/n6P/p6k/k6B/pQkRbqKQ"
+  },
+  "d36552ea92cda8d4c08480faa6063290": {
+    "sequence": 2273,
+    "notation": "qQnRKqNp/N6n/p6R/K6k/b6Q/n6K/P6r/PKqnRkQB"
+  },
+  "7d3adcc8db3a515d2277d244c330401a": {
+    "sequence": 2299,
+    "notation": "PqBnPQbk/R6R/n6K/Q2nn2Q/k2nn2n/r6r/N6k/KnPkBNpb"
+  },
+  "b14d0170f5892ca37282994649a3e855": {
+    "sequence": 4070,
+    "notation": "rrPqBRpK/q6k/p6p/r2bb2n/B2bb2B/Q6K/P6P/kbNpkBrP"
+  },
+  "6d7b32bb9e652462515c9ac99dcfefbf": {
+    "sequence": 725,
+    "notation": "qRnQkrNK/p6k/q6p/B6n/r6B/P6K/Q6P/pRKqNpkp"
+  },
+  "6e8df0a62235b49de1568097da005580": {
+    "sequence": 2078,
+    "notation": "NpkbNPKR/p6R/k6R/b2qq2R/N2qq2R/P6R/K6R/bQkRnqKR"
+  },
+  "4d8259ce78752c59006ef5cd7dafa7dd": {
+    "sequence": 1164,
+    "notation": "bnBKPNbR/R6n/K6B/Q6K/n6R/r6N/k6b/NBqPrbQP"
+  },
+  "38525398d220fc9914671f07fa4fb679": {
+    "sequence": 1910,
+    "notation": "QKbnPkBk/b6b/Q6N/P6P/r6K/B6B/k6n/pqBRpQbP"
+  },
+  "0316cc4d1571a68f459d5a10aa245700": {
+    "sequence": 2460,
+    "notation": "PqBRpQbq/r6P/B6Q/Q6b/P6R/R6p/b6k/NnPkBNpk"
+  },
+  "1600082463dc99a99c42255a5e3e6a78": {
+    "sequence": 2183,
+    "notation": "RRRRRRRR/K6n/q6R/n2qq2K/R2qq2q/k6N/Q6r/bpRbQPrq"
+  },
+  "982a083d0cbb18c38a35f8bbd61e38ad": {
+    "sequence": 492,
+    "notation": "qNbkpnBQ/r6P/P6r/q6b/B6Q/R6p/p6R/BnRpqNrb"
+  },
+  "922281268c27fbb9426948124bbca0fc": {
+    "sequence": 1261,
+    "notation": "brkqNRpR/P6K/r6P/B6n/q6B/p6k/R6p/nQPRbqpp"
+  },
+  "f2edd96c0c188956f9efd97f1bf6cb0c": {
+    "sequence": 3549,
+    "notation": "nPrBqpRn/N6Q/b6q/q6r/p6N/n6q/B6K/KbKPnBkB"
+  },
+  "0f8a5780ae17cc243e122a6f1831d875": {
+    "sequence": 1946,
+    "notation": "RPQBrpqq/R6P/R6r/R2rr2B/R2rr2q/R6p/R6R/RNrKqnRb"
+  },
+  "aa32c2c8a70c28423b7a070c245764a0": {
+    "sequence": 3332,
+    "notation": "pqBrPQbp/Q6B/n6r/r6P/k6Q/q6b/N6R/qPnBkpNr"
+  },
+  "f0e9e37c845d3a209bce4fbe35d178c8": {
+    "sequence": 1289,
+    "notation": "KNbkpnBK/n6k/B6Q/k6n/p6R/N6K/b6q/NPQbRpqK"
+  },
+  "c6df1b2e14af756bd351ea4f2c6e271d": {
+    "sequence": 2096,
+    "notation": "qNbkpnBK/n6p/B6N/k6Q/p6k/N6P/b6n/QNbkpnBr"
+  },
+  "1488b556f31717ab67d1e5e7d3526829": {
+    "sequence": 3377,
+    "notation": "NqBrPQnr/p6N/R6q/B6k/q6r/P6n/r6Q/BnPKqNpK"
+  },
+  "e43be8bdf131d6aae3c2ef1c9c98000d": {
+    "sequence": 666,
+    "notation": "nbKpNBqK/p6q/R6N/B6r/q6k/P6Q/r6n/RkrNqKRn"
+  },
+  "7b93d7703a8cfd319094d223c457cb0f": {
+    "sequence": 3697,
+    "notation": "rrNqKRnk/q6k/N6B/R2BB2n/K2BB2P/Q6K/n6b/BPQBrpkP"
+  },
+  "ba1cd46162edcb846fd06d1f21c9ad6e": {
+    "sequence": 970,
+    "notation": "qqBRpQbB/P6K/n6R/b6N/K6q/p6k/N6r/qPrBqpRP"
+  },
+  "fb5ad0bdfa15f28fc3b162e7390e86fa": {
+    "sequence": 2550,
+    "notation": "pnPKbNpB/b6k/R6p/P6n/Q6B/B6Q/r6P/RrPqBRpk"
+  },
+  "aba45ec5fd5bce1166e764772d8d6f92": {
+    "sequence": 1036,
+    "notation": "qQnrkqBk/B6P/n6Q/p6b/k6R/b6p/R6q/PnBkpNbQ"
+  },
+  "9a25e6b5f78bf4cd19cbda22b238e985": {
+    "sequence": 2353,
+    "notation": "NkpnBKPQ/K6b/R6R/n2NN2P/Q2NN2Q/k6B/r6r/QPrBqpRr"
+  },
+  "051f2b65fd128a9c82610d53dc128a0b": {
+    "sequence": 1089,
+    "notation": "NQbRpqBR/r6B/B6r/Q2RR2P/P2RR2Q/R6n/b6R/QrkqNRKr"
+  },
+  "888d3578d3de0d754077b605333547d5": {
+    "sequence": 3941,
+    "notation": "RbKpNBkK/K6R/q6b/N6Q/r6P/k6r/Q6B/nkpNbKPQ"
+  },
+  "da5aa1cabd158e78e328595a258208ba": {
+    "sequence": 199,
+    "notation": "RbNpkBnR/R6K/R6R/R6n/R6B/R6k/R6r/RkrNqKPK"
+  },
+  "763e5811138c07075706115e3fd89937": {
+    "sequence": 1286,
+    "notation": "rNpKbnPR/B6q/k6B/p2RR2R/N2RR2p/b6Q/K6b/knRKqNrb"
+  },
+  "14c3e9cdbc73ae5733406e7952e656ed": {
+    "sequence": 2200,
+    "notation": "rRnqKrNq/P6n/n6B/B6k/q6p/p6R/N6b/pqBrPQnB"
+  },
+  "076fbe1b6fe4ca969bc9dd7075be7535": {
+    "sequence": 3515,
+    "notation": "RnQKRNbP/K6p/R6k/N6b/q6N/k6R/r6K/KpqBrPKK"
+  },
+  "7a923586bdcb87967b9030833e0f5e71": {
+    "sequence": 3006,
+    "notation": "qQPRbqpN/P6K/K6R/b6n/N6Q/p6k/k6r/QNrkQnRQ"
+  },
+  "ab69ef55fccf606e9ce94c8afddce0d5": {
+    "sequence": 1932,
+    "notation": "RrBQPNbK/R6Q/R6b/R6R/R6p/R6q/R6B/RPnBkpNb"
+  },
+  "4f5c34ac1b973e59b1cd8f68060b601e": {
+    "sequence": 1408,
+    "notation": "RRRRRRRR/Q6N/k6q/R6k/n6r/b6n/K6Q/PKqnRPQN"
+  },
+  "7120476d51b6311f6e63a880248d1f9a": {
+    "sequence": 444,
+    "notation": "rKPnBkrB/N6K/p6q/k2NN2N/B2NN2r/n6k/P6Q/KRKQnrkN"
+  },
+  "e3374fd66befaac2a94afd4a0006aacb": {
+    "sequence": 1949,
+    "notation": "qNpkBnPn/R6N/K6b/Q6K/n6P/p6n/k6B/NNbkpnBp"
+  },
+  "92f1bf78b62f4610bcae196e9dd7a03d": {
+    "sequence": 443,
+    "notation": "RqBRpQbR/K6Q/P6P/n6r/B6B/k6q/r6p/pKRnQkrr"
+  },
+  "134d22b56ed6287b5424de707d4571f3": {
+    "sequence": 3943,
+    "notation": "KkQnRKqq/P6R/n6K/B2rr2Q/k2rr2n/r6p/N6k/RPKbNpkN"
+  },
+  "74d35e8cbd7d7541b3e072b3468d09fb": {
+    "sequence": 2025,
+    "notation": "bqBRpQbR/B6R/k6K/P2pp2q/n2pp2N/b6r/Q6k/BbNPQBnq"
+  },
+  "b6798702762767ac168221e251e706ec": {
+    "sequence": 82,
+    "notation": "BKRnQPrB/k6b/p6Q/n6P/Q6r/K6B/P6q/krNQkRnP"
+  },
+  "fc1e6668d4e820fb7f0887f14d5bc157": {
+    "sequence": 2157,
+    "notation": "PpRbQPrP/n6P/R6Q/k2PP2b/Q2PP2R/N6p/r6q/bQbRpqNn"
+  },
+  "0c4ca98747a95016865f4ee3d56b86db": {
+    "sequence": 840,
+    "notation": "qqBrPQbp/R6b/p6K/Q2BB2P/b2BB2r/r6B/P6q/RRRRRRRR"
+  },
+  "40f0af322e9795eab2d49433c3f93aec": {
+    "sequence": 197,
+    "notation": "rKPNbkpb/r6N/B6r/q2pp2K/p2pp2q/R6n/b6P/NNpkBnPP"
+  },
+  "c76c4eefd02e4e3241504fbf9d31705f": {
+    "sequence": 1868,
+    "notation": "kPQBrpqQ/b6Q/K6b/r2pp2R/N2pp2p/Q6q/k6B/kqNRKBnq"
+  },
+  "2f6cab4c667884467ced13a4661a5b95": {
+    "sequence": 2196,
+    "notation": "RNrKqnRb/R6B/R6q/R6P/R6r/R6b/R6Q/RrBQPNbK"
+  },
+  "f5248481301d461c8fafacca71273421": {
+    "sequence": 853,
+    "notation": "KRKqNrkR/b6R/K6R/P2nn2R/n2nn2R/B6R/k6R/QnBKPNbR"
+  },
+  "19b110b319fb0b6237af3501ad0437c6": {
+    "sequence": 3567,
+    "notation": "kNrKqbRq/Q6q/k6N/R2PP2R/n2PP2K/q6Q/K6n/qNbkprBP"
+  },
+  "013718922df03b07f1545d661ffa6e82": {
+    "sequence": 2347,
+    "notation": "PRbqprNp/k6P/B6K/n6B/P6r/K6p/b6q/RrBqKRbB"
+  },
+  "f12b4109d2c615dbc3133974e8e0bdc5": {
+    "sequence": 3734,
+    "notation": "rpqbRPQB/B6K/r6P/P2pp2N/Q2pp2b/b6k/R6p/qKqnRkQN"
+  },
+  "bd4200938e5ee9b9e19ee2bc2b80fac7": {
+    "sequence": 1732,
+    "notation": "nBqPrbQp/n6n/Q6P/k2kk2q/r2kk2B/N6N/q6p/NKqnRkBq"
+  },
+  "81aca4d2964584597b191ad2ff795e96": {
+    "sequence": 1872,
+    "notation": "bNqKRnQn/Q6b/n6K/r2nn2p/k2nn2N/q6B/N6k/kPrbKpRp"
+  },
+  "c1a001512fb0e8c481e5d0dcea6b28a3": {
+    "sequence": 616,
+    "notation": "rBnPKbRQ/r6Q/B6P/q6R/p6b/R6q/b6p/BpqbRPQQ"
+  },
+  "f73eeb1216010cc0a58c5045753f0222": {
+    "sequence": 3088,
+    "notation": "qNqkrnQk/r6k/N6p/q6n/K6B/R6Q/b6P/rBrPQbRB"
+  },
+  "b11601ae4eb5c14741e66f00ae35db2a": {
+    "sequence": 1165,
+    "notation": "RPnBkpNp/r6N/N6r/q2BB2k/K2BB2Q/R6n/n6R/rbRkQBrQ"
+  },
+  "de3879197515507f7fb212d484f8bd14": {
+    "sequence": 2183,
+    "notation": "RRRRRRRR/K6n/q6R/n2qq2K/R2qq2q/k6N/Q6r/bpRbQPrq"
+  },
+  "ec843c84eb363e87a8c69710e1542b9c": {
+    "sequence": 4028,
+    "notation": "BPQBrpqr/q6B/N6n/R6p/K6k/Q6b/n6N/KBqpRbQN"
+  },
+  "2b92555b17bce8d22d00ca999e98287c": {
+    "sequence": 4057,
+    "notation": "BkpnBKPK/p6P/q6r/b2PP2b/R2PP2Q/P6p/Q6R/KRpQbrPP"
+  },
+  "dde4210e185af1ef1a9fdce79e787fcf": {
+    "sequence": 1579,
+    "notation": "pRbqprBp/p6K/q6b/b2rr2N/R2rr2p/P6q/Q6B/kNrKqnRk"
+  },
+  "fd2d29d73b74a1016e2f39f0641f3434": {
+    "sequence": 731,
+    "notation": "QrBqpRbK/K6n/R6B/n2RR2k/Q2RR2p/k6N/r6b/QQPrNqKn"
+  },
+  "7393aca0b32b1b644843bccba9dd422e": {
+    "sequence": 2133,
+    "notation": "NRKqNpkr/P6p/Q6q/B6b/r6R/p6P/q6Q/bQnRKqNQ"
+  },
+  "3f0af758ed2d3472e8f8a2938a5b98b9": {
+    "sequence": 2507,
+    "notation": "RPrbKpRp/b6K/R6b/p2pp2N/q2pp2p/B6k/r6B/KRnQkrNP"
+  },
+  "68e47f931ee077d9934b19327c0d1f41": {
+    "sequence": 1874,
+    "notation": "NBrpqbRn/Q6b/b6N/R2bb2P/p2bb2K/q6B/B6n/nNqKRnQP"
+  },
+  "0f4912631784c7507b2c0a60d480cb2d": {
+    "sequence": 3615,
+    "notation": "bRnqKpNk/k6b/p6K/N6p/b6N/K6B/P6k/NnBKPRbK"
+  },
+  "c5e7d47fea4ac21e03de328e5d8f4934": {
+    "sequence": 1860,
+    "notation": "RpRbQPrR/b6R/K6R/P6R/n6R/B6R/k6R/bPKBnpkR"
+  },
+  "2182646fa73756d72b0bff63b5515d88": {
+    "sequence": 1173,
+    "notation": "QqBRKQnn/Q6p/b6k/r2PP2B/P2PP2n/q6P/B6K/PRKQnrkq"
+  },
+  "896dbedd6f73e01216a0acf6f0758428": {
+    "sequence": 2739,
+    "notation": "KRpQbrPP/Q6Q/n6P/R2BB2R/K2BB2b/q6q/N6K/RKbnPkBK"
+  },
+  "67cb4de27301dcbe2b08cda41ae9443b": {
+    "sequence": 903,
+    "notation": "bNrKqnRq/R6B/n6r/Q6K/k6q/r6n/B6R/RRpqBrPn"
+  },
+  "3ce11ea1667b2b975997186461d9c26a": {
+    "sequence": 2734,
+    "notation": "nBnPKbNQ/q6P/p6K/n6B/B6n/K6p/P6k/pqBrPKbP"
+  },
+  "109fcc7295f4f8d5df328dd0d7ff193d": {
+    "sequence": 957,
+    "notation": "rnRkQNrr/P6B/Q6r/b6P/R6Q/p6b/q6R/KNrkQnRq"
+  },
+  "6f5aa6f8becf5704e8ed3cfa8426430b": {
+    "sequence": 2303,
+    "notation": "NNrkQnRP/r6N/P6r/Q2PP2K/b2PP2q/R6n/p6R/PKqNrkQq"
+  },
+  "ec52586903fb8deac023c02e4ee14d03": {
+    "sequence": 615,
+    "notation": "RRKQnrkq/N6k/b6p/K2BB2n/P2BB2B/n6K/B6P/pRbqprBK"
+  },
+  "7eb6af8fada21680e601e3787ed5f350": {
+    "sequence": 1273,
+    "notation": "pBnpkqNk/k6q/r6B/N2RR2r/q2RR2P/K6Q/R6n/RnPkBNpK"
+  },
+  "f12b1be1ade8a5ea22e899f8e37c0884": {
+    "sequence": 3597,
+    "notation": "qkBNpKbb/Q6K/b6P/r6r/P6B/q6k/B6p/RRRRRRRR"
+  },
+  "422514d2930637a2e175385c32b6ae8e": {
+    "sequence": 1788,
+    "notation": "RpRnQkrr/K6k/R6p/N6n/q6B/k6K/r6P/NNbkpnBN"
+  },
+  "9553f4854774077767ad8701f65127d4": {
+    "sequence": 3259,
+    "notation": "NrPqBRpb/N6N/q6q/k2pp2K/r2pp2R/n6n/B6Q/rkBnPKbB"
+  },
+  "68a4a23a740ac0f15acd39ca58c459be": {
+    "sequence": 3544,
+    "notation": "NRnQkrNn/N6b/p6Q/k2pp2p/B2pp2R/n6N/R6q/KrPQbRpQ"
+  },
+  "0f1d82d104d2d12a53cf85e35e933728": {
+    "sequence": 3736,
+    "notation": "RrNqKRbq/R6N/R6b/R2pp2k/R2pp2p/R6n/R6B/RPKBnpqq"
+  },
+  "b095a24518e82db0bd90c9e9f3af551f": {
+    "sequence": 241,
+    "notation": "nrPQbRpR/K6R/q6R/B2pp2R/r2pp2R/P6R/Q6R/qBkpNbKR"
+  },
+  "1d6670987a594df6956c62bbb7729d3f": {
+    "sequence": 111,
+    "notation": "RnQkrNqN/K6p/R6R/N2kk2B/q2kk2q/k6P/r6r/rKPNbkpb"
+  },
+  "341f474398f4a43de07a4508add8c928": {
+    "sequence": 1812,
+    "notation": "QnPKbNpn/N6b/r6R/k2NN2P/Q2NN2Q/n6B/P6r/BKRnQPrn"
+  },
+  "87983fdb5eeb7e6351780995a7318ab7": {
+    "sequence": 2119,
+    "notation": "PpqbRPQb/P6n/r6Q/B6K/q6R/p6N/R6q/kpkBnPKq"
+  },
+  "4af4d912a5d462b5f7927427db8e5c10": {
+    "sequence": 406,
+    "notation": "pBqPrbQb/K6N/P6q/N6K/b6R/k6n/p6Q/RKnrkqNp"
+  },
+  "a84e63588048335b0c181e4a428ac244": {
+    "sequence": 28,
+    "notation": "qnQkrNqR/b6k/K6p/P2PP2N/n2PP2b/B6K/k6P/nqprBQPp"
+  },
+  "cd0c02e578bd0a66228a09c6fcb0e1c4": {
+    "sequence": 1501,
+    "notation": "qPrBqpRP/K6N/b6q/N6K/p6R/k6n/B6Q/RbKPnBkp"
+  },
+  "f9dafcdfb5ddb4f1f442ec250b85f971": {
+    "sequence": 364,
+    "notation": "bPQbRpqN/P6b/K6K/b2rr2P/N2rr2n/p6B/k6k/NKbNrkBP"
+  },
+  "88956226d33caa12e42e277f6912582d": {
+    "sequence": 2307,
+    "notation": "kQPRbqpn/N6K/p6P/k6n/B6B/n6k/P6p/PnBKPRbq"
+  },
+  "89b8ac7cd38ad6c6c09f14bb78ca001f": {
+    "sequence": 2722,
+    "notation": "RbNPKBnB/Q6q/b6K/r6R/P6n/q6Q/B6k/PRpqBrPP"
+  },
+  "7998273bd31ddb79fb997daf1e3137d5": {
+    "sequence": 454,
+    "notation": "nqNrkQnb/Q6P/k6K/r6B/N6n/q6p/K6q/BnRpqBRP"
+  },
+  "4f75bc547ddd7a31f8c51ba4300f7dfd": {
+    "sequence": 1445,
+    "notation": "rpqbRPQR/B6B/q6k/K2RR2p/R2RR2N/b6b/Q6K/RbKpNBkK"
+  },
+  "3a148d042de8200255864b1ad4d933b3": {
+    "sequence": 1313,
+    "notation": "KrNbKRnq/p6P/k6r/B6b/n6K/P6p/K6N/NqKrNKkk"
+  },
+  "80161c8780c246077bd86acdd3f97709": {
+    "sequence": 3571,
+    "notation": "nkQNrpqp/q6b/p6N/r6P/B6K/Q6B/P6n/qnQkrNqK"
+  },
+  "4bb833a5fddfeb0b7aa0f11fdca4a014": {
+    "sequence": 1804,
+    "notation": "bRKqNpkR/N6b/q6Q/K2pp2p/R2pp2R/n6B/Q6q/BNpKbnPk"
+  },
+  "11e4ae8881811947fb4fa218b1f331c7": {
+    "sequence": 3839,
+    "notation": "bqNrkQnR/n6B/P6k/k6p/B6N/N6b/p6K/qQkRnqKk"
+  },
+  "204d6586ea8e8107832151129b475e1a": {
+    "sequence": 3993,
+    "notation": "bkQNrKqN/B6N/n6b/P6k/K6p/b6n/N6B/pqKrNQkn"
+  },
+  "47cb3a0c1899fa4d0b9d72eb228d5c1c": {
+    "sequence": 908,
+    "notation": "PqpRbQPp/q6b/B6N/r6p/P6k/K6B/b6n/KbNPKBrB"
+  },
+  "b60f6ea66aa9862e0535683c76fdb9e6": {
+    "sequence": 820,
+    "notation": "RBrpqbRK/p6Q/R6P/B6r/q6N/P6q/r6p/rKqNrkQp"
+  },
+  "809f144a227e72107ed1636df7ab2a06": {
+    "sequence": 165,
+    "notation": "qpNbKPnp/n6B/B6n/K2pp2P/P2pp2K/R6b/b6N/NkrNqKRB"
+  },
+  "6627d0bf6db106e5bf3312b6b67ebbb4": {
+    "sequence": 4031,
+    "notation": "PNbKPnQr/q6k/p6Q/r2QQ2n/B2QQ2R/Q6K/P6q/PbRPQBrk"
+  },
+  "6d61ef9efdcfc86d8dd2ff832edae500": {
+    "sequence": 1994,
+    "notation": "kpRnQkrN/Q6K/P6P/N6n/b6B/k6k/p6p/BrPQbRpp"
+  },
+  "32325ec2914e4f95f12f5c642d881186": {
+    "sequence": 3586,
+    "notation": "QnRkQNrK/Q6r/k6P/R6Q/b6b/q6N/p6p/kbKPnQkr"
+  },
+  "5fae184741f7b8c5ad4fbcbc445560b2": {
+    "sequence": 1860,
+    "notation": "RpRbQPrR/b6R/K6R/P6R/n6R/B6R/k6R/bPKBnpkR"
+  },
+  "67bad305e173808d9753295fb22ab71a": {
+    "sequence": 2760,
+    "notation": "nnPkBNpP/N6B/p6q/k2pp2P/B2pp2r/n6b/P6Q/RRRRRRRR"
+  },
+  "9e6ccb65511195d132ae0ea859d42cdb": {
+    "sequence": 3363,
+    "notation": "bPnbKpNQ/R6R/n6K/q2nn2q/K2nn2N/p6r/N6k/kbNPKBnk"
+  },
+  "5ce040e51fa8af7761bb8ba3e77be52f": {
+    "sequence": 3374,
+    "notation": "nnQkrNqQ/q6r/p6k/r2QQ2q/B2QQ2N/Q6R/k6K/pRbQkrBQ"
+  },
+  "1792c70c82a7c033d133fe281b0296bf": {
+    "sequence": 742,
+    "notation": "rkpnBKPq/Q6q/k6B/r6R/N6p/q6Q/K6b/kPQbRpqn"
+  },
+  "454f7cd33395f4150edf68db7f7d225f": {
+    "sequence": 2376,
+    "notation": "pbKpNBkq/K6r/R6N/n2pp2Q/B2pp2k/k6R/p6n/RRRRRRRR"
+  },
+  "08276db72b1ea766df39b42a2f42f9df": {
+    "sequence": 3479,
+    "notation": "qkBNpKbB/k6r/B6k/n2pp2Q/P2pp2n/Q6P/b6K/qKPnBkpB"
+  },
+  "b05701826b89c97014468dcf87949f32": {
+    "sequence": 762,
+    "notation": "PPKbNpkP/q6n/K6P/R2nn2K/n2nn2b/Q6N/k6p/KpqBrPQq"
+  },
+  "30595eab8a5a554610e5f9b183cf4878": {
+    "sequence": 604,
+    "notation": "BbKPnBkk/b6B/Q6r/P2PP2p/r2PP2q/B6b/q6R/RQnrkqNR"
+  },
+  "6288cd17a427069172a30ee1c2ef1cab": {
+    "sequence": 77,
+    "notation": "QbKpNBkq/q6B/B6n/r6p/P6q/Q6b/b6N/BnQkrNqB"
+  },
+  "2e86040d6eae4158a100fa9d69e95103": {
+    "sequence": 3600,
+    "notation": "rkQNrKqb/K6b/b6K/n6P/P6n/k6B/B6q/kKPnBkpB"
+  },
+  "07dcdfcaeeeb90a96ba3dba73038d09e": {
+    "sequence": 1378,
+    "notation": "BPrBqpNb/P6Q/r6n/B2NN2r/q2NN2k/p6b/N6N/QqBrPQbQ"
+  },
+  "b883085061e5fc86b1a9269abf146bcb": {
+    "sequence": 204,
+    "notation": "PQbRpqBB/P6K/K6R/b2nn2N/N2nn2q/r6k/k6r/BRpqBrPk"
+  },
+  "cf26baa2ced02cc90f1c254ee146da53": {
+    "sequence": 2874,
+    "notation": "RqNRKQnr/Q6r/n6N/R6Q/K6k/q6R/N6n/RKqnRkQb"
+  },
+  "f6878b5a5e3b1aa04e27a3da238f0342": {
+    "sequence": 685,
+    "notation": "qrkqNRKQ/B6n/r6R/P6k/Q6Q/n6N/R6r/BKbNpkBK"
+  },
+  "c5ad4d6bc28f6437121472143ce9ac1d": {
+    "sequence": 2427,
+    "notation": "nnRpqNrR/P6r/r6k/b6Q/Q6b/p6R/R6K/PkrnQKRq"
+  },
+  "83a7c45f360bbfad23e7ad2c24771685": {
+    "sequence": 3977,
+    "notation": "KQPNbkpq/q6Q/B6b/R6r/p6P/Q6q/b6B/pNrPQnRR"
+  },
+  "8af965f267124d7fd1d49fb2fbefe825": {
+    "sequence": 163,
+    "notation": "nnPkBNpP/b6n/N6B/P2QQ2K/K2QQ2P/B6N/n6b/PQPrNqKQ"
+  },
+  "68901815d9271362b5443b30430ef9e3": {
+    "sequence": 1579,
+    "notation": "pRbqprBp/p6K/q6b/b2rr2N/R2rr2p/P6q/Q6B/kNrKqnRk"
+  },
+  "3689b950c618cdc8ab097ef5119a7564": {
+    "sequence": 3542,
+    "notation": "KRnQkrNP/k6R/r6p/N2pp2q/q2pp2B/K6r/R6P/RRRRRRRR"
+  },
+  "f994a645d4ab25c1037d3f03bc6f3b24": {
+    "sequence": 2297,
+    "notation": "rrNqKRnp/p6P/R6Q/B2nn2b/q2nn2R/P6p/n6q/KkrnQKRq"
+  },
+  "c022b82d4bcaaf640860757086409d87": {
+    "sequence": 1765,
+    "notation": "NRpqBrPR/Q6R/b6R/r6R/P6R/q6R/B6R/ppkbNPKR"
+  },
+  "8ee448048ca18d8f1052ce0e757ce404": {
+    "sequence": 196,
+    "notation": "PpqbRkQr/q6n/K6B/R6k/n6p/Q6N/k6b/KbKPnBkk"
+  },
+  "e24ef12094e22fbdf8d2e48955e77b3d": {
+    "sequence": 2083,
+    "notation": "BrBQPRnB/k6K/p6P/n2BB2N/B2BB2b/K6k/P6p/pBqpRbQb"
+  },
+  "b6d123e6b9fe09f84471da5c559e663d": {
+    "sequence": 3368,
+    "notation": "PQbrPqBK/R6k/n6B/B6n/k6R/r6K/N6b/bpqbRkQn"
+  },
+  "e2535e78e1ed4dec7058d8c7a1048542": {
+    "sequence": 2228,
+    "notation": "bqpRbQkN/K6q/P6K/r6R/B6n/k6Q/p6k/RRRRRRRR"
+  },
+  "351c23ea7edeb02a3204cffa12503108": {
+    "sequence": 589,
+    "notation": "kNrkQnRb/R6k/p6p/Q2RR2n/b2RR2B/r6Q/P6P/NkpnBKPQ"
+  },
+  "b1ca0e64350f02b92adf11edc57b3c24": {
+    "sequence": 715,
+    "notation": "NNbkpnBr/k6P/Q6Q/n2RR2b/R2RR2R/K6p/q6q/qkrNqKRR"
+  },
+  "645733963fa130b70a2a29ee979f2a20": {
+    "sequence": 1379,
+    "notation": "RPrbQpRb/P6n/n6B/b2NN2K/K2NN2P/p6N/R6b/bPKbNpkP"
+  },
+  "1341f188b4e9c8055dba774ed94a408b": {
+    "sequence": 1295,
+    "notation": "QKPNbkpp/R6R/n6K/q2pp2Q/K2pp2n/r6r/N6P/QRbQPrBQ"
+  },
+  "7103836dd2009adad0872b83a810c948": {
+    "sequence": 4036,
+    "notation": "RRRRRRRR/R6Q/n6k/q6R/K6n/r6b/N6K/PQkrNqKP"
+  },
+  "ee54b48ee1e5d6aea4f8a83103d16ff8": {
+    "sequence": 3644,
+    "notation": "bRnQkpNN/P6b/n6Q/B6P/q6r/p6B/R6q/RkQnRKqB"
+  },
+  "7f1b1b4af9250b999187217745433488": {
+    "sequence": 1781,
+    "notation": "KnQKRNqN/n6r/B6P/k2nn2Q/p2nn2b/N6R/b6p/nbQpRBqP"
+  },
+  "5992332c647bbfa65674b4829c2200f7": {
+    "sequence": 662,
+    "notation": "BPKbNpqP/N6n/r6Q/K6k/q6r/n6N/R6q/pPKqNrkb"
+  },
+  "9ee0d2b59a1f9384b962d231428ec84d": {
+    "sequence": 379,
+    "notation": "bNrkQnRn/N6r/q6k/P6q/r6N/n6R/Q6K/PRpQbnPP"
+  },
+  "4c10dc84e7491032f53732bcc24f6e7e": {
+    "sequence": 2873,
+    "notation": "NnRKqNrq/q6Q/B6n/R2pp2R/p2pp2K/Q6q/b6N/QpkbNPKR"
+  },
+  "a06f6542b309d4ce54cab7b443c1e7de": {
+    "sequence": 958,
+    "notation": "bQbRpqNn/P6B/K6r/b6p/N6q/p6b/k6R/qqNRKQnN"
+  },
+  "3bac2c2c2816747f672a1076521921fd": {
+    "sequence": 1716,
+    "notation": "BnBKPNbP/R6q/K6B/q2pp2R/N2pp2p/r6Q/k6b/nQnrkqNn"
+  },
+  "ac2097e31387c56968538a3b420bd6fe": {
+    "sequence": 277,
+    "notation": "PRpqBrPP/n6N/Q6r/k6P/r6Q/N6n/q6R/rKRnQkrr"
+  },
+  "d9b320c365f061f8fca6b22242a1d2fc": {
+    "sequence": 2056,
+    "notation": "BkrbQpRn/Q6q/k6B/r2PP2r/N2PP2P/q6Q/K6b/npNbKPrN"
+  },
+  "5ee39475222f6efc91dfd907110a213e": {
+    "sequence": 2608,
+    "notation": "qNrKqnRk/N6p/q6R/k2qq2b/r2qq2Q/n6P/Q6r/nQPrBqpP"
+  },
+  "a26504d077e0e8cf784d40c53013fefe": {
+    "sequence": 2137,
+    "notation": "BnBkpNbQ/p6N/N6r/B6k/k6Q/P6n/n6R/BQPrBqpQ"
+  },
+  "ae98411e01bc8677a7ad1c720407fd00": {
+    "sequence": 1805,
+    "notation": "RpkBnPKp/R6p/R6q/R6b/R6R/R6P/R6K/RNqKRnQq"
+  },
+  "d4db92d010127d527dba31598ef39dff": {
+    "sequence": 4045,
+    "notation": "QPnbKpRR/n6B/B6k/k6P/p6n/N6b/q6K/kkQNpKbQ"
+  },
+  "392735c5839e35bdedc2c4a37071c6c4": {
+    "sequence": 631,
+    "notation": "ppqbRPQR/k6p/B6k/n2rr2B/P2rr2n/K6P/b6K/RQPRbqKQ"
+  },
+  "4d63d9630dad4102191c01c4b4aa5f3a": {
+    "sequence": 1193,
+    "notation": "bbNpkBrn/B6B/r6k/p6P/q6n/b6b/R6K/KRpqBrPq"
+  },
+  "0483dabd1d73669599bbfc53d9e4267b": {
+    "sequence": 3162,
+    "notation": "BqNrkQbr/b6N/K6q/p2PP2K/N2PP2R/B6n/q6Q/QRnQkrNb"
+  },
+  "05de2f4b16d593aabc1aabedb357526e": {
+    "sequence": 2454,
+    "notation": "BpqbRPQK/q6k/N6p/r6n/k6B/Q6K/n6P/PpNbKPnB"
+  },
+  "eba0fa22a2c38954be66293a2ef60b6f": {
+    "sequence": 3995,
+    "notation": "QrkqNRKp/B6Q/r6P/P6r/Q6B/b6q/R6p/BBkpNbKp"
+  },
+  "ca3491dc70c78f422e723d9980359b99": {
+    "sequence": 3173,
+    "notation": "pqprBQkb/R6n/p6B/q6k/B6p/r6N/P6b/pqBrPQbn"
+  },
+  "c9339cc99afae0cae357a7770e15a813": {
+    "sequence": 2054,
+    "notation": "PrNQkRnQ/B6r/k6P/P2RR2q/n2RR2B/b6R/K6p/NqKrNQkr"
+  },
+  "da204792a3dc30acfda9be8691483e63": {
+    "sequence": 804,
+    "notation": "pBnpkbNK/N6R/r6p/k6Q/Q6b/n6r/R6P/QPKBnpkq"
+  },
+  "98925e8b2cb362da02e8b271d5c8790a": {
+    "sequence": 358,
+    "notation": "kbKPnBkK/P6b/Q6R/b6P/R6Q/p6B/q6r/bRbqprBN"
+  },
+  "d300a917d46e9a6be9727bb255ad211b": {
+    "sequence": 1286,
+    "notation": "rNpKbnPR/B6q/k6B/p2RR2R/N2RR2p/b6Q/K6b/knRKqNrb"
+  },
+  "8ea72222782cdb4189aab503ca96c427": {
+    "sequence": 572,
+    "notation": "pBqpRbQb/r6k/B6p/K6n/P6B/R6K/b6P/KrPQbRpb"
+  },
+  "c4c44a9e8f9460aa7e8034e211cede0f": {
+    "sequence": 3918,
+    "notation": "RBkPnbKp/R6R/p6n/Q6q/b6K/r6r/P6B/rpRBqPrr"
+  },
+  "c3bf124814998be821ff95ed6279ef88": {
+    "sequence": 1100,
+    "notation": "rqprBQPK/r6Q/B6P/Q6r/P6B/R6q/b6p/QKbnPkBk"
+  },
+  "e7c997c08f224e87a5cdc7b9cb8c4a4f": {
+    "sequence": 2060,
+    "notation": "kNbKPnBn/K6B/R6q/n2rr2P/Q2rr2r/k6b/r6Q/KNqPrbQk"
+  },
+  "2476668b2778f80b74b50d6679111fe4": {
+    "sequence": 199,
+    "notation": "RbNpkBnR/R6K/R6R/R6n/R6B/R6k/R6r/RkrNqKPK"
+  },
+  "d3f23a15b56187dc1e604e651584e162": {
+    "sequence": 1725,
+    "notation": "QnQKRNbk/R6R/b6n/Q2nn2q/P2nn2K/r6r/B6N/NbKpNBkk"
+  },
+  "8380b7612b6b3628496a39a00c2f8996": {
+    "sequence": 259,
+    "notation": "RpNBkPnk/p6B/q6q/b2NN2P/R2NN2n/P6b/K6K/kBqpRbQq"
+  },
+  "e2505bc14169f2503a5709a325d4768b": {
+    "sequence": 3147,
+    "notation": "NPnBqpRP/p6R/k6n/b6q/N6K/P6r/Q6N/RbNpkBnp"
+  },
+  "d3016c84f44246e8e3d9bbf9fc05cd88": {
+    "sequence": 984,
+    "notation": "QRbQPrBb/p6R/q6b/b6k/R6p/P6n/Q6B/rQnRKqNK"
+  },
+  "cb6bc5fd3be60be43a2f3a286c3eff5d": {
+    "sequence": 3580,
+    "notation": "nRKqNrkk/R6B/b6r/q2pp2p/p2pp2q/n6b/B6R/QKRnQPrN"
+  },
+  "e9faabd9d02f98209b6ca15e64d5122f": {
+    "sequence": 3134,
+    "notation": "nbQPrBqp/B6k/r6B/p2BB2N/q2BB2p/b6K/R6b/RrNqKRnb"
+  },
+  "faa7084d8bd29efaa8664d5bf29d3dcf": {
+    "sequence": 2017,
+    "notation": "qqprBQPQ/P6B/Q6r/b6P/R6Q/p6b/k6R/kBnpkbNQ"
+  },
+  "20087b0aa82ccc5742c7dfa5671165c2": {
+    "sequence": 3086,
+    "notation": "RRRRRRRR/P6K/K6P/b6n/N6B/r6k/k6p/PqNRKQbn"
+  },
+  "93db4b6b314b0cfbd660ab39c073dc80": {
+    "sequence": 1183,
+    "notation": "BRnQkrNB/N6K/b6b/k6n/p6P/n6q/B6B/KKRnQkpQ"
+  },
+  "8331ac0b5ad882028803b802b9a6b088": {
+    "sequence": 2702,
+    "notation": "qQPrBqpk/k6r/Q6P/N2kk2q/p2kk2B/K6R/q6p/RRRRRRRR"
+  },
+  "e8f7ac927d25942bab889fb93cc420e3": {
+    "sequence": 701,
+    "notation": "QBqPrbQk/Q6n/k6R/r2bb2k/N2bb2Q/b6N/K6r/qQnRKqNp"
+  },
+  "b9d370f73cd071ec00daab04a9c8503b": {
+    "sequence": 3444,
+    "notation": "nBrpqbRR/B6R/r6R/P2nn2R/K2nn2R/b6R/N6R/KKPnBkpR"
+  },
+  "a2910c5b6f30bc8648f5bcba00924d49": {
+    "sequence": 1964,
+    "notation": "rNrKqnRp/Q6r/n6k/R6Q/K6n/q6R/N6K/KNqKRnQQ"
+  },
+  "8c94c6b2ea4fde2fbf4883afc8ae29ed": {
+    "sequence": 479,
+    "notation": "bqKRnQkr/B6n/r6P/P2pp2k/Q2pp2B/b6R/R6p/KRbQPrBN"
+  },
+  "f01d5cefc6d3a7b76a9fa554f7b53402": {
+    "sequence": 1907,
+    "notation": "qPQbNpkp/B6B/k6n/P2bb2p/n2bb2k/b6b/K6N/NNqKRnQr"
+  },
+  "1af25246ec458bdda16916513c2972e5": {
+    "sequence": 3918,
+    "notation": "RBkPnbKp/R6R/p6n/Q6q/b6K/r6r/P6B/rpRBqPrr"
+  },
+  "c41b7e8ef10f990d1bf95e58063496b7": {
+    "sequence": 2759,
+    "notation": "qBnpkbNp/R6P/b6K/Q6b/P6N/r6p/B6k/pPKbNpqP"
+  },
+  "17571a374caf37c183726094919d661d": {
+    "sequence": 390,
+    "notation": "NNqkrnBr/q6K/N6R/r2NN2n/P2NN2Q/Q6k/b6r/qbKpNBkQ"
+  },
+  "2aeccc46c1e99ef6cc1df6df6a289586": {
+    "sequence": 1005,
+    "notation": "BQbrPqBQ/P6b/K6K/b2nn2P/N2nn2r/p6B/k6q/BkrNqKRn"
+  },
+  "a6abb25c0af99146648d1deaf658d137": {
+    "sequence": 2205,
+    "notation": "NqKRnQkN/r6R/B6p/q6q/p6B/N6r/b6P/PpkQnRKB"
+  },
+  "8d9e38fc969d5bb3bc23fbc6131784a6": {
+    "sequence": 3703,
+    "notation": "RPKbNpkN/N6B/r6q/k6P/Q6r/n6b/P6Q/NqBRpQbb"
+  },
+  "e5afb2ca8c0b99ce42189422f3553f3b": {
+    "sequence": 1370,
+    "notation": "rpkbRPKb/N6N/b6r/Q2bb2K/P2bb2b/r6n/B6R/RBnPKbNp"
+  },
+  "a3fd0ab9885dbd6cccc4c6e463f81e07": {
+    "sequence": 2717,
+    "notation": "NQkrNqpq/N6Q/r6b/P6r/Q6P/n6q/R6B/qpqbRPQb"
+  },
+  "0da74ca0ac56ecbd4c4e9f51083fe138": {
+    "sequence": 2966,
+    "notation": "pRbQPnBR/B6Q/q6n/p6R/R6K/b6q/Q6N/kNqkrnBq"
+  },
+  "95d13ac7cc237f2342e35b8287539ea5": {
+    "sequence": 338,
+    "notation": "PrNQkRnP/p6P/R6n/n6b/Q6K/P6p/r6N/rqprBQPK"
+  },
+  "1bd6d5f68a3d27644b646dfdf931de21": {
+    "sequence": 1710,
+    "notation": "RPKbNpkK/Q6n/P6Q/R6k/b6r/q6N/K6q/BRKQnrkB"
+  },
+  "13c836920f7040c7c69f83c31df93197": {
+    "sequence": 3080,
+    "notation": "prkqNRKb/K6r/q6B/N2rr2Q/r2rr2P/k6R/Q6b/kpRBqPrP"
+  },
+  "92bf3847bf7744b915b83be1a2bd331a": {
+    "sequence": 868,
+    "notation": "QBkpNbKb/q6n/p6R/R6k/b6Q/Q6B/P6r/BBrpqbRP"
+  },
+  "923a41c4943beaa6eac77af81c021563": {
+    "sequence": 3026,
+    "notation": "pBqpRbQP/b6B/N6q/p6P/k6r/B6b/n6Q/pQbrPqBq"
+  },
+  "e6afeb5fe44be6ec0c39b9ba3b0cb2a9": {
+    "sequence": 3429,
+    "notation": "NpNBkPnK/k6q/r6B/N2pp2R/b2pp2p/K6Q/P6b/NKPNbkpr"
+  },
+  "d3d3b2b46bfdb933a21475dfc7dc5bbf": {
+    "sequence": 747,
+    "notation": "BqNrkBnr/R6P/K6n/Q6b/n6K/r6r/k6N/qpNBkPnq"
+  },
+  "03ec5205778d49b5f95a61437afe77b4": {
+    "sequence": 191,
+    "notation": "QrNQkPnr/r6K/B6b/q6n/p6P/R6k/b6B/RkpnBKPq"
+  },
+  "916dbdc5b4504950346be09ff6a69a4d": {
+    "sequence": 3911,
+    "notation": "qqKRnQkq/Q6b/n6K/R6p/p6N/q6B/B6k/bbQpRBqR"
+  },
+  "76b0404103d9d890533684584ac50a58": {
+    "sequence": 2402,
+    "notation": "NKPnBkpn/B6p/n6R/P2PP2B/K2PP2q/b6P/N6n/BPQBrpqr"
+  },
+  "d4346c32ed9744ddc4e98b2c641eb6db": {
+    "sequence": 3792,
+    "notation": "NkrnQKRk/N6R/r6n/K6q/q6K/n6r/P6N/BRnQkrNB"
+  },
+  "38d5d23fb00ff2c7ce9724429603f0f3": {
+    "sequence": 1192,
+    "notation": "bBkPnbKn/P6b/Q6N/b6P/R6K/p6B/q6n/BQPRbqpN"
+  },
+  "b6fa7185c7b360f8030062e52eaef962": {
+    "sequence": 190,
+    "notation": "bqpRnQkp/q6n/K6B/R6k/n6p/Q6N/k6b/qnBkpNbp"
+  },
+  "56e56ca1cbc5f9dcb0d2fc758dfbc0c8": {
+    "sequence": 2434,
+    "notation": "QPrbQpRP/b6n/R6B/P6k/Q6p/B6N/r6b/rNrkQnRP"
+  },
+  "146be574b0dbee143bb8c3150b6f9295": {
+    "sequence": 1279,
+    "notation": "bRnqprNn/k6R/p6b/n6q/B6p/Q6r/P6B/QqKrNQkR"
+  },
+  "ac3b857370d3b24900c4f8e7c3266ebb": {
+    "sequence": 4093,
+    "notation": "BQPRbqKB/R6N/K6r/Q6K/n6q/r6n/k6R/RRRRRRRR"
+  },
+  "94a230704996e1cc592b222bc9afe6bc": {
+    "sequence": 2206,
+    "notation": "qKPNqkrn/q6q/B6K/R2pp2r/p2pp2N/Q6Q/b6k/rrNQkRnr"
+  },
+  "5a4525c09adb32ffa6948821ffbd5100": {
+    "sequence": 2535,
+    "notation": "KrBqpRbr/b6Q/N6b/P2nn2R/K2nn2p/B6q/n6B/QQPRbqpQ"
+  },
+  "79e0fbe49a20f1cd67edb1d236b73792": {
+    "sequence": 2553,
+    "notation": "RPnBkpNb/R6q/R6K/R6r/R6N/R6Q/R6P/RKPNbkpB"
+  },
+  "96a893036ced7e9f61f5a20948012c51": {
+    "sequence": 2309,
+    "notation": "BpqBrkQQ/P6K/K6R/B6N/n6q/p6k/k6p/nKbnPkBR"
+  },
+  "d8301bc1a0d2e6defaf62d9e7a3ab90f": {
+    "sequence": 1996,
+    "notation": "RBqPnbKk/R6r/R6P/R6Q/R6b/R6N/R6p/RRRRRRRR"
+  },
+  "d59aea72a9bc989538719c8517339d9c": {
+    "sequence": 1155,
+    "notation": "npNbKRnk/n6B/Q6r/k2PP2P/r2PP2Q/N6b/q6R/PnRkQNrQ"
+  },
+  "8549734b93306fea6326377c785f10c9": {
+    "sequence": 3389,
+    "notation": "BPQbRpqK/R6b/n6R/Q2QQ2P/k2QQ2Q/r6B/N6r/PrkQnRKQ"
+  },
+  "563f9080e923a65339def26b1d9a3ec4": {
+    "sequence": 2314,
+    "notation": "NrBQPRbN/p6k/k6p/B6n/n6B/P6Q/K6P/RbRpqBrq"
+  },
+  "9ea5edba3adc100fa297dc800f6feb83": {
+    "sequence": 1223,
+    "notation": "rPQbRpqB/R6Q/n6n/B2pp2r/k2pp2k/p6q/N6N/KbRpqBrQ"
+  },
+  "976bac5aeeefacc8d61570577fcd5b10": {
+    "sequence": 940,
+    "notation": "bKbnPkBP/N6R/n6b/b6q/K6p/r6r/N6B/PnPKbRpP"
+  },
+  "aa502c7b0dd8fe231e4f26d6269a2751": {
+    "sequence": 2746,
+    "notation": "qRpqBrPn/r6q/P6p/Q2nn2R/b2nn2b/R6Q/p6P/PKqnRkQP"
+  },
+  "a59a706c30243a95493ebced99b52309": {
+    "sequence": 3000,
+    "notation": "NbRpkBrQ/b6B/N6r/r6P/k6Q/B6b/n6R/BKqnRkQB"
+  },
+  "4a2eee8e9819579b85c58e26fb3f2a5d": {
+    "sequence": 215,
+    "notation": "BKbnPkBb/n6r/R6N/k2qq2q/Q2qq2K/N6R/r6n/bKRnQkrk"
+  },
+  "b22600bb43694836218e157c0ae46d2a": {
+    "sequence": 2546,
+    "notation": "rKqnRkQk/k6P/p6n/n2NN2B/B2NN2k/K6r/P6N/KqKRnBkR"
+  },
+  "1ad433ae1500281d9ce883176bf10d72": {
+    "sequence": 2178,
+    "notation": "NkpnBKPB/R6k/K6Q/Q2rr2n/n2rr2R/r6K/k6q/QbNpkQnp"
+  },
+  "8ee075f36126da1e6f0fd29457acc326": {
+    "sequence": 3692,
+    "notation": "QkrNqpRR/R6n/n6B/q6K/K6P/r6N/B6b/BKbnPkBQ"
+  },
+  "03b71a844da90971e14acaf7ba320291": {
+    "sequence": 521,
+    "notation": "PPQBrpqP/p6q/k6p/b2BB2R/R2BB2b/P6Q/K6P/rqKrNQkB"
+  },
+  "fa3b45432c817c2193c911000c6db19c": {
+    "sequence": 2105,
+    "notation": "kpNbKRnk/k6p/r6k/N2QQ2b/q2QQ2N/K6P/R6K/pkQNrKqR"
+  },
+  "6a63dfa314cbea30ffbb36ac25756c13": {
+    "sequence": 259,
+    "notation": "RpNBkPnk/p6B/q6q/b2NN2P/R2NN2n/P6b/K6K/kBqpRbQq"
+  },
+  "80cee415c25001a063afabbcd042bd39": {
+    "sequence": 3059,
+    "notation": "BPQBrpkP/Q6r/P6B/R2BB2Q/b2BB2P/q6R/p6b/bnRKqNrq"
+  },
+  "d3735c5088de415f67c73d73be043a19": {
+    "sequence": 2683,
+    "notation": "PKqnRPQN/r6q/N6K/Q6P/k6n/P6B/n6k/BrkqNRpB"
+  },
+  "1781ba226d6192057141bcb1d306af9b": {
+    "sequence": 1605,
+    "notation": "bRbqprBN/b6Q/N6b/p2QQ2r/k2QQ2P/B6q/n6B/nrNqKRnN"
+  },
+  "3deb750ac26ca779f35e716f126ea509": {
+    "sequence": 844,
+    "notation": "NbRPQBnP/N6Q/q6b/k6R/r6p/n6q/Q6B/kbQpRBqr"
+  },
+  "131dd0c6dc4db09f3054d7a0e7641487": {
+    "sequence": 1298,
+    "notation": "pqNrkQnR/B6n/k6R/P2BB2k/n2BB2Q/b6N/K6r/rKbNpkBK"
+  },
+  "4342238a9ca2da56145cc14cf5e1fddb": {
+    "sequence": 1038,
+    "notation": "BpRbQPrK/k6R/B6p/n6k/P6B/Q6n/b6P/RRRRRRRR"
+  },
+  "b17206c0100031f8b8d8204a4d173378": {
+    "sequence": 2144,
+    "notation": "PqBRpQbR/b6R/K6R/p2nn2R/N2nn2R/B6R/q6R/RKRnQPrR"
+  },
+  "0ed8327d3d09997fee0b3f23a7436971": {
+    "sequence": 3124,
+    "notation": "knPqBRpQ/N6P/r6K/K6b/q6N/n6p/R6k/RRnqKrNN"
+  },
+  "332d7c264e9e30844ed477d70b29e10f": {
+    "sequence": 3068,
+    "notation": "nBnPKbNk/K6Q/b6n/n6r/P6k/k6q/B6N/BQbRpqBp"
+  },
+  "1b489660166355c98e7c30207680e560": {
+    "sequence": 92,
+    "notation": "pnPKbNpR/r6K/k6R/Q2nn2N/n2nn2q/R6k/K6r/KbQpNBkr"
+  },
+  "5035a466eae409c246c93b17316db785": {
+    "sequence": 2218,
+    "notation": "kkpRbQPp/Q6K/P6b/r2qq2N/B2qq2p/q6k/p6B/pQbrPqNp"
+  },
+  "a3a96e9cc42032cb048e78508d141978": {
+    "sequence": 1012,
+    "notation": "BkpNbKPq/K6b/q6Q/N2pp2P/r2pp2r/k6B/Q6q/PrBqpRbn"
+  },
+  "171f9ddc7c385f77abc0436f57aef959": {
+    "sequence": 1311,
+    "notation": "PbRPQBrk/P6r/K6N/B6q/n6K/p6R/k6n/kbKPnBkb"
+  },
+  "0cd583fcb4d5440e4abcee8a62c5991f": {
+    "sequence": 2286,
+    "notation": "qPKBnpkp/p6q/k6B/b6r/N6P/R6Q/K6b/rKbNpkBr"
+  },
+  "337b3d40c3feaad1a34ded59450c248f": {
+    "sequence": 1072,
+    "notation": "pRbqprBK/P6P/r6n/B6B/q6k/p6p/R6N/BkBnPKbB"
+  },
+  "113d9140fb07123fd660227ba245f17a": {
+    "sequence": 299,
+    "notation": "PbRkQNrP/R6N/p6p/Q6Q/n6b/r6n/P6P/qPrBqpRB"
+  },
+  "9a66036be0e602ca1b9ccfa680e44983": {
+    "sequence": 229,
+    "notation": "KQbrPqBq/q6p/p6k/r6Q/B6n/Q6P/P6K/krNqKRnr"
+  },
+  "e7ab02731291662be5398e6075025d6a": {
+    "sequence": 970,
+    "notation": "qqBRpQbB/P6K/n6R/b6N/K6q/p6k/N6r/qPrBqpRP"
+  },
+  "2c53f95e1ca8e1754cfc3773082a9579": {
+    "sequence": 1349,
+    "notation": "KnPKbNpK/n6N/P6r/q2pp2K/B2pp2q/R6n/p6R/BQPRbqpk"
+  },
+  "2fa121da08961df9f1aa7f2daf3176bb": {
+    "sequence": 2768,
+    "notation": "PQbRpqBp/r6N/P6r/q6K/B6q/R6n/p6R/knBkpNbq"
+  },
+  "5fc5f627f5ffe4a8b1931334e058e0cb": {
+    "sequence": 3344,
+    "notation": "bpRBqPrb/N6n/r6R/K2pp2k/b2pp2Q/n6N/R6r/pnBkpNbn"
+  },
+  "90324577c7471ae65809b3bc6339254b": {
+    "sequence": 1012,
+    "notation": "BkpNbKPq/K6b/q6Q/N2pp2P/r2pp2r/k6B/Q6q/PrBqpRbn"
+  },
+  "f0eca6a67ee52dd31e21223f2b2769e1": {
+    "sequence": 846,
+    "notation": "kRnQkrNK/B6k/k6p/P2nn2N/n2nn2b/b6K/K6P/rQPrBqpP"
+  },
+  "f9a16c63544df79ee83bd625a04ea5a5": {
+    "sequence": 2486,
+    "notation": "qKRnQkrR/Q6q/b6K/N2NN2R/p2NN2n/k6Q/B6P/rqKrNQkK"
+  },
+  "4238bca9b2ffc6c6e81dec8f4f3024ed": {
+    "sequence": 2969,
+    "notation": "qKbNpkBn/q6N/K6b/R2RR2K/n2RR2P/Q6n/k6B/BKbnPqBb"
+  },
+  "bd52492c6f749e60a0c0b4d09bcc75ac": {
+    "sequence": 3134,
+    "notation": "nbQPrBqp/B6k/r6B/p2BB2N/q2BB2p/b6K/R6b/RrNqKRnb"
+  },
+  "46e5210b4f906300604e1503805bb8e4": {
+    "sequence": 1383,
+    "notation": "PRKQnrkq/R6B/n6q/Q2qq2K/k2qq2R/r6n/N6Q/nQPRbkpQ"
+  },
+  "83d78af4de1f3c50fa6e5028bce5da12": {
+    "sequence": 3667,
+    "notation": "bBrPQbRQ/P6K/n6R/B6N/k6q/p6k/N6r/rpRBqkrN"
+  },
+  "a9d6062f0431ff5c876db0147b46f55e": {
+    "sequence": 2987,
+    "notation": "bkQNrKqb/R6B/p6q/Q6p/b6R/r6b/P6Q/QrBqpRbK"
+  },
+  "2eb6537e1343c8fdfb253a1290db079b": {
+    "sequence": 3383,
+    "notation": "bBrpqbRq/R6N/n6q/Q2pp2K/k2pp2P/r6n/N6B/qKPNbkpb"
+  },
+  "8183c6391330f28255fc644a7bc7d73c": {
+    "sequence": 1700,
+    "notation": "bbKpNBkq/q6R/p6b/R6Q/b6P/Q6n/P6B/BKqBrkQk"
+  },
+  "fd3f2f0b8dc5b7cafcb46990988c42eb": {
+    "sequence": 280,
+    "notation": "KPKBnpkQ/r6p/k6N/q6B/N6k/R6P/K6n/rKbNpkBK"
+  },
+  "3c2e5ef5b9a0b53cbe332b0a7184e17d": {
+    "sequence": 2282,
+    "notation": "PrNQkRnq/P6r/Q6B/b6Q/R6P/p6R/q6b/NBrpqbRn"
+  },
+  "0889885c8e9c2648fa77e9e903f3de9b": {
+    "sequence": 1457,
+    "notation": "npNBkPnn/K6Q/q6k/N6R/r6n/k6q/B6K/PQnRKqNp"
+  },
+  "c866d4cdebe310a4a0b93b675d011a8d": {
+    "sequence": 1120,
+    "notation": "pbKpNBkN/n6b/R6K/k6P/Q6n/N6B/r6k/BrkQnRKn"
+  },
+  "beb1c4bab51509532dfd39665761f01a": {
+    "sequence": 1396,
+    "notation": "qkrnQKRQ/p6p/R6q/B6B/q6r/P6P/r6Q/RPrbQpRb"
+  },
+  "e17ec4c9540c849f1bba7ba385c01242": {
+    "sequence": 3847,
+    "notation": "NPrBqpRR/r6q/N6p/q2rr2r/K2rr2B/R6Q/n6P/nKqNrkQP"
+  },
+  "c7e3829c047b09db80b3ec93eadc68e1": {
+    "sequence": 1613,
+    "notation": "qBqPnbQq/r6B/B6n/Q6p/P6k/R6b/b6R/nnPkBNpP"
+  },
+  "e79c21803996b90d2879465c5c219a5b": {
+    "sequence": 3429,
+    "notation": "NpNBkPnK/k6q/r6B/N2pp2R/b2pp2p/K6Q/P6b/NKPNbkpr"
+  },
+  "83b3cc6e969d7f818ee7cfae0a585e64": {
+    "sequence": 656,
+    "notation": "pPQbRpqb/R6p/p6R/Q2nn2n/b2nn2Q/r6k/P6r/KNbkpnBr"
+  },
+  "e09108732840e85139d9b9fea3399b82": {
+    "sequence": 380,
+    "notation": "QBrpqbRn/n6p/Q6k/K6B/R6n/N6P/q6K/BQkrNqKp"
+  },
+  "a2b62fadd305a39b35a97147c159670e": {
+    "sequence": 2952,
+    "notation": "BqKRnQkk/b6q/Q6K/P2nn2r/r2nn2N/B6Q/q6k/KkpNbKPN"
+  },
+  "3b96588a291d50a096144be32dc564d0": {
+    "sequence": 3164,
+    "notation": "prkQnPKp/k6r/Q6P/n2bb2Q/R2bb2b/K6R/q6K/qPnqKpNQ"
+  },
+  "c63b7141c3b35610ece1ee4d66834a3b": {
+    "sequence": 1028,
+    "notation": "bNpkBnPP/n6K/B6R/K6n/P6Q/N6k/b6r/PRpqBrPn"
+  },
+  "fb7054e0ff7ea60f531ea794e6b91174": {
+    "sequence": 3794,
+    "notation": "qPKBnpkp/q6q/B6B/r2qq2R/P2qq2p/Q6Q/b6n/bBqKRnQq"
+  },
+  "43bb878c91e7bc91708395b679e0c040": {
+    "sequence": 1005,
+    "notation": "BQbrPqBK/P6b/K6K/b2nn2P/N2nn2r/p6B/k6q/BkrNqKRn"
+  },
+  "5de757f5a7b1f72211de02a560122c1d": {
+    "sequence": 1516,
+    "notation": "rqprBQkr/N6r/b6B/k6q/p6p/n6R/B6b/kqBRpQbq"
+  },
+  "c6bf1659ba078880881cc260bc71d683": {
+    "sequence": 1758,
+    "notation": "qNbQPrBq/r6k/N6Q/Q6N/k6p/R6K/n6q/RRRRRRRR"
+  },
+  "ca2118e03449cf45bc4395bb991d7b3d": {
+    "sequence": 2496,
+    "notation": "BrBqpRbq/N6Q/r6n/K6R/q6K/n6b/R6N/NNbkpnBr"
+  },
+  "f7abd766db7f2581390dbdc7c646b151": {
+    "sequence": 3269,
+    "notation": "NNqKRnQr/n6B/B6q/K6p/P6R/R6b/b6Q/PnRkQNrp"
+  },
+  "d47de7a67b8e6f74de5888898e8988e4": {
+    "sequence": 150,
+    "notation": "NRnqKrNB/R6P/n6n/q2bb2B/p2bb2k/r6p/N6N/pbKPnBkq"
+  },
+  "85d9e5440f68da1f2b319db317f9a5d2": {
+    "sequence": 3455,
+    "notation": "PRpqBrPp/k6n/r6R/n6K/Q6q/K6N/R6p/KnBkpNbq"
+  },
+  "09d8508656d8b650a06ad309b77311c1": {
+    "sequence": 3517,
+    "notation": "rnBkpNbR/p6p/k6q/Q6B/n6n/P6P/K6Q/qRKQnrPK"
+  },
+  "50951d57082303d40dd1e9e74813629e": {
+    "sequence": 730,
+    "notation": "KkQNrpqn/K6Q/P6n/n2nn2R/B2nn2K/k6q/p6N/qNrKqnRk"
+  },
+  "9a98c850a4594bd4259dd5626bef5f25": {
+    "sequence": 2963,
+    "notation": "RBqPrbQk/P6K/K6q/b6N/N6r/p6k/k6Q/qPKBnpkK"
+  },
+  "24da127d75110ef3f15632b02a24c58c": {
+    "sequence": 2039,
+    "notation": "kRpQbrPN/K6Q/R6n/n6R/Q6K/k6q/r6B/rRbqprBk"
+  },
+  "fc8362bf09012c2236fa16b696dff881": {
+    "sequence": 1185,
+    "notation": "BQnrkqNn/b6q/N6p/p6R/k6b/B6Q/n6P/RRnqKrBP"
+  },
+  "b2e4087273a08b9ef9e16ba1d5451dda": {
+    "sequence": 2864,
+    "notation": "bNrkQnRr/k6q/Q6B/N2rr2R/r2rr2p/K6Q/q6b/BKqnRkQQ"
+  },
+  "64494c82852c12cb4791b7c124bf7a95": {
+    "sequence": 884,
+    "notation": "RRRRRRRR/R6N/n6q/Q6k/k6r/r6n/N6Q/kkpNbQPq"
+  },
+  "3ee5de0f4af9e6e32512e7829e4efa48": {
+    "sequence": 949,
+    "notation": "rKbnPkQB/B6p/q6R/p2nn2B/R2nn2q/b6P/Q6r/BpNBkPnb"
+  },
+  "171a775f18d698fe7a9c08a3ac17b1ac": {
+    "sequence": 2307,
+    "notation": "kQPRbqpn/N6K/p6P/k6n/B6B/n6k/P6p/PnBKPRbq"
+  },
+  "82f2fb5f7206424a1e32dce2061d05ca": {
+    "sequence": 4055,
+    "notation": "nPrBqpRN/P6Q/Q6k/b6p/R6N/p6b/q6K/NKPNbkpp"
+  },
+  "629961ea9bf634a4201b9f1eaaa23a2a": {
+    "sequence": 1336,
+    "notation": "qBqpRbKb/p6Q/R6n/n6R/Q6p/P6q/r6N/QBrpqbRk"
+  },
+  "742b098794f9b8995c72301a875590b9": {
+    "sequence": 845,
+    "notation": "nrkqNRKp/N6k/b6B/K6N/P6p/n6K/B6b/prBqpRbq"
+  },
+  "4a3e0a8a6a87da03d5c71084e637cb9f": {
+    "sequence": 3365,
+    "notation": "rKPnBqpQ/B6n/n6P/R2nn2K/K2nn2b/q6R/N6p/ppkbNPKB"
+  },
+  "1c27aefb4d964afa3bea7a4b46f47c1d": {
+    "sequence": 3577,
+    "notation": "pnQKRNbP/n6r/Q6P/k6q/r6B/B6R/q6p/BrkqNRKr"
+  },
+  "9b23416247ae9ab604ded3b517974ba0": {
+    "sequence": 3119,
+    "notation": "kNqkrbQb/b6Q/Q6b/p2QQ2r/R2QQ2k/B6q/q6B/QbRkQNrK"
+  },
+  "df0c96285d8e52883449a67f020f7127": {
+    "sequence": 859,
+    "notation": "rQkrNqKp/R6Q/b6k/q6R/p6n/r6q/B6K/kBrPQbRk"
+  },
+  "04e974b56720db88c895fecf79efc379": {
+    "sequence": 3833,
+    "notation": "rqKrNQkR/r6N/B6r/q6k/p6Q/R6n/b6R/qKbrPqBp"
+  },
+  "34f972fbb6c293767cde7cfbb54f3c5d": {
+    "sequence": 700,
+    "notation": "qQbrPqBq/p6P/R6K/b6B/Q6n/P6p/r6k/bpRbQPnq"
+  },
+  "8f9c967e931c5600101f1692e34079bc": {
+    "sequence": 944,
+    "notation": "qkQNrKqQ/K6P/R6n/n2PP2b/Q2PP2K/k6p/r6N/bBqpRbQq"
+  },
+  "9323c4157114cad518d4493f9ef078f7": {
+    "sequence": 3083,
+    "notation": "kbKPnBkb/n6b/Q6Q/K2pp2P/R2pp2r/N6B/q6q/brkqNRpR"
+  },
+  "18ab2508a2d8d77dd6ee8915b378d8f5": {
+    "sequence": 451,
+    "notation": "kkQnRKqK/P6P/K6r/B2pp2b/n2pp2Q/p6p/q6R/kBrKqnRk"
+  },
+  "ac189d886e273ec2b0f69dc583128017": {
+    "sequence": 2275,
+    "notation": "qkrNqKRQ/N6Q/p6n/k2NN2R/B2NN2K/n6q/P6N/kkpnBKPr"
+  },
+  "4f5becac04697977ca3653f745839bb1": {
+    "sequence": 1045,
+    "notation": "rrBqpRnk/n6B/P6k/k6P/B6n/R6b/p6K/NPQbRpqP"
+  },
+  "c3a005df6b91f198b52f2c8ba0f30930": {
+    "sequence": 2166,
+    "notation": "PBrPQbRk/q6P/p6Q/r2rr2b/B2rr2R/Q6p/P6q/bqNrkQnb"
+  },
+  "acf0e094e203f4ef6caca71debcaf5df": {
+    "sequence": 3317,
+    "notation": "BKqnRkQQ/K6n/R6Q/N6k/q6r/k6N/r6q/kPQBrpqq"
+  },
+  "d6548fc6a3b5340a0a7e0f2b61b5aae2": {
+    "sequence": 1902,
+    "notation": "pRnQkrNP/R6R/b6n/q2NN2Q/p2NN2k/r6r/B6N/QBkPnbKK"
+  },
+  "624823c088c9a9dbdbbe153348b4fffc": {
+    "sequence": 4087,
+    "notation": "RNrKqnRK/R6p/R6k/R2pp2B/R2pp2n/R6P/R6K/RNrKqnRN"
+  },
+  "11c471bb2d6fae430858994a726b263f": {
+    "sequence": 1651,
+    "notation": "BbQpRBqP/B6B/n6q/P6P/K6r/b6b/N6Q/RBnpkbNq"
+  },
+  "9dee4f6da6f779b75cfa13c93c7d5d01": {
+    "sequence": 6,
+    "notation": "NNrkQnRB/b6q/R6K/p6R/q6n/N6Q/r6k/BNpkBnRN"
+  },
+  "b288bc9bcfc504faeb1a87ac918b7a74": {
+    "sequence": 2785,
+    "notation": "RBqPrbQB/n6R/Q6p/k2nn2Q/r2nn2b/N6r/b6P/pBnPKbNb"
+  },
+  "b33828992c6b2ad1eb7b887dbe2c0629": {
+    "sequence": 3320,
+    "notation": "knPkBNpR/b6k/N6r/P2BB2N/Q2BB2q/B6K/n6R/RbKPnBkp"
+  },
+  "60930749a68b0f81ebf768e44dd66316": {
+    "sequence": 2125,
+    "notation": "RqKrBQPk/q6N/K6p/r6k/N6B/Q6n/k6P/rnRKqNrn"
+  },
+  "b3fe664160b6faa7368b1fe6d94c00af": {
+    "sequence": 1378,
+    "notation": "BPrBqpNb/P6Q/r6n/B2NN2r/q2NN2k/p6b/N6N/QqBrPQbQ"
+  },
+  "2cf35a487ea5a111a89ca2e88e3c604f": {
+    "sequence": 818,
+    "notation": "KKPNbkpp/Q6r/b6B/R6K/p6P/q6R/B6b/bpNQkPnn"
+  },
+  "b611bb808b8235650a1158e821fdf023": {
+    "sequence": 2204,
+    "notation": "nNpkBrPR/p6R/N6p/Q2bb2Q/k2bb2b/R6r/n6P/qqNrkQnr"
+  },
+  "0053ec4563fb7324591ab128c3c89949": {
+    "sequence": 4058,
+    "notation": "KPrBqpRP/k6p/p6q/N2qq2B/b2qq2r/Q6P/P6Q/qPnbKpNq"
+  },
+  "3b61487148e42e682a6a55b702282da9": {
+    "sequence": 3465,
+    "notation": "rpRBqPrP/B6r/r6k/p2pp2q/q2pp2N/b6R/R6K/qPKbNpkQ"
+  },
+  "84f18e0b2a01e9e5150fe7d64a0da837": {
+    "sequence": 2763,
+    "notation": "PPrBqpRP/k6K/r6R/n2nn2N/Q2nn2q/K6k/P6r/ppRbQPrn"
+  },
+  "9dc103dc7e37329c236c02b7b343c509": {
+    "sequence": 463,
+    "notation": "KnPkBNpn/Q6b/P6K/r2nn2p/B2nn2N/q6Q/p6k/QBrPKbNB"
+  },
+  "317f60c363874b9891cbce44dfa62519": {
+    "sequence": 2002,
+    "notation": "qKPNbqpB/b6N/Q6b/P6k/r6p/B6n/q6B/KnPKbRpK"
+  },
+  "6138a816dc94f315568d5d56b5dcd4c5": {
+    "sequence": 889,
+    "notation": "QQPrBqpr/r6R/k6b/q6q/N6p/R6r/K6B/QBqPrbQK"
+  },
+  "44fe50e06040e2685b9613c0e213c8dd": {
+    "sequence": 3193,
+    "notation": "qbNPQBrB/q6B/N6q/R2PP2P/K2PP2r/Q6b/n6Q/PpqbRkQr"
+  },
+  "9753fdbb5f94cd1c9534b02f98520461": {
+    "sequence": 855,
+    "notation": "qkBnPKbK/N6R/b6b/k6q/p6p/n6r/B6N/NKPnBkpb"
+  },
+  "c916b4e19ba0367d0df9f54f973311d4": {
+    "sequence": 1863,
+    "notation": "PbNpkBnB/Q6N/k6q/r2rr2P/N2rr2r/q6b/K6Q/nnQkrNqn"
+  },
+  "7eebf7a4a3da881b34c11434a3d7fcdc": {
+    "sequence": 2920,
+    "notation": "NQPrBqpK/k6b/Q6Q/n2rr2p/R2rr2N/K6B/b6q/PNbkpnBR"
+  },
+  "b4bcffe85faf6e02a313696430947ab9": {
+    "sequence": 1281,
+    "notation": "KkQnRKqp/k6R/p6K/n2qq2q/B2qq2N/K6r/P6P/RrkQnRKB"
+  },
+  "f69d0fbc9cf4670c30a08bf9bab593f5": {
+    "sequence": 1779,
+    "notation": "BQnrkqBP/R6B/K6r/Q2BB2p/n2BB2q/r6b/k6R/rkrNqKPB"
+  },
+  "030c7889e02af56a0103f7513cd8bee3": {
+    "sequence": 3662,
+    "notation": "RRRRRRRR/r6K/P6P/q2nn2n/B2nn2B/R6k/p6p/qbRPQBrB"
+  },
+  "404993030707977834d1b65115266c59": {
+    "sequence": 3170,
+    "notation": "NKqnRkBq/q6p/N6R/R2BB2B/K2BB2k/Q6P/n6r/bpkbNPKR"
+  },
+  "4b7de9cf0a609bf50801dee4be8712a6": {
+    "sequence": 315,
+    "notation": "bkBnPKbq/r6p/P6q/q6B/B6r/R6P/p6Q/NPnBkpNp"
+  },
+  "6dfff34929e5a5970ae3394303488195": {
+    "sequence": 1489,
+    "notation": "nNrKbnRn/Q6N/b6q/R6K/p6R/q6n/B6Q/bpqBnPKK"
+  },
+  "9cf0a4b09d5a7e4139bdc8b46e7e6fb8": {
+    "sequence": 2374,
+    "notation": "PqNRKQnk/R6b/p6R/q6P/B6Q/r6B/P6r/NPKBnpkr"
+  },
+  "fc2e981379720f36c4cb053c882bf2e4": {
+    "sequence": 875,
+    "notation": "QBrpqbRQ/r6K/k6R/q2pp2n/N2pp2Q/R6k/K6r/NkQNrKqQ"
+  },
+  "b981c7df6ebb6f1de95838b98d7cfdaa": {
+    "sequence": 1938,
+    "notation": "QnQKRNqq/N6N/p6q/k2rr2k/B2rr2r/n6n/P6B/QPrbQpRR"
+  },
+  "2675c8f8dd14806c60ddfbce09ba3fb8": {
+    "sequence": 244,
+    "notation": "rKRNqkrR/r6N/N6p/Q6K/k6b/R6n/n6P/bNrKqnPR"
+  },
+  "c76ec3f5d19faf6170ee19f117afc75a": {
+    "sequence": 472,
+    "notation": "NbQpNBkR/B6q/r6p/P2bb2r/Q2bb2B/b6Q/R6P/QpRbQPrP"
+  },
+  "60e7638e5faf9b36face404d2776953c": {
+    "sequence": 1501,
+    "notation": "qPrBqpRP/K6N/b6q/N6K/p6R/k6n/B6Q/RbKPnBkp"
+  },
+  "c5bf37dc5e6735934a3cdbc81b752b2d": {
+    "sequence": 3176,
+    "notation": "NKRBqkrR/p6q/q6B/B2BB2R/r2BB2p/P6Q/Q6b/KrNbKRnq"
+  },
+  "36ccd71324949622544bd3c8830ee390": {
+    "sequence": 2059,
+    "notation": "qRbQPrBP/q6q/K6K/R6r/n6N/B6Q/k6k/KpRnQkrr"
+  },
+  "bc5e2af06d60338a3b7206e1a39f7947": {
+    "sequence": 1695,
+    "notation": "pNbKPnBK/K6K/R6R/B6B/q6q/P6k/r6r/NPrbQpRK"
+  },
+  "810f1c22adff66c76c851e31fcbc64d2": {
+    "sequence": 816,
+    "notation": "qrBKPRbK/k6B/B6n/N2rr2p/p2rr2k/K6b/b6N/npRBqPrn"
+  },
+  "bc70ff53402484f59be4b5ead9825b14": {
+    "sequence": 1118,
+    "notation": "pkQnRpqn/P6K/K6b/B6N/n6p/p6k/k6B/PkBnPQbR"
+  },
+  "764cb95c0580b638e528eb4e728d63ff": {
+    "sequence": 1199,
+    "notation": "qPnBkpNR/p6K/q6q/B6n/r6R/P6k/Q6Q/PBqPrbQN"
+  },
+  "ad36c34f3bdd50ac57a8de0aaa064054": {
+    "sequence": 3088,
+    "notation": "qNqkrnQk/r6k/N6p/q6n/K6B/R6Q/b6P/rBrPQbRB"
+  },
+  "f9b3349a1537d5717a5f6af2cc13385e": {
+    "sequence": 1517,
+    "notation": "pPrbQpRK/q6R/B6b/r6Q/P6P/Q6r/b6B/rPnbKpNB"
+  },
+  "8b69da573d7d3a01e142cfb5d9c8b5b5": {
+    "sequence": 581,
+    "notation": "RnBkpNbn/R6r/R6P/R6Q/R6b/R6R/R6p/RRbqprBP"
+  },
+  "80f0429d74bee2232ee75d0d91ea37de": {
+    "sequence": 3703,
+    "notation": "RPKbNpkN/N6B/r6q/k6P/Q6r/n6b/P6Q/NqBRpQbb"
+  },
+  "2ede3d3c8b9ad8d2717e7a31aea98377": {
+    "sequence": 3083,
+    "notation": "kbKPnBkb/n6b/Q6Q/K2pp2P/R2pp2r/N6B/q6q/brkqNRpR"
+  },
+  "5a4f57ec5e804c663cd969e94b1a9786": {
+    "sequence": 378,
+    "notation": "RRnqKrNb/B6n/r6B/P6q/Q6p/b6N/R6b/bqBrPQbb"
+  },
+  "77200dc3eca802646107059a93c2f19f": {
+    "sequence": 25,
+    "notation": "KqprBQPK/k6R/Q6p/n6q/R6B/K6r/q6k/BnQkrNqQ"
+  },
+  "1ea209b39bc725b4eb0d0f7f2ac6155a": {
+    "sequence": 3148,
+    "notation": "kqBrPQbP/q6R/B6b/r6q/P6p/Q6r/b6N/BPnBkrNn"
+  },
+  "ba4bfcfa1d7e0df4df3ba0a732245828": {
+    "sequence": 2860,
+    "notation": "pBqPrbQQ/k6b/r6R/n6k/Q6Q/K6N/R6r/nRnqKrNQ"
+  },
+  "dccec5afaa17cb6bc4c48a728ef4c172": {
+    "sequence": 3992,
+    "notation": "QbNpkBrb/b6R/K6K/P6Q/n6n/B6r/k6k/NPnBkpNr"
+  },
+  "26f8c8fac89b1c3fa35b6bfeef2dabd0": {
+    "sequence": 1817,
+    "notation": "RnQKRBqK/b6K/R6q/P6n/Q6R/B6k/r6Q/NNrkQnRP"
+  },
+  "6d3efd31339f67e13eeff925068ff485": {
+    "sequence": 85,
+    "notation": "BRKqNrkK/B6k/n6p/p6n/k6B/b6K/N6P/RNbQPnBn"
+  },
+  "731870914508dbf1b1968803e6743b70": {
+    "sequence": 2641,
+    "notation": "NBkpNbKN/Q6B/b6q/R2nn2P/p2nn2r/q6b/B6Q/NRKQnrkN"
+  },
+  "48a1c19c0525462a245d3d74959468fa": {
+    "sequence": 1026,
+    "notation": "nPQBrpqB/n6r/P6P/K6q/q6B/N6R/p6p/kbRpqBrP"
+  },
+  "716333be71a02a6e7e698c7aa620b043": {
+    "sequence": 1347,
+    "notation": "NnRkQNrq/p6B/k6q/B2NN2P/n2NN2n/P6b/K6Q/BnQKRNqp"
+  },
+  "dc5afc96f12b0544d8b6bc58a6e9291d": {
+    "sequence": 3110,
+    "notation": "QkBNpKbN/p6R/q6b/B2bb2Q/n2bb2P/P6r/Q6B/kqNrkQnB"
+  },
+  "dda1ee33b2017e3e5861955fe0f90f43": {
+    "sequence": 1359,
+    "notation": "bKPrBqpP/n6P/B6r/k2pp2b/p2pp2Q/N6p/b6R/nNbkpnBp"
+  },
+  "e4878b97f8a30b01a911325fb4d4efb2": {
+    "sequence": 1652,
+    "notation": "QnPKbNpP/q6r/N6N/r2pp2Q/k2pp2k/Q6R/n6n/kqBrPQbQ"
+  },
+  "058a745aa4740c625363d7fae9ee703c": {
+    "sequence": 100,
+    "notation": "rrNQkRnr/n6q/P6p/k6r/B6B/R6Q/p6P/RNbkpnBk"
+  },
+  "f5e5ce695712b101970cae787f253eb9": {
+    "sequence": 3885,
+    "notation": "pQnpkbNB/B6q/n6K/P2rr2r/K2rr2N/b6Q/N6k/RnBKPNbR"
+  },
+  "4fd9027986c8cd1e1bea3400ed04c355": {
+    "sequence": 3669,
+    "notation": "knRkQNrb/k6R/p6n/N6Q/b6k/K6p/P6N/RRRRRRRR"
+  },
+  "4f98cd9a720a3925bc97754c2344f371": {
+    "sequence": 3310,
+    "notation": "brkQnRKr/R6K/K6b/Q2pp2n/n2pp2P/r6k/P6B/BnRKqNrk"
+  },
+  "368e37cdf0d4dac3fc9221872680fb6d": {
+    "sequence": 2482,
+    "notation": "bQbrkqBk/r6b/N6K/q2rr2p/K2rr2N/R6B/n6k/kpNbKPnn"
+  },
+  "794e7aba078a1177ad36d1fb9428730c": {
+    "sequence": 3068,
+    "notation": "nBnPKbNk/K6Q/b6n/n6r/P6k/k6q/B6N/BQbRpqBp"
+  },
+  "c68b82032c08b99ab6cea411b061f7ad": {
+    "sequence": 3571,
+    "notation": "nkQNrpqp/q6b/p6N/r6P/B6K/Q6B/P6n/qnQkrNqK"
+  },
+  "8457f612b136c325e35dfdc70ce3f592": {
+    "sequence": 3821,
+    "notation": "NbQpRBqR/n6n/P6P/k2PP2K/B2PP2b/N6N/r6p/rRKQnrkk"
+  },
+  "d84e7e3a2f393e03afbfe66e5c03d9cb": {
+    "sequence": 2959,
+    "notation": "nPQBrpqq/N6P/q6r/K2bb2b/R2bb2Q/n6p/Q6R/PkpnBKPP"
+  },
+  "ec3ffabf35a17d40d4e14b838cace2b7": {
+    "sequence": 624,
+    "notation": "KRbQPrBq/p6Q/q6k/b2pp2r/R2pp2N/P6b/Q6K/PRbqprBq"
+  },
+  "33eaed17840023c4adae5153030c84ce": {
+    "sequence": 3111,
+    "notation": "RRRRRRRR/q6b/K6N/r2nn2P/N2nn2K/B6B/k6n/bqNrkQnb"
+  },
+  "8ac9b2894b4d8c416757b041fa0e49da": {
+    "sequence": 2668,
+    "notation": "nKbNpkBq/k6K/r6R/N6N/b6q/K6k/R6p/rNbKPrBP"
+  },
+  "0d1b36e005301c1cb85010566f45b0d7": {
+    "sequence": 1246,
+    "notation": "RBnPKbNp/N6b/p6R/K6p/b6q/r6B/P6r/rPKbNpkN"
+  },
+  "5f8170096e5fa2f88ac2c58b5846feb6": {
+    "sequence": 463,
+    "notation": "KnPkBNpn/Q6b/P6K/r2nn2p/B2nn2N/q6Q/p6k/QBrPKbNB"
+  },
+  "e25537244d517f6b0e3b1510a2e14d7d": {
+    "sequence": 3267,
+    "notation": "NpkBnPKn/N6N/p6b/K2pp2k/b2pp2p/n6n/P6B/kNbkpnBB"
+  },
+  "31efdcf0954efdcf9bc2439f77819dba": {
+    "sequence": 1516,
+    "notation": "rqprBQkr/N6r/b6B/k6q/p6p/n6R/B6b/kqBRpQbq"
+  },
+  "d50f2ce1e4e6b420568a922a95c55376": {
+    "sequence": 2255,
+    "notation": "rpqBrkQP/r6K/B6q/q6n/p6R/R6k/b6Q/qqpRbQPR"
+  },
+  "e85ff0fcee8d7be78c245546bbaa8f37": {
+    "sequence": 547,
+    "notation": "KkpNbKPR/P6k/Q6B/b6n/R6P/p6K/q6b/BqprBQPQ"
+  },
+  "144194992962fc3450f9071bd2b505a8": {
+    "sequence": 1124,
+    "notation": "kqBrPQbR/k6K/Q6R/n6n/R6Q/K6k/q6p/qpkBnPKK"
+  },
+  "6be30c481544130603a873be5f1684ba": {
+    "sequence": 1804,
+    "notation": "bRKqNpkR/N6b/q6Q/K2pp2p/R2pp2R/n6B/Q6q/BNpKbnPk"
+  },
+  "fb59ae21439e6d477ef840fe3fe931d9": {
+    "sequence": 3130,
+    "notation": "qQkRnqKN/q6Q/p6n/r2RR2r/B2RR2k/Q6q/P6N/BQnRKqNR"
+  },
+  "9eb154073e5f6642eeb9d9a0708e080b": {
+    "sequence": 2553,
+    "notation": "RPnBkpNb/R6q/R6K/R6r/R6N/R6Q/R6P/RKPNbkpB"
+  },
+  "cc1410b754bde7e83078dd74d2f79183": {
+    "sequence": 3770,
+    "notation": "RNbKPnBn/n6R/B6b/k2bb2q/p2bb2p/N6r/b6B/RbRPQBrR"
+  },
+  "4194644862f8fab2512ca7cdb7aa1770": {
+    "sequence": 2876,
+    "notation": "pNrkQnRn/n6n/R6B/K6q/q6p/N6N/r6b/rPrbQpRn"
+  },
+  "2026f1d06f7f5fbffefcbb14d004c23b": {
+    "sequence": 3430,
+    "notation": "QqBRpQbP/Q6r/n6B/R2pp2q/K2pp2p/q6R/N6n/rRnqprBR"
+  },
+  "613c4b054d5010d4dbc7da7f4681f607": {
+    "sequence": 1401,
+    "notation": "NkrnQKRP/B6q/r6B/P6R/Q6K/b6Q/R6n/bbKpNBkq"
+  },
+  "823318abed5a9dcfed7c796e20983bc0": {
+    "sequence": 3638,
+    "notation": "kNrKqnRk/K6k/P6B/N6n/q6P/k6K/r6b/bQnRKqNp"
+  },
+  "8756f5d95eaf05673a290c8a87c20786": {
+    "sequence": 629,
+    "notation": "qNbkpnBR/k6P/B6n/n6b/P6K/K6p/b6N/NKqNrkQN"
+  },
+  "a744014499f2255aecb618120cc6d2c4": {
+    "sequence": 2680,
+    "notation": "NKnrkqNp/b6q/K6N/p2rr2R/N2rr2K/B6Q/k6n/kQPRbqpr"
+  },
+  "fbbd1af3a8ebd7eff932e8745fc85db1": {
+    "sequence": 3368,
+    "notation": "PQbrPqBK/R6k/n6B/B6n/k6R/r6K/N6b/bpqbRkQn"
+  },
+  "48faa6c5a593041ddc7583a8c0030dcb": {
+    "sequence": 2004,
+    "notation": "nnQKRNqb/Q6b/k6N/r2pp2p/N2pp2k/q6B/K6n/kNqkrnQk"
+  },
+  "9080c5deff43a7b4213d72aa9844d200": {
+    "sequence": 1241,
+    "notation": "bpkbNPKR/B6k/r6p/p2NN2n/q2NN2B/b6Q/R6P/kNrKqbRq"
+  },
+  "b0b85012e8fd31623041c6f5ab25be80": {
+    "sequence": 3216,
+    "notation": "bRnQkrNb/N6K/q6P/K6N/R6b/n6k/Q6p/ppqbRPQr"
+  },
+  "cca57d07a019e7d0cbc91bcffe52862c": {
+    "sequence": 572,
+    "notation": "pBqpRbQb/r6k/B6p/K6n/P6B/R6K/b6P/KrPQbRpb"
+  },
+  "68004c80037cf7954bd1dbda15222d0d": {
+    "sequence": 1654,
+    "notation": "PbQkrBqB/P6b/r6Q/b2bb2P/Q2bb2r/p6B/R6q/PkQnRKqB"
+  },
+  "8adbabee3d7b1be623787a4ecaad2a3b": {
+    "sequence": 1379,
+    "notation": "RPrbQpRb/P6n/n6B/b2NN2K/K2NN2P/p6N/R6b/bPKbNpkP"
+  },
+  "e0abdf78c4f29a4cc6c38d7a2cd0b2cc": {
+    "sequence": 2249,
+    "notation": "pRbQPrBb/K6N/b6q/N6K/p6R/k6n/B6Q/QkpnBKPq"
+  },
+  "5b213e92d1fee671f910ea8a982634b5": {
+    "sequence": 2161,
+    "notation": "pnRKqNrN/q6N/N6b/R2nn2k/K2nn2p/Q6n/n6B/QnPKbNpP"
+  },
+  "7b549762a215547ec25d8f06da849438": {
+    "sequence": 2426,
+    "notation": "kNpkBnPb/P6r/K6B/b6Q/N6P/p6R/k6b/prkQnPKp"
+  },
+  "54d7d62e2e39e6d871e4454554051d3d": {
+    "sequence": 1870,
+    "notation": "BNrkQnRb/k6k/Q6p/n6N/R6b/K6K/q6R/pqBRpKbN"
+  },
+  "b5f7763250cfc3c869465f3e81104db1": {
+    "sequence": 2976,
+    "notation": "RRpQnrPB/K6B/q6q/N6p/r6R/k6b/Q6Q/KPQBrpqB"
+  },
+  "29a13884ba42da96463bc4c6e2024ce7": {
+    "sequence": 3154,
+    "notation": "BRKQnrkB/Q6n/k6R/R6k/b6Q/q6N/p6r/PqBRpQbR"
+  },
+  "c17d43aee5ab78018d802eceb146e6f0": {
+    "sequence": 3178,
+    "notation": "nnBKPNbK/b6b/K6K/P6P/n6n/B6B/k6k/RRnqKrBq"
+  },
+  "ecde5ef1d7f4748837377b2518d297d3": {
+    "sequence": 3320,
+    "notation": "knPkBNpR/b6k/N6r/P2BB2N/Q2BB2q/B6K/n6R/RbKPnBkp"
+  },
+  "7678e39188a2b0434f51f034737bfb20": {
+    "sequence": 2336,
+    "notation": "PpkBnPKN/r6b/P6N/q2rr2p/B2rr2k/R6B/p6n/qNrkQnRK"
+  },
+  "4a38a92aef63e9e186b9b8d85eac1663": {
+    "sequence": 3233,
+    "notation": "PKqnRkQB/P6p/r6q/B6b/q6R/p6P/R6Q/pPQBrpqK"
+  },
+  "c942c0d5eda878f945cd3c28d947fa7a": {
+    "sequence": 3762,
+    "notation": "NnQkrNqR/q6B/p6r/R2NN2P/b2NN2Q/Q6b/P6R/nPnbKpNb"
+  },
+  "d22314cc8bc0e7da80a65f043e44a4be": {
+    "sequence": 2670,
+    "notation": "KNbkpnBB/q6P/K6K/R6B/n6n/Q6p/k6k/nBkpNqKR"
+  },
+  "20c6a170a342f31bef1ce0ac510967f4": {
+    "sequence": 1798,
+    "notation": "PnRKqNrK/R6b/b6Q/K2BB2p/P2BB2R/r6B/B6q/BbNpkBnk"
+  },
+  "a395083fd52c6984a5d7772c1d0bd061": {
+    "sequence": 797,
+    "notation": "QrBqpRbK/P6q/K6B/b2RR2R/N2RR2p/p6Q/k6b/NKbNpkBN"
+  },
+  "1bbb30ccd0208560682cb9f7d4610f17": {
+    "sequence": 2717,
+    "notation": "NQkrNqpq/N6Q/r6b/P6r/Q6P/n6q/R6B/qpqbRPQb"
+  },
+  "effc0904f84c062e05aeb170b5160c40": {
+    "sequence": 2523,
+    "notation": "QnRkQNrR/n6b/B6R/K2pp2P/P2pp2Q/N6B/b6r/RRpQbrPK"
+  },
+  "3fea5d7286917eb719b66b1eee8ea65e": {
+    "sequence": 2996,
+    "notation": "RrBqpRnr/R6R/R6n/R6q/R6K/R6r/R6N/RnRkQNrn"
+  },
+  "9906e384a79d06a06a12b7b24d3398c5": {
+    "sequence": 1503,
+    "notation": "kqNrkQnB/R6K/n6q/q6n/K6R/r6k/N6Q/kKqnRkQb"
+  },
+  "298704271bee7e34bdf28b6a944d0cc0": {
+    "sequence": 975,
+    "notation": "RbKPrBqR/R6r/R6B/R2pp2q/R2pp2p/R6R/R6b/RQPrBqpp"
+  },
+  "26236bf5b61efa9804a4a5ad30c29032": {
+    "sequence": 3747,
+    "notation": "BqNrkQnP/n6K/Q6b/K2PP2N/R2PP2p/N6k/q6B/nBkPnbKr"
+  },
+  "cc3babeac4a75dab3269f10ad55253bb": {
+    "sequence": 2819,
+    "notation": "RRpQbnPb/Q6R/k6n/r6Q/N6k/q6r/K6B/PpqBnPKR"
+  },
+  "feaf3ab4b546e737d83c328dd1eef97b": {
+    "sequence": 1251,
+    "notation": "qNpKbnPP/B6N/n6r/p2rr2k/k2rr2Q/b6n/N6R/BbNPKBnn"
+  },
+  "4c3f37e75e558f5b4e5a20db9a903240": {
+    "sequence": 3045,
+    "notation": "KnPqBRpp/b6r/N6N/p6q/k6K/B6R/n6n/RRRRRRRR"
+  },
+  "2310d2eb54ed84d47908f5e53e8d1dcc": {
+    "sequence": 73,
+    "notation": "BRbQPrBP/N6r/b6k/k2BB2Q/p2BB2n/n6R/B6K/NNpkBnPR"
+  },
+  "f7d53ac674080a8e18d9e0f1ffbdbe07": {
+    "sequence": 336,
+    "notation": "RRbqprBP/R6P/R6r/R2pp2B/R2pp2q/R6p/R6R/RRbqprBk"
+  },
+  "aabc90a5908bc4fa66eca59a1231aeca": {
+    "sequence": 3513,
+    "notation": "kbRPQBrk/k6P/B6K/n6b/P6N/K6p/b6q/pNqkrnQB"
+  },
+  "c286565c697e1a19d9578551bc33c019": {
+    "sequence": 1807,
+    "notation": "rqKrNQkk/p6P/R6Q/B6b/q6N/P6p/r6q/qqpRbQPQ"
+  },
+  "1f6b0bbe2eb4e3a10577013f6b5e1c94": {
+    "sequence": 3317,
+    "notation": "BKqnRkQQ/K6n/R6Q/N6k/q6r/k6N/r6q/kPQBrpqq"
+  },
+  "41575b0072e081370830c97f89a10d3b": {
+    "sequence": 1413,
+    "notation": "rrBQPRbR/b6b/N6Q/P6p/K6R/B6B/n6q/BnPKbNpK"
+  },
+  "f5f003e98f885368f0c74a2c3a5e5632": {
+    "sequence": 629,
+    "notation": "qNbkpnBR/k6P/B6n/n6b/P6K/K6p/b6N/NKqNrkQN"
+  },
+  "d0127a19f98868437fcda060fb0f9578": {
+    "sequence": 3712,
+    "notation": "RrBQPRbb/n6K/R6P/k2bb2N/Q2bb2b/B6q/r6p/NRbqpnBk"
+  },
+  "afbfc1be2012c3c676e9d4c24aa148ee": {
+    "sequence": 1475,
+    "notation": "KPKBnpkp/K6P/q6K/n2NN2b/R2NN2N/k6p/Q6q/PNrPQnRB"
+  },
+  "e62344b478b5dd440060f3bde9a436f3": {
+    "sequence": 1676,
+    "notation": "PBrpqbRB/r6B/B6n/q2pp2p/p2pp2k/R6b/b6N/nKPnBkpR"
+  },
+  "a6be27ee9165d28d2208d0d9a1d941ef": {
+    "sequence": 2100,
+    "notation": "rqKRnQPN/b6q/N6p/p6r/k6B/B6Q/n6P/KrPqBRKq"
+  },
+  "a94f4b6698e08acc4a16cd29c94d0fd0": {
+    "sequence": 657,
+    "notation": "pkBnPKbb/K6B/b6q/N6p/p6R/k6b/B6Q/PkpnBKPN"
+  },
+  "32df93254705598e9404ec901d07043c": {
+    "sequence": 2457,
+    "notation": "RpNBkPnq/R6R/K6n/q6q/N6K/r6r/k6N/qKbNpkBR"
+  },
+  "c428c383866f60266751a1f2c97d3717": {
+    "sequence": 3105,
+    "notation": "qbKPnQkk/Q6K/k6R/r2BB2N/N2BB2q/q6P/K6r/nNbkpnBN"
+  },
+  "783c8839722a16de30958d98644d94a7": {
+    "sequence": 1931,
+    "notation": "bnRKqNrq/q6N/B6q/n2kk2K/P2kk2R/K6n/b6Q/pkBNpQbK"
+  },
+  "8c3f40349d7ef3328f4bce370006bcac": {
+    "sequence": 3083,
+    "notation": "kbKPnBkb/n6b/Q6Q/K2pp2P/R2pp2r/N6B/q6q/brkqNRpR"
+  },
+  "0f9e2b4517e9d40e6260f94835d45b89": {
+    "sequence": 312,
+    "notation": "rpNBkPnN/q6P/B6r/n6B/P6q/Q6p/b6R/RrNqKRnr"
+  },
+  "bec8b96872fcfec34b68cee33a8a33ac": {
+    "sequence": 3108,
+    "notation": "BkrNqKPk/p6N/R6r/b6k/Q6Q/P6n/r6R/BnRkQNrN"
+  },
+  "78758f1d1829a7dc2a7b3747f661aac5": {
+    "sequence": 92,
+    "notation": "pnPKbNpR/r6K/k6R/Q2nn2N/n2nn2q/R6k/K6r/KbQpNBkr"
+  },
+  "c5d53acaf1630d52037f0ecfca9632bb": {
+    "sequence": 994,
+    "notation": "nbNPKBnK/R6N/b6p/q6K/p6b/r6n/B6P/RbKpNBqR"
+  },
+  "a4f117bc5f32b3cb4a37dccbd8a284c6": {
+    "sequence": 3773,
+    "notation": "KQPrBqpr/n6q/Q6B/k6n/r6P/N6Q/q6b/RNqkrnQR"
+  },
+  "4ecdc4874b477f5659dffc1b67fb3c3d": {
+    "sequence": 105,
+    "notation": "kNpKbnPn/R6N/b6r/q2rr2k/p2rr2Q/r6n/B6R/prNQkRnp"
+  },
+  "b95ea55219966b1002e54aebeb576b54": {
+    "sequence": 2467,
+    "notation": "kpNbKPnk/B6n/r6Q/p2pp2K/q2pp2R/b6N/R6q/rrBKPNbn"
+  },
+  "105086c8ccc294070f9b6a6dd0e88cad": {
+    "sequence": 29,
+    "notation": "PqBRpQbR/R6k/p6Q/Q6n/b6R/r6K/P6q/kkQnRKqK"
+  },
+  "8d07b26621605f6be4211856fbc19435": {
+    "sequence": 362,
+    "notation": "BpkBnPKB/N6p/q6R/P2PP2b/r2PP2Q/b6P/Q6r/nqBRpKbK"
+  },
+  "db33439f47847655397dd48b2fd11cce": {
+    "sequence": 2424,
+    "notation": "QNbKPnBk/r6P/B6n/Q6b/P6K/R6p/b6N/BpRBqPnk"
+  },
+  "66c5da3569973c411828be698fe38970": {
+    "sequence": 3917,
+    "notation": "rnBKPNbN/k6Q/p6P/N2rr2r/b2rr2B/K6q/P6p/BRpQbrPr"
+  },
+  "a53a1b8e782be79ea12e93e16ffa7258": {
+    "sequence": 3662,
+    "notation": "RRRRRRRR/r6K/P6P/q2nn2n/B2nn2B/R6k/p6p/qbRPQBrB"
+  },
+  "a3b6bb1eeafbebfbeee9e1a69e910a61": {
+    "sequence": 1679,
+    "notation": "qBrPQbRR/B6r/q6B/P2qq2Q/r2qq2P/b6R/Q6b/PqpRbQPB"
+  },
+  "c4ee0e268a04bdf131992a99a9bcc062": {
+    "sequence": 3600,
+    "notation": "rkQNrKqb/K6b/b6K/n6P/P6n/k6B/B6q/kKPnBkpB"
+  },
+  "eb95fc90834c54b2efc1d8b5a475d4cc": {
+    "sequence": 1442,
+    "notation": "pqKrNQkq/K6p/b6q/N6b/p6R/k6P/B6K/ppkBnPKN"
+  },
+  "1f5480c86bd3786b24cad93b4b3428a4": {
+    "sequence": 725,
+    "notation": "qRnQkrNK/p6k/q6p/B6n/r6B/P6K/Q6P/pRKqNpkp"
+  },
+  "db1b84d9af1096c78bcd865ec4d023e1": {
+    "sequence": 2345,
+    "notation": "knQkrNqq/p6B/R6q/n2NN2P/Q2NN2r/k6b/r6Q/qBnPKbNP"
+  },
+  "fd79cab1ae1f02ed6cab64d952db46f6": {
+    "sequence": 2144,
+    "notation": "PqBRpQbR/b6R/K6R/p2nn2R/N2nn2R/B6R/q6R/RKRnQPrR"
+  },
+  "76b3f755c85e2bf395fcc7d337e619ff": {
+    "sequence": 49,
+    "notation": "BnBkpNbr/r6k/N6Q/Q6n/k6R/R6K/n6q/KqKrNQkk"
+  },
+  "47601a80c6dc7e9fd16c5c5e60b98b8b": {
+    "sequence": 3437,
+    "notation": "NKqnRkQp/B6K/r6P/P2PP2n/Q2PP2B/b6k/R6p/NRKqNrkQ"
+  },
+  "efc2d86c6ec4d3dc9bba53990f655f06": {
+    "sequence": 966,
+    "notation": "NnRqQNrq/P6R/r6n/B2pp2q/q2pp2K/p6r/R6N/pkpNbKPn"
+  },
+  "989dde5facdc67c1c57ad8b12a72f091": {
+    "sequence": 1333,
+    "notation": "PQbrPqBQ/R6K/n6P/Q2nn2N/k2nn2b/r6k/B6p/nkrnQKRr"
+  },
+  "cb510def2fd855c87e202e0ce8497291": {
+    "sequence": 1713,
+    "notation": "bKPnBkpB/N6q/r6B/k2pp2r/Q2pp2P/n6Q/R6b/KKRBqkrB"
+  },
+  "e21e9358a5175c9245b5e1c26cc1a07b": {
+    "sequence": 85,
+    "notation": "BRKqNrkK/B6k/n6p/p6n/k6B/b6K/N6P/RNbQPnBn"
+  },
+  "278937565c6d3a933fb646db196d8ce2": {
+    "sequence": 1461,
+    "notation": "qNpKbnPK/k6R/B6K/n6q/P6N/K6r/b6k/knBkpNqB"
+  },
+  "01caa1d46346cdbc480d0f8bd607f523": {
+    "sequence": 1816,
+    "notation": "RBnpkbNB/N6Q/p6b/k2nn2R/B2nn2p/n6q/P6B/BPnqKpNq"
+  },
+  "4057e930b91acb8f087ad9c7e433fb86": {
+    "sequence": 3860,
+    "notation": "RbKrNBkr/P6R/r6K/b2pp2Q/K2pp2n/p6p/R6k/bRnqKpNk"
+  },
+  "eb8fe828776fce214745e4b6d65bf3a6": {
+    "sequence": 1028,
+    "notation": "bNpkBnPP/n6K/B6R/K6n/P6Q/N6k/b6r/PRpqBrPn"
+  },
+  "5ab685f280e28b58d7c9202c53e9fe88": {
+    "sequence": 997,
+    "notation": "RNrKqnRn/B6K/r6q/P6N/Q6r/b6k/R6Q/qbKPnQkb"
+  },
+  "b25d11e01b14843469b2c77d4002930b": {
+    "sequence": 3951,
+    "notation": "nqBRpQbq/b6N/K6b/p2rr2k/N2rr2p/B6n/k6B/bqKrNQkN"
+  },
+  "30ca4bf766b71f840f1b5eeeafad4a65": {
+    "sequence": 1264,
+    "notation": "BKPNbkpN/R6k/b6r/q6n/p6Q/n6K/B6R/NQnrkqNN"
+  },
+  "f01210cd6cc643e2df8efd4da71ae30f": {
+    "sequence": 2775,
+    "notation": "RRnqprNP/q6N/p6b/r2bb2K/B2bb2P/K6n/P6B/PkBnRKqq"
+  },
+  "f29c82c8ce619ca82e0d9e22ecf1b6cb": {
+    "sequence": 1522,
+    "notation": "NNqkrnBq/q6Q/N6n/r6R/k6K/Q6q/n6N/PbNPKBrR"
+  },
+  "440d331c06b99459cf4d6dceb4cd1b88": {
+    "sequence": 3691,
+    "notation": "qPQNrKqN/R6P/n6r/q2rr2b/K2rr2Q/p6p/N6R/NNqKRnQb"
+  },
+  "6debdf8b5bc30a6ca26ed896dcda64bb": {
+    "sequence": 4085,
+    "notation": "nPQBrpqR/n6P/B6Q/K6B/P6r/R6p/b6q/bqNrkQnk"
+  },
+  "e084a4b1349d13e1845cabe438b7a05d": {
+    "sequence": 2880,
+    "notation": "QqNRKQnq/b6B/R6q/P6P/Q6r/N6b/r6Q/qpkbNPKp"
+  },
+  "f2c9e28276a7cec0d5f6b0c5396ca406": {
+    "sequence": 3515,
+    "notation": "RnQKRNbP/K6p/R6k/N6b/q6N/k6R/r6K/KpqBrPQQ"
+  },
+  "addd9a15db128f2eff62384c6f83a46f": {
+    "sequence": 1768,
+    "notation": "RPrBqKRK/r6P/k6Q/Q2RR2B/n2RR2r/R6p/p6q/NRnqKrNb"
+  },
+  "cee01cd2e1a7cce9b85ea91905f18164": {
+    "sequence": 2,
+    "notation": "PQbRpqNK/P6Q/K6k/b6R/N6n/p6q/k6K/nkBnPKbP"
+  },
+  "248b763831f62e1ac404aa3f6703c388": {
+    "sequence": 1519,
+    "notation": "PRpQbrPR/P6P/K6Q/b2QQ2B/N2QQ2r/p6p/k6q/bkpNbKPK"
+  },
+  "b733f90bc3ca62b4a22bc40b79fb1b53": {
+    "sequence": 3150,
+    "notation": "QnPKbRpk/Q6p/b6q/r2PP2b/P2PP2R/q6P/B6K/pQPRbqpp"
+  },
+  "9a87e7a269ed0300ed52ee4abbf516bb": {
+    "sequence": 3563,
+    "notation": "kpNbKPnR/p6R/N6R/b2nn2R/K2nn2R/P6R/n6R/qKPnBkpR"
+  },
+  "0c6bcafede2b15459cd11777c05bb156": {
+    "sequence": 3074,
+    "notation": "NQkRnqKN/r6b/P6N/Q6p/b6k/R6B/p6n/RKRNqkrq"
+  },
+  "a7da83e89797f4e6d4ddb21f4a3e5d2f": {
+    "sequence": 1502,
+    "notation": "KBnpkbNr/Q6b/k6K/r2rr2P/N2rr2n/q6B/K6k/NrPqBRpb"
+  },
+  "ee24eff7fde4102cd776d34b0ab87b46": {
+    "sequence": 1285,
+    "notation": "bBkpRbKP/k6n/p6Q/n2qq2K/B2qq2R/K6N/P6q/brkQnPKK"
+  },
+  "a8707202a9687eef1c777c435b2fad17": {
+    "sequence": 34,
+    "notation": "PpkQnRKB/Q6P/P6r/r6b/B6Q/q6p/p6R/pbNpkBnn"
+  },
+  "2fd31b1418063f0d577f87d64367afb7": {
+    "sequence": 2882,
+    "notation": "NqBRpQbb/n6b/R6N/k2pp2P/Q2pp2K/N6B/r6n/BbQPrBkB"
+  },
+  "ecb2f7f4602f42d8c1e0da41b7fd4053": {
+    "sequence": 767,
+    "notation": "bbRpqBrK/Q6n/b6R/r2rr2p/P2rr2q/q6N/B6r/RnRkQNrP"
+  },
+  "a3fdbdd73f7ddd3619b7b3c15e53035d": {
+    "sequence": 3610,
+    "notation": "nqKrNQkQ/N6b/p6Q/k2NN2P/B2NN2r/n6B/P6q/PBrpqbRk"
+  },
+  "ce7c3d1673cbb56dd26c101ae65b88fe": {
+    "sequence": 3662,
+    "notation": "RRRRRRRR/r6K/P6P/q2nn2n/B2nn2B/R6k/p6p/qbRPQBrB"
+  },
+  "8a87e579c1fd493cb8da9bdd6c632d54": {
+    "sequence": 2841,
+    "notation": "BpkbNPQk/P6R/r6K/b2pp2Q/Q2pp2n/p6r/R6k/KrBQPRbP"
+  },
+  "a4e3745d2a629474918cc9f25204396f": {
+    "sequence": 501,
+    "notation": "RNqkrnQP/n6R/P6p/k6Q/B6b/N6r/p6P/KbKpNBkk"
+  },
+  "56ab6130c45a2a76c06e0b42f375911f": {
+    "sequence": 501,
+    "notation": "RNqkrnQP/n6R/P6p/k6Q/B6b/N6r/p6P/KbKpNBkk"
+  },
+  "b1ccf33ea8758deaf7b9320231f7b78b": {
+    "sequence": 116,
+    "notation": "bNqKRnQq/r6q/N6p/q6r/K6B/R6Q/n6k/rBrpqbRp"
+  },
+  "3d29e522d92995373f516c844bb14e18": {
+    "sequence": 1235,
+    "notation": "rPnbKpNB/q6K/p6R/r6n/B6Q/Q6k/P6r/rqNRKQnn"
+  },
+  "3c754322565ab7a0e4ed33e53d576556": {
+    "sequence": 2325,
+    "notation": "PqpRbQPB/r6r/N6P/Q6Q/k6b/R6R/n6p/QrNqKRnp"
+  },
+  "55acc41bda20b5eb5ef52d3d8cece4ac": {
+    "sequence": 838,
+    "notation": "PrPqBRpQ/R6k/p6r/q2PP2N/B2PP2q/r6K/P6R/NnBKPNbB"
+  },
+  "3f6ffd7bece93e9a330c733c85ba08c6": {
+    "sequence": 3071,
+    "notation": "pKbnPkBQ/B6n/n6R/P6k/K6Q/b6N/N6r/BNqKRnQN"
+  },
+  "689fe0dd59f0e782447b2f64bee0b8af": {
+    "sequence": 1663,
+    "notation": "NbNPKBnR/n6N/B6p/K6k/P6B/N6n/b6P/BrNQkRnK"
+  },
+  "ae167f15d8ee6455caccc96ea7503c94": {
+    "sequence": 934,
+    "notation": "qKqNrkQk/P6k/r6B/B6N/q6p/p6K/R6b/RPrbQpRp"
+  },
+  "3819fac615cd8c805b11b4582829eb74": {
+    "sequence": 1863,
+    "notation": "PbNpkBnB/Q6N/k6q/r2rr2P/N2rr2r/q6b/K6Q/nnQkrNqn"
+  },
+  "5d3d0667b23f029f85406546c1e2b7dc": {
+    "sequence": 1753,
+    "notation": "PBkPnbKb/K6R/q6n/n2BB2q/R2BB2K/k6r/Q6N/rKbnPqBq"
+  },
+  "b2b65290bf2b85b6ca411d02c186636b": {
+    "sequence": 62,
+    "notation": "KnBKRNqr/p6r/R6N/b2RR2Q/Q2RR2k/P6R/n6b/nnBkpNbP"
+  },
+  "32de01a1c6e231d8c2aa7ad0426b271f": {
+    "sequence": 4037,
+    "notation": "BBnPKqNN/K6K/q6P/N2RR2n/r2RR2B/k6k/Q6p/PnRkQNrR"
+  },
+  "d3faa4c1dbfa1470f8e0bca9f64f09f6": {
+    "sequence": 3545,
+    "notation": "KNbKPnBb/p6q/N6p/B6r/k6B/P6Q/n6P/bPKbNpkN"
+  },
+  "3c6ca5b46eb73312ef4e1cd3a446090a": {
+    "sequence": 421,
+    "notation": "RqBRpKbk/k6r/r6N/N2rr2Q/q2rr2k/K6R/R6n/bQkrNqKR"
+  },
+  "c33c73018fffcaa2a887f1bcf71d2201": {
+    "sequence": 2728,
+    "notation": "BqBRpQbb/n6k/B6Q/K6N/P6r/N6p/b6q/PpkBnPKQ"
+  },
+  "90cae8cbbef6610cdaee6e23819f5b4c": {
+    "sequence": 3017,
+    "notation": "nqpRbQPB/P6k/n6B/B2nn2n/k2nn2P/p6Q/N6b/NrPqBRpk"
+  },
+  "643446843aad7957e6d58305b8cad088": {
+    "sequence": 3666,
+    "notation": "kRnBkpNb/N6B/b6r/K2kk2p/P2kk2q/n6b/Q6R/rKPNbkpK"
+  },
+  "c42e5d3ad65fef8c6554df035e81ccc6": {
+    "sequence": 3186,
+    "notation": "NPnBqpNk/k6K/r6b/n6N/Q6r/K6k/R6B/qPnBkpNP"
+  },
+  "fa2fe51feb23736af67a5dd624665593": {
+    "sequence": 3417,
+    "notation": "rnPkBNpB/q6R/p6K/r2nn2Q/B2nn2n/K6r/P6k/npkbNRKq"
+  },
+  "ec00d788a8e8530f5789e17cd17a7aea": {
+    "sequence": 2833,
+    "notation": "BNrkQnPq/B6K/n6q/p6n/k6R/b6k/N6Q/bbKPnBkP"
+  },
+  "14a32bc8d04cd4ad35dd5631a7b057bb": {
+    "sequence": 1131,
+    "notation": "nbQPrBqQ/r6Q/k6b/Q6r/n6P/R6q/p6B/qpkBnPKp"
+  },
+  "8a5042cfcca8c2654074dbb721c57ba5": {
+    "sequence": 1720,
+    "notation": "nNrKqbRr/Q6q/k6B/R6r/n6P/b6Q/K6n/RRRRRRRR"
+  },
+  "a37a5c6babdcfb75c196eece6f9eea1f": {
+    "sequence": 2897,
+    "notation": "BKRnQPrn/B6q/r6K/P2qq2R/Q2qq2n/b6Q/R6k/KqBRpQbq"
+  },
+  "7743907df43148bf277e2cfde0ea3a01": {
+    "sequence": 1299,
+    "notation": "pQnRKqNK/Q6q/k6B/p2nn2r/N2nn2P/q6Q/K6b/NnQkrNqK"
+  },
+  "55c470e54150cb9b062263308df14b90": {
+    "sequence": 805,
+    "notation": "RbQPrBqp/P6b/n6R/B6p/k6q/p6B/N6r/pBqpRbQK"
+  },
+  "5446789839413288f50bbd1ea89d160f": {
+    "sequence": 2650,
+    "notation": "KqNrkQnk/Q6N/b6r/R6k/p6Q/q6b/B6R/bQkRnbKN"
+  },
+  "47afb22e3f5d213fbf8b2150475ea9fd": {
+    "sequence": 274,
+    "notation": "rnPKbNpB/R6R/p6K/q2PP2q/B2PP2N/r6r/P6k/RnQkpNqn"
+  },
+  "4ab7ea5a570b4818c944b569c5726a64": {
+    "sequence": 2789,
+    "notation": "kPQBrpqR/p6b/N6K/b2pp2p/K2pp2N/P6B/n6k/KnQkrNqq"
+  },
+  "fec671aa2cea7cd821c65dbc1c4e8556": {
+    "sequence": 3719,
+    "notation": "RqNrPQnQ/R6B/R6q/R6p/R6R/R6b/R6Q/RNpkBnPb"
+  },
+  "a6d56c6dd094a0f5d1ab2d6043e005e9": {
+    "sequence": 1475,
+    "notation": "KPKBnpkp/K6P/q6K/n2NN2b/R2NN2N/k6p/Q6q/PNrPQnRB"
+  },
+  "f91fdd2768a66e709c09f7b3ad7c5de9": {
+    "sequence": 1573,
+    "notation": "bRnqKrBP/q6k/p6p/R2kk2n/b2kk2Q/Q6K/P6R/PNpKbrPp"
+  },
+  "c2944d7ff7f9a76bf7df434317d0de37": {
+    "sequence": 3153,
+    "notation": "NNpKbnPr/n6q/P6p/k2nn2r/B2nn2B/N6Q/p6P/BbQpRNqP"
+  },
+  "7d1a819f9914c30fc8a02b74843bd2fb": {
+    "sequence": 3232,
+    "notation": "BRnqKrNQ/q6r/K6B/R6Q/n6P/Q6R/k6b/rbRPQBrK"
+  },
+  "6fbec4fccb6d774cc8afc255127de8fc": {
+    "sequence": 2915,
+    "notation": "qqNrkQnK/k6Q/p6n/n2NN2r/B2NN2k/K6q/P6N/KRpkBrPb"
+  },
+  "366ca45654457af248d9a6a0c54b8de1": {
+    "sequence": 3880,
+    "notation": "rRnqKrNk/n6N/P6q/K6k/b6r/N6n/p6Q/KQkrNqKk"
+  },
+  "1ac5331b80fa885972efb7e3865f22e0": {
+    "sequence": 1034,
+    "notation": "kpNbKPnn/N6k/b6B/k6n/p6P/n6Q/Q6b/QqNrkBnK"
+  },
+  "dbf6fe36866c1ddb636f363edfc1d88f": {
+    "sequence": 594,
+    "notation": "rKbnPqBq/r6n/B6B/q2nn2k/p2nn2p/R6N/b6b/NqBRpQbn"
+  },
+  "428319f874786c4331d3d519d686c352": {
+    "sequence": 4035,
+    "notation": "kkrnQKRP/P6N/n6b/b2rr2k/K2rr2p/p6n/N6B/knQKRNbn"
+  },
+  "9b47bcbd02914bab4be85a05fffdf471": {
+    "sequence": 2349,
+    "notation": "PkQNrKqq/P6k/Q6B/B6n/r6P/p6Q/q6b/knBKPRbq"
+  },
+  "455d266c24dfc51095888e7964f578ce": {
+    "sequence": 2861,
+    "notation": "knQKRNbn/R6n/b6Q/q2rr2k/p2rr2r/r6N/B6q/QQbRpqBR"
+  },
+  "fbc3c2f351003c82dde3cb2dc98bcafd": {
+    "sequence": 244,
+    "notation": "rKRNqkrR/r6N/N6p/Q6K/k6b/R6n/n6P/bNrKqnPR"
+  },
+  "654622ee1113de17e102dddcf649489e": {
+    "sequence": 2251,
+    "notation": "RRRRRRRR/N6R/q6p/k6Q/r6b/n6n/Q6P/nBrPKbNr"
+  },
+  "bd7bd6006f0cbc96a1643d061f0e089d": {
+    "sequence": 2612,
+    "notation": "qkpNbKPN/R6k/b6Q/q6n/p6R/r6K/B6q/qQbrPqBq"
+  },
+  "a885be764b788e642a4a9a6d89f98f2c": {
+    "sequence": 1415,
+    "notation": "bNrKqnPR/N6q/p6K/K6R/b6n/n6Q/P6P/RNpkBnPb"
+  },
+  "a7dfa245b7422e9865523aa2d90b636f": {
+    "sequence": 4043,
+    "notation": "nkpnBKPN/r6b/N6Q/q6p/K6R/R6B/b6q/qQnrkqBk"
+  },
+  "f48ec3df51475b1335ed1db6996efa81": {
+    "sequence": 1095,
+    "notation": "BKPNbqpp/R6Q/p6P/q2pp2R/B2pp2b/r6q/k6p/KRnQkrNk"
+  },
+  "7c45478b0106c41866ca8fc05db189c8": {
+    "sequence": 2422,
+    "notation": "RNbQPnBn/Q6R/n6K/r6q/k6N/q6r/B6k/qnQKRNqB"
+  },
+  "4d028425121b0f18c3f4b2ce346792f3": {
+    "sequence": 2456,
+    "notation": "NKqnRkQB/N6q/q6B/K2bb2R/P2bb2p/n6Q/B6b/RRRRRRRR"
+  },
+  "d20a1eb9681b81da42a539aee12951a0": {
+    "sequence": 2119,
+    "notation": "PpqbRPQb/P6n/r6Q/B6K/q6R/p6N/R6q/kpkBnPKq"
+  },
+  "590fd47862b4c0724078224d7a9d5a88": {
+    "sequence": 3215,
+    "notation": "NKqNrkQN/k6B/Q6q/n2pp2p/R2pp2R/K6b/q6K/bKqNrkQk"
+  },
+  "b2baa31bf82e432d995862b63b1acc7f": {
+    "sequence": 4082,
+    "notation": "QnBKPNqk/K6R/R6n/N6Q/q6k/k6r/r6N/BKRNqkrr"
+  },
+  "cf0356e928864b3e2a1aac54a2e4a890": {
+    "sequence": 2325,
+    "notation": "PqpRbQPB/r6r/N6P/Q6Q/k6b/R6R/n6p/QrNqKRnp"
+  },
+  "173fd259aa96c45dfe55f18fe450890c": {
+    "sequence": 1482,
+    "notation": "pqBrPQnR/r6p/k6N/Q6b/n6K/R6P/K6n/QbNpkBnR"
+  },
+  "0415603df58c2163502295deed128a2e": {
+    "sequence": 827,
+    "notation": "qNpKbrPR/k6b/r6K/n2RR2p/Q2RR2N/K6B/R6k/PrNQkRnb"
+  },
+  "3e7cd68eabef3c24a045c783574c4b33": {
+    "sequence": 2196,
+    "notation": "RNrKqnRb/R6B/R6q/R6P/R6r/R6b/R6Q/RrBQPNbK"
+  },
+  "9e8f4c39239da2aeca32815ae324c999": {
+    "sequence": 2375,
+    "notation": "KBnpkbNN/B6k/q6r/p2qq2N/R2qq2b/b6K/Q6P/RKbnPkBR"
+  },
+  "c2b636a7a489737a14d70a5ef040838a": {
+    "sequence": 3052,
+    "notation": "rKRnQkrk/k6Q/p6b/n6r/B6P/K6q/P6B/NpNBkPnK"
+  },
+  "186332c89db649fcfde5a36e4cd4b2dc": {
+    "sequence": 60,
+    "notation": "rBnPKbNR/p6r/q6N/b2PP2q/R2PP2K/P6R/Q6n/nkpnBKPN"
+  },
+  "6f99497b57e200e041fc381b401c7d3b": {
+    "sequence": 1006,
+    "notation": "NRpqBrPq/B6N/q6b/p2rr2k/R2rr2p/b6n/Q6B/NqNRKQbb"
+  },
+  "643b1069e98e0c1a4a010d29cd31c6a6": {
+    "sequence": 2403,
+    "notation": "kNbkpnBq/b6b/R6R/k2bb2P/Q2bb2Q/B6B/r6r/pQPrBkpB"
+  },
+  "170889ad1442e3a0653a5b31cc0ac443": {
+    "sequence": 2074,
+    "notation": "rNbKPrBP/K6p/P6k/N6b/b6N/k6P/p6K/qKqnRkQb"
+  },
+  "b9a271fd170a2d4296522a121b33f5cf": {
+    "sequence": 3583,
+    "notation": "BNpkBnRN/B6n/k6R/p2PP2k/N2PP2Q/b6N/K6r/RNrKqnRb"
+  },
+  "552cda9b8659cb6cf81c9738b5ad9edc": {
+    "sequence": 1726,
+    "notation": "KNpkBrPn/b6R/R6K/P6q/Q6N/B6r/r6P/NNpQbnPR"
+  },
+  "0a62e1903280afc29f11d96a8120fdaf": {
+    "sequence": 1135,
+    "notation": "kNqKRnQP/P6b/Q6N/b2NN2P/R2NN2K/p6B/k6n/bkQnRKqn"
+  },
+  "64f4606b2fbca8ba5a552ffb620afe6c": {
+    "sequence": 2342,
+    "notation": "NKqnRkQB/K6K/q6R/n6N/R6q/k6k/Q6r/KqNrkQnb"
+  },
+  "3032b2761bbe300030ce09a52f2a5c06": {
+    "sequence": 3714,
+    "notation": "KPnBkpNp/N6r/r6k/K6Q/q6n/n6R/R6K/BpNQkRnB"
+  },
+  "c598f8912ddfa4545469f1a0d17b28b6": {
+    "sequence": 2445,
+    "notation": "KRnqKrNn/R6p/K6R/Q6B/n6q/r6P/k6r/NbQPrBqR"
+  },
+  "5c27c68fc7da3f6683386fc3932424d5": {
+    "sequence": 1173,
+    "notation": "QqBRKQnn/Q6p/b6k/r2PP2B/P2PP2n/q6P/B6K/PRKQnrkq"
+  },
+  "07a4af9a25e250bbe32f934e64242ff0": {
+    "sequence": 143,
+    "notation": "bNpkBnPQ/K6P/q6K/N6b/r6N/k6p/Q6k/RpqbRPQN"
+  },
+  "f2b6937e83f5a4f7b27831a8bfa33ba3": {
+    "sequence": 2562,
+    "notation": "nqpRbQkr/K6K/b6P/n6n/P6B/k6k/B6p/knRkQNrb"
+  },
+  "19155c618b6c50f1df9ef202bf707eeb": {
+    "sequence": 3390,
+    "notation": "BNbkpnBN/p6Q/k6b/b2pp2r/N2pp2P/P6q/K6B/qNqkrnQk"
+  },
+  "45ccfce5c05f578024848300b82a0f7d": {
+    "sequence": 3716,
+    "notation": "nBkPnbKr/p6p/N6N/B6B/k6k/P6P/n6n/kpNbKPnP"
+  },
+  "a92e46b0a1db8763bcf11f593db52015": {
+    "sequence": 529,
+    "notation": "rrNQkRnr/n6K/R6k/K6N/q6r/N6k/r6Q/nrNQkRnr"
+  },
+  "a8b501259fe51b30010be99368d4bd84": {
+    "sequence": 121,
+    "notation": "bbNPKBnK/P6K/K6R/B6n/n6Q/p6k/k6r/PnRKqNrQ"
+  },
+  "33817cedaf1b4d0776f318e1e2cfebdd": {
+    "sequence": 3076,
+    "notation": "BkQNrKqR/r6R/N6K/Q6q/k6N/R6r/n6k/krkqNRKN"
+  },
+  "c90a535996a39d824449e6c6817d7ae6": {
+    "sequence": 3760,
+    "notation": "prPKbRpQ/b6k/K6p/p2pp2n/N2pp2B/B6K/k6P/kkrnQKRB"
+  },
+  "dc2e7ee68fc494e34cc47c241ea9c2b6": {
+    "sequence": 4000,
+    "notation": "PnRKqNrR/R6P/p6K/Q6b/b6N/r6p/P6k/PbQPrBqq"
+  },
+  "ea25d504ca38cd24e0cc9e14a67f8905": {
+    "sequence": 2844,
+    "notation": "RpRbQPnp/r6B/N6r/b2QQ2p/K2QQ2q/P6b/n6R/kkQNrKqR"
+  },
+  "d9e2c7e3ed749b03d60f87a381a3a603": {
+    "sequence": 3962,
+    "notation": "KRnqKrNk/P6N/Q6r/B6P/r6Q/p6b/q6R/bpqbRPQB"
+  },
+  "7e7410a94b677d583a704dc251e7b812": {
+    "sequence": 692,
+    "notation": "bQbrPqBk/k6q/B6K/n6R/P6n/K6Q/b6k/rNrkQnRP"
+  },
+  "9e00e9a37034960a9eb06d7640cd8c29": {
+    "sequence": 1039,
+    "notation": "BBkpNbKp/b6Q/N6k/P2pp2r/K2pp2N/B6q/n6p/NNpKbnPR"
+  },
+  "cb6a0db9a5f0c41c20969ffbf701a063": {
+    "sequence": 2031,
+    "notation": "KpqBnPQP/N6P/r6K/K2PP2B/q2PP2n/n6p/R6k/nKqnRkQP"
+  },
+  "8649c91031926d69f385ab989be387d2": {
+    "sequence": 2125,
+    "notation": "RqKrBQPk/q6N/K6p/r6k/N6B/Q6n/k6P/rnRKqNrn"
+  },
+  "3fdc53e51d352d96cb59e47a54cb31d3": {
+    "sequence": 586,
+    "notation": "nbRpqBrR/P6R/n6R/B6R/k6R/p6R/N6R/KrPqBRpR"
+  },
+  "d0858f61ffc0c7a82d1ae3e4d9da1cd0": {
+    "sequence": 960,
+    "notation": "qqNRKQnP/B6r/n6k/P2nn2Q/K2nn2b/b6R/R6K/pBnpkbNR"
+  },
+  "d8ed5b3eefddcb48222a6e8efb1e9e99": {
+    "sequence": 2996,
+    "notation": "RrBqpRnr/R6R/R6n/R6q/R6K/R6r/R6N/RnRkQNrn"
+  },
+  "e97a76c0b5553b37e9bedc36000ae86b": {
+    "sequence": 826,
+    "notation": "KqKrNQkp/q6R/N6b/r6Q/k6P/Q6r/n6N/nKRNqkrk"
+  },
+  "7c51d7b7c53874a3df70549074d98ef1": {
+    "sequence": 609,
+    "notation": "QQPrBqpR/b6R/R6R/p2BB2R/q2BB2R/B6R/r6R/bqBRpQbR"
+  },
+  "ed42e617ffb6eb5091929c3071899060": {
+    "sequence": 549,
+    "notation": "bkrNqKRR/K6P/R6n/n2nn2b/Q2nn2K/k6p/r6N/rqNRKQnk"
+  },
+  "bb66483b00879ef79da61f6f6369ac6e": {
+    "sequence": 2067,
+    "notation": "BPnBkrNK/K6q/q6K/n2bb2R/R2bb2n/k6Q/Q6k/rKbnPkBn"
+  },
+  "39f9819cc980bf428e27079db81a2424": {
+    "sequence": 3337,
+    "notation": "bkBRpQbr/B6r/n6N/p6Q/k6k/b6R/N6b/bNpkBnPQ"
+  },
+  "18ffdebaaeb6b1441674fa0b7ecf244a": {
+    "sequence": 3412,
+    "notation": "BbNpkBrB/n6q/R6p/k6r/Q6B/B6Q/r6P/nNrKqbRr"
+  },
+  "b297d3d0cec3e9180d757de56b21192f": {
+    "sequence": 465,
+    "notation": "rbRPQBrp/q6q/B6K/r2qq2r/P2qq2N/Q6Q/n6k/RRRRRRRR"
+  },
+  "e77a13f4f3f5c6714b63af50b16dc31f": {
+    "sequence": 625,
+    "notation": "kNbKPnBp/q6B/K6k/R2pp2p/n2pp2N/Q6b/k6K/kqNRKQbB"
+  },
+  "9a22e9f419ba2e0a366bb8fab71419cc": {
+    "sequence": 1070,
+    "notation": "RPKBnpkN/q6k/p6r/r6n/B6Q/Q6K/P6R/BQnRKqNb"
+  },
+  "9e7c1d55a2b09c1f90fb9cf2a025ccd4": {
+    "sequence": 3891,
+    "notation": "KRKQnrkN/P6Q/K6P/B6r/r6B/p6q/q6p/PBkPnbKr"
+  },
+  "dd6d883171703cd4f3e4522760a8ab45": {
+    "sequence": 2012,
+    "notation": "qKbNpqBK/N6B/q6r/k2qq2P/r2qq2Q/n6b/B6R/RrPQbRpN"
+  },
+  "a327ed27b02a92266728be23c9b3fe16": {
+    "sequence": 2743,
+    "notation": "BkQNrKqp/Q6R/b6p/R2pp2Q/p2pp2n/q6r/B6P/KKbNpkBq"
+  },
+  "8ae0958c044a2c014dae1411ce03746d": {
+    "sequence": 2487,
+    "notation": "RRKqBrPP/N6r/p6P/k2rr2q/B2rr2B/n6R/P6K/KNbKPnQb"
+  },
+  "467366a11dcbfd627881abd8e22c2d4d": {
+    "sequence": 461,
+    "notation": "rnPkBNpN/Q6P/k6Q/R6B/n6r/q6p/K6q/PQPRbkpq"
+  },
+  "8c3b5066cffb86e77b04ce919d8d6b77": {
+    "sequence": 1627,
+    "notation": "PnPKbRpR/b6q/Q6B/p2bb2R/R2bb2p/B6Q/q6b/nBnpkbNN"
+  },
+  "a8fd8bed6ca3047fcee38a363ef7ee79": {
+    "sequence": 584,
+    "notation": "RRRRRRRR/P6Q/K6b/b2pp2r/N2pp2P/p6q/k6B/pqNrkBnB"
+  },
+  "74615ab5b9dec7ae3708fd21a3eb6435": {
+    "sequence": 3955,
+    "notation": "bNbkpnBb/Q6k/n6B/R6n/K6P/b6K/N6b/BPQbRpqr"
+  },
+  "90368b0b542f2c864a87559c463bd294": {
+    "sequence": 3218,
+    "notation": "rpRBqkrN/P6r/Q6k/B2pp2q/r2pp2N/p6R/q6K/QnBkpNbK"
+  },
+  "99b9a24cfa2dc944124cf0a1ee6896ae": {
+    "sequence": 533,
+    "notation": "rNqKPnQk/k6K/r6P/n6n/Q6B/K6k/R6p/RpRbQPrp"
+  },
+  "187b649bdd9616e34588aa364057be36": {
+    "sequence": 4014,
+    "notation": "rqBRpQbn/r6n/B6Q/Q6k/P6r/R6N/b6q/bpNBkPnQ"
+  },
+  "c7b6d855309516620e66e837a54378bb": {
+    "sequence": 3822,
+    "notation": "RRbqprBK/B6k/q6p/P2nn2n/r2nn2B/b6K/Q6P/NRnqKrNR"
+  },
+  "617f98bec656429d95a141529e705ea0": {
+    "sequence": 40,
+    "notation": "rRnqprBR/K6k/b6B/n6n/P6P/q6Q/B6b/PnPKbRpk"
+  },
+  "44682cabb8ca2c33470df85def0980ee": {
+    "sequence": 438,
+    "notation": "BNrKqnRN/q6p/p6q/r2bb2B/B2bb2r/Q6P/P6Q/rbRPQBrp"
+  },
+  "9bc3243999f2442981a751aa11634697": {
+    "sequence": 4073,
+    "notation": "pkrNqpRK/N6q/q6B/P2nn2R/r2nn2K/b6Q/Q6b/kqKRnQkk"
+  },
+  "806575a0e323f4e63afeef9b3e526111": {
+    "sequence": 1451,
+    "notation": "BrBqpRbQ/n6b/R6R/k2BB2P/Q2BB2Q/N6N/r6r/qRpQbrPq"
+  },
+  "bd5f57af4ed9c5b47b0ecf5fed027672": {
+    "sequence": 839,
+    "notation": "KqpRbQPP/Q6Q/b6b/R2rr2R/p2rr2p/k6q/B6N/RBrpqnRK"
+  },
+  "d7889b152a51dd5735e3c70acf7aeb78": {
+    "sequence": 125,
+    "notation": "rbRPQBrn/K6q/q6p/N6R/r6b/k6Q/Q6P/bPQbRpqq"
+  },
+  "ce13f3ec651c6275986395975a5a5d70": {
+    "sequence": 3917,
+    "notation": "rnBKPNbN/k6Q/p6P/N2rr2r/b2rr2B/K6q/P6p/BRpQbrPr"
+  },
+  "3a3582fc820dc6bdac7cba7fab78d40b": {
+    "sequence": 1215,
+    "notation": "KPrbQpRb/B6N/n6b/P2nn2k/K2nn2p/b6n/N6B/bBkPnbKp"
+  },
+  "19b7f06c5bd45bc083c5b28de5fb5de9": {
+    "sequence": 3236,
+    "notation": "QpqBnPQb/n6p/R6q/k2qq2B/Q2qq2r/N6P/r6Q/PNqkrnQB"
+  },
+  "24e24caab66daf6dacdffbe904593bdb": {
+    "sequence": 1639,
+    "notation": "PkBNpKbK/b6q/Q6N/P6R/r6K/B6Q/q6n/qRKQnrkR"
+  },
+  "5ef1aace6027b84ce52c1e844ab617c7": {
+    "sequence": 3069,
+    "notation": "nbKPnBkb/p6B/k6k/b6P/N6n/P6b/K6K/kQkRnqKQ"
+  },
+  "1595f9dae1a6a54823056724d8437c95": {
+    "sequence": 4049,
+    "notation": "QBqpRbKP/b6N/Q6p/P6k/r6B/B6n/q6P/rPKBnpkK"
+  },
+  "93ec5febc267e3a1f90e3ef2dc111d9b": {
+    "sequence": 3057,
+    "notation": "RBrPQbRN/n6k/Q6B/K2kk2N/R2kk2p/N6K/q6b/RnBKPNbq"
+  },
+  "20965978243d158b91a4e52778ada03c": {
+    "sequence": 1322,
+    "notation": "rPrNqKRR/R6N/K6p/Q2bb2K/n2bb2b/r6r/P6P/rbQPrBqr"
+  },
+  "0c4a5fcee6056bbbb5bfbc876b80506a": {
+    "sequence": 697,
+    "notation": "KnQkrNqk/R6K/b6P/q6N/p6q/r6k/B6r/rBrpqbRb"
+  },
+  "d6fb5344cd5eea7eb4c974e0c2149836": {
+    "sequence": 2066,
+    "notation": "nqprBQPn/b6N/N6b/P6k/K6p/B6n/n6B/NNbkpnQk"
+  },
+  "9916bd4088210b57ae53b62daa58eca5": {
+    "sequence": 349,
+    "notation": "nqNRKQbr/n6N/P6b/K2nn2K/b2nn2P/N6r/r6B/PNqkrnQn"
+  },
+  "85ed336766e63e2657c04a247fa79158": {
+    "sequence": 622,
+    "notation": "qnBkpNbp/Q6r/k6P/R2pp2q/n2pp2N/q6R/K6p/rnQkrNqP"
+  },
+  "8ba97faab9433ef7e397f9c33cc0a040": {
+    "sequence": 2988,
+    "notation": "RNbkpnBn/q6q/p6B/r2PP2R/B2PP2K/Q6Q/P6n/bkpnBKPn"
+  },
+  "383d981c67cd816568d0e7d72a2ac6d8": {
+    "sequence": 2002,
+    "notation": "qKPNbqpB/b6N/Q6b/P6k/r6p/B6n/q6B/KnPKbRpK"
+  },
+  "337a9bc8de6906ff0e033e40314629e5": {
+    "sequence": 3575,
+    "notation": "NQkRnqKN/r6P/P6n/Q6b/b6K/R6p/K6N/RQkRnqKP"
+  },
+  "30b395557f028332d19c5e4e2e13e5f4": {
+    "sequence": 1873,
+    "notation": "kRpQbrPk/p6p/q6k/B6Q/r6n/P6P/Q6K/rKRNqkrR"
+  },
+  "a6f0f849f02e845ffaf7a07de1e3681c": {
+    "sequence": 2781,
+    "notation": "ppkBnPKN/r6B/B6q/q2nn2p/p2nn2R/R6b/b6Q/nrBqKRbb"
+  },
+  "d1883161520165183b6c957382fef481": {
+    "sequence": 136,
+    "notation": "RPrbQpRk/K6P/R6Q/N6b/q6R/k6K/r6q/qBrPQbRR"
+  },
+  "4fe2c3cc1dd40da597aebf99cc3c74f2": {
+    "sequence": 846,
+    "notation": "kRnQkrNK/B6k/k6p/P2nn2N/n2nn2b/b6K/K6P/rQPrBqpP"
+  },
+  "ae190bd6967ed6a200c75b546cbe18d0": {
+    "sequence": 146,
+    "notation": "RpRBkPrP/B6q/n6K/P2bb2r/K2bb2N/b6Q/N6k/qkpNbKPN"
+  },
+  "dffb326265843beb4bec6f08b29b5435": {
+    "sequence": 578,
+    "notation": "KQkpNqKN/k6K/B6b/n6N/P6p/K6k/b6B/RpRnQkrr"
+  },
+  "16a7ad83a2be5992d3a166863671c427": {
+    "sequence": 91,
+    "notation": "NqNRKQbb/K6B/b6r/N2PP2P/r2PP2Q/k6b/B6R/RBrpqbRK"
+  },
+  "12f8ec2dbefbe524be54c35fd161f640": {
+    "sequence": 3046,
+    "notation": "PnBKPRbq/r6Q/k6b/q2qq2N/N2qq2p/R6k/K6B/BQbrPqBr"
+  },
+  "318256ec5800412bb0b25acada8cccac": {
+    "sequence": 1314,
+    "notation": "NkQnRKqN/P6b/r6N/b6p/K6k/p6B/N6n/rBkPnbKn"
+  },
+  "73a4dc68d53b3415226f8c99900aa87d": {
+    "sequence": 3783,
+    "notation": "nPQBrpqk/B6q/k6K/P6R/n6n/b6Q/K6k/BrPqBRpk"
+  },
+  "cc8400609ca47ea1174f26030c394b86": {
+    "sequence": 3653,
+    "notation": "brPqNRKq/N6P/q6n/k6b/r6K/n6p/Q6N/rqKrNQkQ"
+  },
+  "deca63f4ff6a7b6127029401748d09ae": {
+    "sequence": 2568,
+    "notation": "PpkbNPKP/R6b/p6Q/q2PP2P/B2PP2r/r6B/P6q/PKPnBkpP"
+  },
+  "a1cd83f647d436726362714451770607": {
+    "sequence": 141,
+    "notation": "RbQPrBqq/k6B/p6r/n6p/B6q/Q6b/P6R/qbNPQBrB"
+  },
+  "cb60365df1e9f1d40926b25d1fea2bf6": {
+    "sequence": 2929,
+    "notation": "qPQbRpqq/R6k/K6B/q2rr2N/N2rr2p/r6K/k6b/kqBRpKnp"
+  },
+  "2d385837a27482f7e0f7012f6dbf9387": {
+    "sequence": 485,
+    "notation": "RRpQbrPK/k6P/p6Q/n6b/B6R/K6p/R6q/RRbQPnBK"
+  },
+  "3a42f606c224f4db9ee090e2fbff62f3": {
+    "sequence": 1415,
+    "notation": "bNrKqnPR/N6q/p6K/K6R/b6n/n6Q/P6P/RNpkBnPb"
+  },
+  "daad40f39428efaee51268903fcaf8d0": {
+    "sequence": 1695,
+    "notation": "pNbKPnBK/K6K/R6R/B6B/q6q/P6k/r6r/NPrbQpRK"
+  },
+  "84effcded768bb85ded026156621b9aa": {
+    "sequence": 1374,
+    "notation": "kRKqNrkN/Q6k/P6r/r2pp2N/B2pp2q/q6p/p6R/pqKrNQkq"
+  },
+  "5dc81e99675722c598ca1aa9ba3a21f7": {
+    "sequence": 976,
+    "notation": "bQbrPqNP/N6b/r6N/K2rr2r/q2rr2k/b6B/R6n/QPQBrpkK"
+  },
+  "87a7df1bbbb1665f8eff81f018390b3f": {
+    "sequence": 63,
+    "notation": "RkBnPKbn/Q6P/k6r/R6b/n6Q/q6p/K6R/BkrNbKRb"
+  },
+  "a1e00d99e9c696717b150d821fb44c97": {
+    "sequence": 723,
+    "notation": "QqBrPKbB/b6q/Q6N/p6R/R6K/B6Q/q6n/krkQnRKr"
+  },
+  "3ded1d6831419612e6a2ceca3183d39c": {
+    "sequence": 397,
+    "notation": "PqKRnQkR/Q6Q/n6b/r6r/k6P/q6q/N6B/KNrkQnRK"
+  },
+  "5553cf9b94afddae3693bd0f9e70d262": {
+    "sequence": 1152,
+    "notation": "RbKpNBkQ/p6b/q6N/B6P/r6K/P6B/Q6n/BqBrPQbn"
+  },
+  "b9a43ff681c68b5b80d1fdfa8832999a": {
+    "sequence": 2664,
+    "notation": "QPrbQpRr/P6B/r6r/N2rr2P/q2rr2Q/p6b/R6R/KkpNbKPq"
+  },
+  "5a388cadb2f3377f5efdfb8f09ab365e": {
+    "sequence": 1131,
+    "notation": "nbQPrBqQ/r6Q/k6b/Q6r/n6P/R6q/p6B/qpkBnPKp"
+  },
+  "7d0b1a7de93414cfb6d080ae266aa4df": {
+    "sequence": 2936,
+    "notation": "RpRbQPrK/n6k/P6p/K6N/b6b/N6Q/p6P/kQbRpqBq"
+  },
+  "df2cbac18797c8696f6ea65f3f977a25": {
+    "sequence": 3349,
+    "notation": "RbKrNQkp/k6P/r6Q/n2BB2N/Q2BB2r/K6K/R6q/rpqbRPQR"
+  },
+  "b843ba7d527e189f269866cb66c862e6": {
+    "sequence": 606,
+    "notation": "qPKbNpkQ/r6B/N6n/Q2nn2p/k2nn2k/R6b/n6N/NbKPnBkq"
+  },
+  "dda407d658b9e7e01ae53ae01bd00eef": {
+    "sequence": 3006,
+    "notation": "qQPRbqpN/P6K/K6R/b6n/N6Q/p6k/k6r/QNrkQnRQ"
+  },
+  "df91e7d5676128afe54677bcbb3e8d4f": {
+    "sequence": 1917,
+    "notation": "qQPRbqpR/B6K/n6P/p2bb2N/q2bb2q/b6k/N6p/BBnPKbNQ"
+  },
+  "28a48ec35cd6a0717e1089f76d199166": {
+    "sequence": 1458,
+    "notation": "pPnbKpNb/P6K/r6q/B2pp2N/q2pp2r/p6k/R6Q/kPQBrpqR"
+  },
+  "580200816efac646607f3dea5c35953f": {
+    "sequence": 2338,
+    "notation": "npqbRPQq/r6B/k6k/b2nn2p/N2nn2N/P6q/K6K/kPQbNpqq"
+  },
+  "fc0e2421a336494959a2bfb228ce480d": {
+    "sequence": 3614,
+    "notation": "RBnpkbNb/Q6Q/n6n/R6r/K6k/q6q/N6N/QnPKbNpr"
+  },
+  "e51a508fbd91fe4ad78175bad8409071": {
+    "sequence": 3951,
+    "notation": "nqBRpQbq/b6N/K6b/p2rr2k/N2rr2p/B6n/k6B/bqKrNQkN"
+  },
+  "65ae4659f39f6bdec9108af99ddb3bb2": {
+    "sequence": 3976,
+    "notation": "kkBnPKbn/p6k/k6Q/B6N/n6r/P6K/K6q/bnQKRBqN"
+  },
+  "b5a2df59d0322008118c0c662455993e": {
+    "sequence": 2634,
+    "notation": "RrkqNRKq/q6R/K6p/R6Q/n6b/Q6r/P6P/bnBkpNbP"
+  },
+  "efc1d6dab8d3a253d296344147cdca0f": {
+    "sequence": 256,
+    "notation": "rNqPrnQN/r6n/N6R/Q6p/k6q/R6N/b6r/PPKBnpkp"
+  },
+  "b3f03fa4b768bfb1b9842ce5f451d15d": {
+    "sequence": 1226,
+    "notation": "pPKbNpqP/b6r/K6B/P6q/n6p/B6R/k6b/KPnBkpNn"
+  },
+  "e0b6acd2bb3fae2882b732b4b06d4b27": {
+    "sequence": 1870,
+    "notation": "BNrkQnRb/k6k/Q6p/n6N/R6b/K6K/q6R/pqBRpKbN"
+  },
+  "5899909eea3a11a34955cc7f61d604dd": {
+    "sequence": 2507,
+    "notation": "RPrbKpRp/b6K/R6b/p2pp2N/q2pp2p/B6k/r6B/KRnQkrNP"
+  },
+  "bc7b3449b4e8efef6b62167da420fbba": {
+    "sequence": 431,
+    "notation": "pqNrkQnR/K6Q/q6b/n2PP2R/R2PP2p/k6q/Q6B/pNrkQnRn"
+  },
+  "56900888b4eeb7f6f0acf877b66be1bc": {
+    "sequence": 3085,
+    "notation": "qRpQbrPB/Q6B/b6k/r6R/P6n/q6b/B6K/RPnBkpNp"
+  },
+  "0fe0541adb311b1eab3a98d38b7f8eb8": {
+    "sequence": 1647,
+    "notation": "PQkrNbKn/P6n/K6B/B2rr2k/n2rr2p/p6N/k6b/PKRNqkrB"
+  },
+  "a4d8f0cd02a3317b433525ec95d7542f": {
+    "sequence": 2692,
+    "notation": "RRRRRRRR/R6p/R6k/R2pp2B/R2pp2n/R6R/R6K/RpqBrPQn"
+  },
+  "43d705b2da21ffdb8816d3081f07ce15": {
+    "sequence": 533,
+    "notation": "rNqKPnQk/k6K/r6P/n6n/Q6B/K6k/R6p/RpRbQPrp"
+  },
+  "2d101e92116400a4ae12c844cebdeeb9": {
+    "sequence": 3269,
+    "notation": "NNqKRnQr/n6B/B6q/K6p/P6R/R6b/b6Q/PnRkQNrp"
+  },
+  "fb0998714dfcf3925bcbcd4cbb5d3ad8": {
+    "sequence": 1291,
+    "notation": "bpRbQPrq/R6B/b6n/Q6P/P6K/r6b/B6N/bkpNbKPQ"
+  },
+  "17386b9c429b9818a6f52c977e7bfb96": {
+    "sequence": 87,
+    "notation": "bqpRnQPp/P6k/r6Q/b6n/Q6R/K6K/R6q/brPqNRKq"
+  },
+  "8db1d1a00d7c333e6419434132fae44f": {
+    "sequence": 2229,
+    "notation": "pkpNbKPQ/r6R/N6n/q2NN2Q/K2NN2k/R6r/n6N/RRRRRRRR"
+  },
+  "6e9845da447089442dbcb4631dfca2c4": {
+    "sequence": 4077,
+    "notation": "KqKrNQkk/P6B/r6n/b6P/Q6K/p6b/R6N/knBKPNbB"
+  },
+  "f6845454b47b882d7b64ea64ccf91097": {
+    "sequence": 1773,
+    "notation": "kpRbQPrb/q6B/B6r/r6p/P6q/Q6b/b6R/qkrnQKRQ"
+  },
+  "b521836e63513ab13bcbb364902eb66e": {
+    "sequence": 263,
+    "notation": "PpRBqPrQ/b6K/R6R/p2pp2N/k2pp2q/B6k/r6r/bQbRpqBB"
+  },
+  "0838658c033ce0e75470ad07f45acc0d": {
+    "sequence": 2942,
+    "notation": "NNqkrnQK/B6R/q6n/p2rr2Q/R2rr2k/b6r/Q6N/bbQpRBqn"
+  },
+  "c8372ea22e9b5ba9cc7730082e62fa65": {
+    "sequence": 452,
+    "notation": "KqNRKQnr/N6P/b6Q/k2BB2b/p2BB2R/n6K/B6q/RbQpRBqn"
+  },
+  "383d4053423e627e5abe7655a8ca4e31": {
+    "sequence": 1681,
+    "notation": "bpqBrkQr/b6k/Q6r/p6N/R6q/B6K/q6R/qbNPKBnK"
+  },
+  "d50b9762e61e28efe3ae6f4f359a64ef": {
+    "sequence": 2297,
+    "notation": "rrNqKRnp/p6P/R6Q/B2nn2b/q2nn2R/P6p/n6q/KkrnQKRq"
+  },
+  "04d693eae197635f687997391972a7ea": {
+    "sequence": 69,
+    "notation": "BnPkBNpB/N6n/p6Q/k2NN2K/B2NN2R/n6N/P6q/NbRkQNrn"
+  },
+  "0d65ef7629e71db56a492eaf103c22e4": {
+    "sequence": 2881,
+    "notation": "BbNpkBrP/p6n/R6Q/B6K/k6R/P6N/n6q/qKbnPkQr"
+  },
+  "21db4b882a95f56dac1e4f4415cc7233": {
+    "sequence": 506,
+    "notation": "rPKBnpkK/K6q/b6K/n6r/P6N/k6Q/B6k/KnRkQNrq"
+  },
+  "077a61a822f0875ed2157784b242ccbb": {
+    "sequence": 1245,
+    "notation": "QRnqKrNQ/R6P/K6Q/q6B/N6r/r6p/k6q/nKbnPqBr"
+  },
+  "28d1fcd901961d1d3fefe87784fbc002": {
+    "sequence": 3887,
+    "notation": "nQkrNqKK/n6Q/P6b/k6r/B6P/N6q/p6B/KnBkpNbp"
+  },
+  "f8c995b3b03e185ea8476e24a41720be": {
+    "sequence": 455,
+    "notation": "RPrbKpRb/k6q/Q6p/N6R/r6b/K6Q/q6P/RNpkBnPB"
+  },
+  "ccac88064cc4d3a3576921096c07cffa": {
+    "sequence": 1497,
+    "notation": "pNbkpnBK/k6k/Q6r/b2rr2N/R2rr2q/p6K/q6R/RRRRRRRR"
+  },
+  "c293d661b2ef71b793f4c2186760d3c2": {
+    "sequence": 669,
+    "notation": "QRnqKrBp/K6k/P6r/N6n/b6Q/k6K/p6R/RRbQPnBK"
+  },
+  "b2813c8eccb070c600629fa77212fa8e": {
+    "sequence": 770,
+    "notation": "BKqBrkQk/q6K/p6q/R6N/n6r/Q6k/k6Q/kkBNpKbn"
+  },
+  "772f60ad4aeb271d2c07862e25f21fc6": {
+    "sequence": 406,
+    "notation": "pBqPrbQb/K6N/P6q/N6K/b6R/k6n/p6Q/RQnrkqNp"
+  },
+  "8d8d002b14a458124a391e54ff27fa51": {
+    "sequence": 1671,
+    "notation": "nqNrkQnN/N6q/p6N/k6r/B6P/n6Q/P6b/PbNPKBnq"
+  },
+  "2afd02a8abdac460d0d961c0462c1f5a": {
+    "sequence": 306,
+    "notation": "rKbNpkBK/Q6B/k6n/R2RR2P/n2RR2K/b6b/K6N/KbNPKBnR"
+  },
+  "2f5e4355a7d8f7f7a67377962ebe4217": {
+    "sequence": 4023,
+    "notation": "rkQnRKqB/K6N/q6p/N2nn2k/r2nn2B/k6n/Q6P/kpkbNPKN"
+  },
+  "d16783736c7cf03e4b76a744f9fc95cb": {
+    "sequence": 3482,
+    "notation": "nkQNrKqp/R6r/n6k/Q6Q/k6n/r6R/N6K/KQbRpqBp"
+  },
+  "2717128121ee66745b46388c7067e4a8": {
+    "sequence": 2567,
+    "notation": "qqKrNQkb/p6q/N6K/b6R/K6n/R6Q/n6k/kbQpRBqq"
+  },
+  "35a751d2b4927701e8f76eedf09766f4": {
+    "sequence": 1364,
+    "notation": "PrNqKRnq/P6k/n6B/b6N/K6p/p6K/N6b/rrBQPRbq"
+  },
+  "2b1589b449fecf65ecb4868a3737625d": {
+    "sequence": 2175,
+    "notation": "PpqBrPQB/q6q/K6N/r2pp2R/N2pp2K/Q6Q/k6n/NQPRbqKK"
+  },
+  "1be441a7753a97c707d12223a4366612": {
+    "sequence": 2048,
+    "notation": "RKbrPqBP/n6Q/P6P/K6r/b6B/N6q/p6p/knBkpNbN"
+  },
+  "8931c1abf70492374c7f2c14d622a6b4": {
+    "sequence": 3353,
+    "notation": "BqBRpQbk/Q6b/b6Q/R6P/p6r/q6B/B6q/PbQPrBqk"
+  },
+  "afa7d6ead471749c726365a87b128355": {
+    "sequence": 3205,
+    "notation": "RNbKPrBp/K6B/b6n/n6P/P6K/k6b/B6N/QnRkQNrR"
+  },
+  "3e20f0f1d9ef673437a49f25edd8a869": {
+    "sequence": 1716,
+    "notation": "PNqkrnQP/K6R/q6n/n2NN2q/R2NN2K/P6p/Q6N/RkQnRKqB"
+  },
+  "70d8b6c2d8219b5f9621f7deaaf1b1f9": {
+    "sequence": 1380,
+    "notation": "KpNbKPrN/Q6P/n6r/r2pp2B/k2pp2q/q6p/N6R/KrBqpRbR"
+  },
+  "cb9ce97e59d936516ca4d43f01e85886": {
+    "sequence": 2613,
+    "notation": "nNpKbnPR/K6R/b6n/N2pp2q/p2pp2K/k6r/B6N/KbRpqBrQ"
+  }
+}
