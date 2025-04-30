@@ -1,5 +1,5 @@
 use serde::{Deserialize, Serialize};
-use std::collections::HashMap;
+use std::{collections::HashMap, error::Error};
 use tokio::fs;
 
 #[derive(Debug, Deserialize)]
@@ -16,11 +16,30 @@ struct OutputEntry {
 }
 
 #[tokio::main]
-async fn main() -> Result<(), Box<dyn std::error::Error>> {
+async fn main() -> Result<(), Box<dyn Error>> {
+    // List your URLs and a short name for each
+    let sources = vec![
+        ("https://tjl.co/queens-gambit-arg/data-verified.json", "verified"),
+        ("https://tjl.co/queens-gambit-arg/data.json","unverified"),
+    ];
 
+    // Make sure the root output dir exists
     fs::create_dir_all("output").await?;
 
-    let url = "https://tjl.co/queens-gambit-arg/data-verified.json";
+    // Process each URL into its own subfolder
+    for (url, name) in sources {
+        let out_base = format!("output/{}", name);
+        process_url(url, &out_base).await?;
+    }
+
+    println!("All done!");
+    Ok(())
+}
+
+async fn process_url(url: &str,out_base: &str) -> Result<(), Box<dyn Error>> {
+    
+    fs::create_dir_all(out_base).await?;
+
     let data: HashMap<String, Entry> = reqwest::get(url)
         .await?
         .json()
@@ -32,12 +51,16 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let mut light_gray   = HashMap::<u64, String>::new();
     let mut dark_red     = HashMap::<u64, String>::new();
     let mut light_red    = HashMap::<u64, String>::new();
-    let mut rook_edge     = HashMap::<u64, String>::new();
-    let mut center_map    = HashMap::<String, HashMap<u64, String>>::new();
+    let mut rook_edge    = HashMap::<u64, String>::new();
+    let mut center_map   = HashMap::<String, HashMap<u64, String>>::new();
 
     for (uuid, entry) in data {
         let fen = symbols_to_fen(&entry.symbols);
-        by_uuid.insert(uuid.clone(), OutputEntry { sequence: entry.sequence, notation: fen.clone() });
+
+        by_uuid.insert(
+            uuid.clone(),
+            OutputEntry { sequence: entry.sequence, notation: fen.clone() }
+        );
         by_sequence.insert(entry.sequence, fen.clone());
 
         match entry.fill.as_str() {
@@ -50,9 +73,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
         let top_edge    = entry.symbols[0].iter().all(|sq| sq.as_deref() == Some("Rw"));
         let bottom_edge = entry.symbols[7].iter().all(|sq| sq.as_deref() == Some("Rw"));
-        let left_edge   = (0..8).all(|r| entry.symbols[r][0].as_deref() == Some("Rw"));
-        let right_edge  = (0..8).all(|r| entry.symbols[r][7].as_deref() == Some("Rw"));
-
+        let left_edge   = (0..8).all(|r| entry.symbols[r][0].as_deref()      == Some("Rw"));
+        let right_edge  = (0..8).all(|r| entry.symbols[r][7].as_deref()      == Some("Rw"));
         if top_edge || bottom_edge || left_edge || right_edge {
             rook_edge.insert(entry.sequence, fen.clone());
         }
@@ -73,28 +95,34 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         }
     }
 
-    let mut reds  = dark_red.clone();
-    reds.extend(light_red.clone());
-    let mut grays = dark_gray.clone();
-    grays.extend(light_gray.clone());
+    let mut reds  = dark_red.clone();  reds.extend(light_red.clone());
+    let mut grays = dark_gray.clone(); grays.extend(light_gray.clone());
 
-    fs::write("output/output.json",        serde_json::to_string_pretty(&by_uuid)?).await?;
-    fs::write("output/sequence_map.json",  serde_json::to_string_pretty(&by_sequence)?).await?;
-    fs::write("output/darkGray.json",      serde_json::to_string_pretty(&dark_gray)?).await?;
-    fs::write("output/lightGray.json",     serde_json::to_string_pretty(&light_gray)?).await?;
-    fs::write("output/darkRed.json",       serde_json::to_string_pretty(&dark_red)?).await?;
-    fs::write("output/lightRed.json",      serde_json::to_string_pretty(&light_red)?).await?;
-    fs::write("output/reds.json",          serde_json::to_string_pretty(&reds)?).await?;
-    fs::write("output/grays.json",         serde_json::to_string_pretty(&grays)?).await?;
-    fs::write("output/rook_edge.json",     serde_json::to_string_pretty(&rook_edge)?).await?;
+    fs::write(format!("{}/output.json",        out_base),
+              serde_json::to_string_pretty(&by_uuid)?).await?;
+    fs::write(format!("{}/sequence_map.json",  out_base),
+              serde_json::to_string_pretty(&by_sequence)?).await?;
+    fs::write(format!("{}/darkGray.json",      out_base),
+              serde_json::to_string_pretty(&dark_gray)?).await?;
+    fs::write(format!("{}/lightGray.json",     out_base),
+              serde_json::to_string_pretty(&light_gray)?).await?;
+    fs::write(format!("{}/darkRed.json",       out_base),
+              serde_json::to_string_pretty(&dark_red)?).await?;
+    fs::write(format!("{}/lightRed.json",      out_base),
+              serde_json::to_string_pretty(&light_red)?).await?;
+    fs::write(format!("{}/reds.json",          out_base),
+              serde_json::to_string_pretty(&reds)?).await?;
+    fs::write(format!("{}/grays.json",         out_base),
+              serde_json::to_string_pretty(&grays)?).await?;
+    fs::write(format!("{}/rook_edge.json",     out_base),
+              serde_json::to_string_pretty(&rook_edge)?).await?;
 
     for (piece, map) in center_map {
-        let filename = format!("output/center_{}.json", piece);
+        let filename = format!("{}/center_{}.json", out_base, piece);
         fs::write(&filename, serde_json::to_string_pretty(&map)?).await?;
     }
 
-    println!("All files written into ./output/");
-
+    println!("Written all files for `{}` into `{}`", url, out_base);
     Ok(())
 }
 
